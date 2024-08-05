@@ -129,8 +129,8 @@ Deploy both frontend and backend using Vercel or any other preferred platform.
 
 ## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request.
+Contributions are welcome! (depends !!)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+iska nahi pata

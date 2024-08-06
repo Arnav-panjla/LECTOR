@@ -28,9 +28,9 @@ PRISM is an AI-driven educational platform designed to enhance the learning expe
 - **Frontend**: React.js
 - **Backend**: Python
 - **Speech-to-Text**: OpenAI Whisper
-- **NLP and AI**: Hugging Face Transformers, TensorFlow, or PyTorch
-- **Database**: PostgreSQL (Relational) and MongoDB (NoSQL)
-- **Authentication**: NextAuth.js or Firebase Auth
+- **NLP and AI**: 
+- **Database**: 
+- **Authentication**: 
 - **Deployment**: Vercel (Frontend and Backend), AWS for AI models
 - **Version Control**: Git and GitHub
 
@@ -61,8 +61,18 @@ download dependencies
 flask
 whisper
 torch
-
 */
+python3 -m venv venv
+source venv/bin/activate 
+*/ windows
+.\venv/Scripts/activate\
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+source venv/bin/activate
+*/
+pip install flask whisper openai
+pip install torch
+
+
 ```
 
 ### 3. Configure Environment Variables
@@ -70,7 +80,6 @@ torch
 Create a `.env` file in the backend directory to store API keys and other sensitive information.
 
 ```plaintext
-GOOGLE_CLOUD_SPEECH_API_KEY=your-google-cloud-api-key
 DATABASE_URL=your-database-connection-string
 NEXTAUTH_URL=your-authentication-url
 ```
@@ -80,13 +89,13 @@ NEXTAUTH_URL=your-authentication-url
 #### Frontend
 
 ```bash
-npm start
+npm run dev
 ```
 
 #### Backend
 
 ```bash
-npm run dev
+pata nahi abhi
 ```
 
 ### 5. Deploy the Application

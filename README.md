@@ -26,8 +26,8 @@ PRISM is an AI-driven educational platform designed to enhance the learning expe
 ## Technologies Used
 
 - **Frontend**: React.js
-- **Backend**: Next.js (Node.js)
-- **Speech-to-Text**: Google Cloud Speech-to-Text API (or OpenAI Whisper)
+- **Backend**: Python
+- **Speech-to-Text**: OpenAI Whisper
 - **NLP and AI**: Hugging Face Transformers, TensorFlow, or PyTorch
 - **Database**: PostgreSQL (Relational) and MongoDB (NoSQL)
 - **Authentication**: NextAuth.js or Firebase Auth
@@ -52,11 +52,17 @@ cd frontend
 npm install
 ```
 
-#### Backend (Next.js)
+#### Backend (Python)
 
 ```bash
 cd backend
-npm install
+*/setup virtual environment 
+download dependencies 
+flask
+whisper
+torch
+
+*/
 ```
 
 ### 3. Configure Environment Variables

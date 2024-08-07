@@ -1,6 +1,8 @@
 import os
 from pydub import AudioSegment
 
+start_time_sec = 40
+
 def is_already_processed(filename, output_dir):
     base_name = os.path.splitext(filename)[0]
     print(base_name)
@@ -19,7 +21,7 @@ def split_audio(file_path, output_dir):
     part_duration = 30 * 60 * 1000  # 30 minutes in milliseconds
     
     parts = []
-    for i in range(40000, duration, part_duration):
+    for i in range(start_time_sec * 1000, duration, part_duration):
         part = audio[i:i + part_duration]
         parts.append(part)
         

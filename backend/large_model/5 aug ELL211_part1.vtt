@@ -1,0 +1,1565 @@
+WEBVTT
+
+00:00.000 --> 00:08.620
+Okay. So packaging and the fact that it
+
+00:08.620 --> 00:16.760
+is the highest value in some sense,
+
+00:16.760 --> 00:22.720
+what we are teaching in this class is
+
+00:22.720 --> 00:24.600
+only what I would call
+
+00:24.600 --> 00:27.980
+20 percent of the overall amount of materials.
+
+00:27.980 --> 00:31.220
+This is not to say that this is just
+
+00:31.220 --> 00:37.140
+some pre-designed bug that we just use as a standard package.
+
+00:37.960 --> 00:43.420
+Packaging is used to be considered like an art in itself,
+
+00:43.420 --> 00:47.980
+but now increasingly because of the heat issues,
+
+00:47.980 --> 00:50.260
+people no longer speak about
+
+00:50.260 --> 00:52.780
+integrated software in the package separately.
+
+00:52.780 --> 00:56.360
+Instead, they talk about packaging of systems.
+
+00:56.480 --> 00:57.980
+That means that
+
+00:57.980 --> 01:04.380
+heat core design or thermal core design has to be a part of the IC design process itself.
+
+01:04.380 --> 01:07.300
+Unfortunately, as far as I know,
+
+01:07.300 --> 01:11.340
+only one course in any of the IITs in India,
+
+01:11.340 --> 01:15.960
+IIT Bombay, actually teaches IC design in that way.
+
+01:15.960 --> 01:19.500
+Even our VLSI design program over here,
+
+01:19.500 --> 01:22.840
+talks about IC design in isolation more or less.
+
+01:22.840 --> 01:25.960
+It doesn't make all the grammars. Can I help you?
+
+01:25.960 --> 01:26.960
+Yes, please.
+
+01:26.960 --> 01:27.960
+Okay.
+
+01:27.980 --> 01:31.260
+See, if you can send all the stuff together at one point,
+
+01:31.260 --> 01:32.060
+I'll be able to help you.
+
+01:32.060 --> 01:34.440
+But if you keep coming every five minutes to interrupt me,
+
+01:34.440 --> 01:35.440
+that's not really the problem.
+
+01:35.440 --> 01:37.540
+Please, please, please don't.
+
+01:38.560 --> 01:46.540
+So, the issue is that this kind of
+
+01:46.540 --> 01:49.480
+fragmented knowledge forces people to take
+
+01:49.480 --> 01:53.460
+electives in domains that they don't consider their own.
+
+01:53.460 --> 01:56.860
+For instance, mechanical engineering has a big input here because heat transfer is
+
+01:56.860 --> 01:57.940
+a central part of
+
+01:57.980 --> 01:59.220
+that study.
+
+01:59.220 --> 02:05.520
+As a part of the ISN-India's Immigration Commission,
+
+02:05.520 --> 02:08.340
+the most publicly publicized part of this is
+
+02:08.340 --> 02:11.100
+for me and I, could probably participate in initiative.
+
+02:11.100 --> 02:15.880
+Which can also be a part of .
+
+02:15.880 --> 02:22.880
+So, one of the lift well know concepts,
+
+02:22.880 --> 02:24.980
+they have a lot of people going there.
+
+02:24.980 --> 02:26.040
+I will try to figure out something out for you.
+
+02:26.040 --> 02:26.660
+They remain at least one guysbelen beras in compliance with theceeding.
+
+02:26.660 --> 02:26.920
+I would like to ask you that question recordings there.
+
+02:26.920 --> 02:26.980
+Yes. Yes. Yes. Yes. No problem.
+
+02:26.980 --> 02:27.040
+Okay. Thank you.
+
+02:27.040 --> 02:27.060
+Yes.
+
+02:27.080 --> 02:27.220
+Yes Puwał...
+
+02:27.220 --> 02:27.240
+Yes. Yes. Yes. Yes followed by the Infrastructure Again.
+
+02:27.240 --> 02:27.620
+Okay. Yes. Yes. Yes. Uh...black background and one of the rest publications
+
+02:27.620 --> 02:27.780
+who is actually going there too?
+
+02:27.780 --> 02:37.780
+I know parts of activism are even in the whole education system when it comes to this part of technology research and development.
+
+02:37.780 --> 02:46.780
+And there, certain new VTech or MTech programs are going to be offered in a few years,
+
+02:46.780 --> 02:51.780
+which are entirely geared about taking elements of various traditional practices of engineering
+
+02:51.780 --> 02:57.780
+and offering them as, you know, semiconductor devices or something like that.
+
+02:57.780 --> 03:04.780
+So this packaging issue is not just something that you can learn later on your own.
+
+03:04.780 --> 03:10.780
+I recommend that if you are interested in going into this field, start looking for corresponding electives,
+
+03:10.780 --> 03:15.780
+because you will not have the time to learn heat transfer from scratch after you've completed your VTech,
+
+03:15.780 --> 03:20.780
+or you're late into your MTech, etc. It's just one of the matters.
+
+03:20.780 --> 03:21.780
+Then we shall come back to this.
+
+03:21.780 --> 03:24.780
+We'll start it, resume our discussion.
+
+03:24.780 --> 03:26.780
+This part was prompted by a student question.
+
+03:26.780 --> 03:34.780
+But then we resume our discussion on what happens to carrier wave functions in various kinds of materials,
+
+03:34.780 --> 03:39.780
+starting from the understanding that only in a perfectly periodic crystal do you have black-hot scattering.
+
+03:39.780 --> 03:43.780
+In any room temperature case, you will not have a perfect crystal.
+
+03:43.780 --> 03:50.780
+You will have vibrations, which give rise to virtual particles known as phonons.
+
+03:50.780 --> 03:56.780
+In a second quantization sense, interact with carriers, and that leads to scattering.
+
+03:56.780 --> 04:06.780
+We defined an R-space, which is easy enough to understand, in one dimension, two dimensions, and three dimensions.
+
+04:06.780 --> 04:12.780
+But there is a dual space to that, which arises from Fourier transforms, which is also periodic.
+
+04:12.780 --> 04:19.780
+And if you are starting in the Bravais lattice, one of those 14 lattices,
+
+04:19.780 --> 04:24.780
+then its dual space is known as a reciprocal lattice.
+
+04:24.780 --> 04:28.780
+And the reciprocal lattice is guaranteed to be also a Bravais lattice.
+
+04:28.780 --> 04:34.780
+Of course, there is no guarantee that Bravais lattice A maps into reciprocal lattice A.
+
+04:34.780 --> 04:42.780
+It could be B, where B is also a set of initial Bravais lattices that we started with.
+
+04:42.780 --> 04:44.780
+Then we had a simple class problem.
+
+04:44.780 --> 04:48.780
+We defined planes, classes of planes.
+
+04:48.780 --> 04:53.780
+We defined families of planes which are parallel to each other, or depending upon the nature of symmetry.
+
+04:53.780 --> 04:57.780
+They may even be orthogonal, but they have the same symmetry in that direction.
+
+04:57.780 --> 05:05.780
+The practical influence of understanding of planes is that it allows you to
+
+05:05.780 --> 05:11.780
+please wafers without actually shattering them and losing a lot of material,
+
+05:11.780 --> 05:17.780
+and also causing edge issues, because you want to use the entire real estate as much as possible.
+
+05:17.780 --> 05:20.780
+We defined waferents in real space, corresponding to that,
+
+05:20.780 --> 05:25.780
+because of the relationship between the periodicity r and the periodicity k,
+
+05:25.780 --> 05:32.780
+is that if ikr, essentially, is equal to a constant, or 1, depending on your normalization,
+
+05:32.780 --> 05:35.780
+is also a waferent.
+
+05:35.780 --> 05:37.780
+So if r is a waferent, k is also a waferent.
+
+05:37.780 --> 05:40.780
+That's the property of plane waves.
+
+05:40.780 --> 05:46.780
+Then we formally defined the reciprocal lattice, and we expanded on the Fourier part.
+
+05:47.780 --> 05:51.780
+Let's today connect this more to crystallography.
+
+05:51.780 --> 05:55.780
+You've all seen Miller's analysis? Have you?
+
+05:55.780 --> 05:57.780
+No.
+
+05:57.780 --> 06:03.780
+So those of you who did coordinate geometry, and I think it was all of you in 11th grade,
+
+06:03.780 --> 06:07.780
+you know how to write down the equation of a plane, right?
+
+06:07.780 --> 06:13.780
+One of the canonical forms of the equation of a plane is a dot n equal to a constant, right?
+
+06:13.780 --> 06:16.780
+Which is also the biggest discussion.
+
+06:17.780 --> 06:23.780
+So, Miller indices, in that sense, are an exercise in finding the normal to the plane.
+
+06:23.780 --> 06:27.780
+As long as you can write the normal to the plane, which is the equation of the plane effectively,
+
+06:27.780 --> 06:30.780
+you can figure out where the indices are.
+
+06:30.780 --> 06:37.780
+So, the area vector for a plane is picked to be parallel to the shortest reciprocal lattice vector.
+
+06:37.780 --> 06:45.780
+So notice that, in coordinate geometry, the direction that is perpendicular to the plane is also in r3.
+
+06:45.780 --> 06:46.780
+Right?
+
+06:46.780 --> 06:50.780
+So, if you're starting with a plane arbitrarily oriented in r3,
+
+06:50.780 --> 06:53.780
+then the vector that is perpendicular is also in r3.
+
+06:53.780 --> 06:56.780
+But here we're making a departure from that.
+
+06:56.780 --> 07:01.780
+We're saying that if you have a plane in real space,
+
+07:01.780 --> 07:09.780
+then its vertical is a point in reciprocal space which has a k-position vector.
+
+07:09.780 --> 07:12.780
+It's just a change of terminology. That is all there.
+
+07:12.780 --> 07:14.780
+Let me repeat.
+
+07:14.780 --> 07:18.780
+If you have a plane which is arbitrarily oriented in r3,
+
+07:18.780 --> 07:20.780
+I find it's normal.
+
+07:20.780 --> 07:24.780
+The coordinates, which is basically a triplet,
+
+07:24.780 --> 07:29.780
+is a point in k-space.
+
+07:29.780 --> 07:30.780
+Same coordinates.
+
+07:30.780 --> 07:32.780
+So, let's say 3, 1, 5.
+
+07:32.780 --> 07:37.780
+Those are coordinates in k-space for the dual vector.
+
+07:37.780 --> 07:40.780
+So, if you have a plane in this direction, it maps to a point.
+
+07:40.780 --> 07:42.780
+A position vector, to be more precise.
+
+07:42.780 --> 07:43.780
+Yes?
+
+07:43.780 --> 07:47.780
+You're taking the normal to that plane and then mapping it to a point in k-space.
+
+07:47.780 --> 07:50.780
+You're just taking those coordinates and we will describe,
+
+07:50.780 --> 07:53.780
+because obviously people who work in crystallography
+
+07:53.780 --> 07:56.780
+are not very comfortable with working on Fourier analysis.
+
+07:56.780 --> 07:58.780
+So, they have their own way of arriving at the same thing,
+
+07:58.780 --> 08:01.780
+which I'll describe how to construct a Miller index.
+
+08:01.780 --> 08:03.780
+It is essentially the same process.
+
+08:03.780 --> 08:05.780
+If you have done a little bit of linear algebra,
+
+08:05.780 --> 08:07.780
+which I believe you have done,
+
+08:07.780 --> 08:08.780
+you can work out the steps and you'll say,
+
+08:08.780 --> 08:10.780
+okay, yeah, these two treatments are exactly equivalent.
+
+08:10.780 --> 08:11.780
+Sir, but for a plane like,
+
+08:11.780 --> 08:13.780
+we can't only depend on one model vector.
+
+08:13.780 --> 08:14.780
+We should also have a point, right?
+
+08:14.780 --> 08:16.780
+So, we will have to consider that when doing this.
+
+08:16.780 --> 08:17.780
+Which point?
+
+08:17.780 --> 08:19.780
+Meaning, if you have a normal vector,
+
+08:19.780 --> 08:21.780
+infinite planes which have a normal vector.
+
+08:21.780 --> 08:22.780
+Yeah.
+
+08:22.780 --> 08:24.780
+So, all you say is that if I define its normal vector,
+
+08:24.780 --> 08:27.780
+any normal which is a scalar multiple of that normal vector
+
+08:27.780 --> 08:29.780
+will also serve as a normal vector.
+
+08:29.780 --> 08:31.780
+What we're trying to find over here is the minimum normal vector.
+
+08:31.780 --> 08:33.780
+But I'm telling you that if there are infinite planes
+
+08:33.780 --> 08:34.780
+for the same normal vector, right?
+
+08:34.780 --> 08:35.780
+Yes, yes, yes.
+
+08:35.780 --> 08:39.780
+So, this basically goes back to our previous discussion,
+
+08:39.780 --> 08:43.780
+where families of planes corresponded to a single point in k-space.
+
+08:43.780 --> 08:44.780
+Okay.
+
+08:44.780 --> 08:46.780
+So, how do you construct a family of planes
+
+08:46.780 --> 08:48.780
+that are all parallel to each other?
+
+08:48.780 --> 08:51.780
+So, that discussion is exactly equivalent.
+
+08:51.780 --> 08:54.780
+So, you pick a parallel,
+
+08:54.780 --> 08:57.780
+but you pick the shortest reciprocal lattice vector
+
+08:57.780 --> 09:02.780
+and let us express that in three unit coordinates,
+
+09:02.780 --> 09:04.780
+or rather three unit vectors,
+
+09:04.780 --> 09:06.780
+in the linear space defined by b1, b2, b3,
+
+09:06.780 --> 09:08.780
+which I have bolded there.
+
+09:08.780 --> 09:10.780
+How do you construct it?
+
+09:10.780 --> 09:12.780
+It is the smallest integral coefficient
+
+09:12.780 --> 09:17.780
+in reciprocal space.
+
+09:17.780 --> 09:21.780
+So, you basically write it as,
+
+09:21.780 --> 09:25.780
+so if you have like this coordinate system in,
+
+09:25.780 --> 09:27.780
+I think, red or black?
+
+09:27.780 --> 09:28.780
+Yeah, black.
+
+09:28.780 --> 09:30.780
+It is in real space.
+
+09:30.780 --> 09:33.780
+Then you construct a coordinate system in red.
+
+09:33.780 --> 09:37.780
+That is the corresponding coordinate system in k-space.
+
+09:37.780 --> 09:40.780
+So, they are not, so black is r3,
+
+09:40.780 --> 09:42.780
+red is k3.
+
+09:42.780 --> 09:45.780
+And we are finding out
+
+09:45.780 --> 09:49.780
+the corresponding minimum intercepts
+
+09:49.780 --> 09:54.780
+a by h, b by k and c by l.
+
+09:54.780 --> 09:56.780
+And we are trying to find out h, k and l,
+
+09:56.780 --> 09:58.780
+which are the smallest integers
+
+09:58.780 --> 10:00.780
+which will make this possible.
+
+10:00.780 --> 10:03.780
+So, for instance, you have got 7 by 11 or something.
+
+10:03.780 --> 10:07.780
+Then 11 is the corresponding, you know,
+
+10:07.780 --> 10:09.780
+coordinate I have to worry about.
+
+10:09.780 --> 10:11.780
+Can you repeat it?
+
+10:11.780 --> 10:15.780
+So, what we are trying to do over here is,
+
+10:15.780 --> 10:18.780
+we are trying to find out coordinates in b-space,
+
+10:18.780 --> 10:20.780
+which is, you know, effectively mapping of k-space,
+
+10:20.780 --> 10:22.780
+h, k, l,
+
+10:22.780 --> 10:25.780
+so that you have b by,
+
+10:25.780 --> 10:28.780
+you are finding h, k and l,
+
+10:28.780 --> 10:31.780
+so that they are the smallest possible integer multiples
+
+10:31.780 --> 10:32.780
+in each direction.
+
+10:32.780 --> 10:33.780
+Yeah?
+
+10:33.780 --> 10:35.780
+The numbers you said.
+
+10:35.780 --> 10:36.780
+Yeah?
+
+10:36.780 --> 10:39.780
+The numbers you said, 7, 5, 11, I didn't get.
+
+10:39.780 --> 10:40.780
+So, we will give you a worked example.
+
+10:40.780 --> 10:47.780
+You will probably understand from that more clearly.
+
+10:47.780 --> 10:50.780
+So, crystallographic definition,
+
+10:50.780 --> 10:52.780
+which is independent of, you know,
+
+10:52.780 --> 10:54.780
+Fourier definition is that
+
+10:54.780 --> 10:57.780
+it is the inverse proportionality of intercepts in real space.
+
+10:57.780 --> 10:59.780
+So, for instance,
+
+10:59.780 --> 11:01.780
+if I have an arbitrarily oriented plane,
+
+11:01.780 --> 11:03.780
+which has intercepts,
+
+11:03.780 --> 11:06.780
+let's say x1, x2, x3,
+
+11:06.780 --> 11:08.780
+then the corresponding 1 over x1,
+
+11:08.780 --> 11:09.780
+1 over x2,
+
+11:09.780 --> 11:10.780
+1 over x3,
+
+11:10.780 --> 11:12.780
+expressed in smallest integer form,
+
+11:12.780 --> 11:16.780
+will be the corresponding h, k, l's.
+
+11:16.780 --> 11:18.780
+I take the inverse,
+
+11:18.780 --> 11:21.780
+and I find out the l, c, m, in some sense,
+
+11:21.780 --> 11:22.780
+for those,
+
+11:22.780 --> 11:24.780
+and those are h, k, l's,
+
+11:24.780 --> 11:27.780
+with no bound factors.
+
+11:27.780 --> 11:31.780
+So, for hexagonal and robohedral lattices,
+
+11:31.780 --> 11:33.780
+it is more convenient to use four indices,
+
+11:33.780 --> 11:36.780
+even though we are not talking about a four-dimensional space,
+
+11:36.780 --> 11:38.780
+because there is an additional axis,
+
+11:38.780 --> 11:40.780
+which is a c-axis in the road direction,
+
+11:40.780 --> 11:42.780
+you would present that using the fourth index.
+
+11:42.780 --> 11:45.780
+This is just specific to these two crystal structures.
+
+11:45.780 --> 11:46.780
+It is not necessary,
+
+11:46.780 --> 11:48.780
+it is entirely possible to express it in three,
+
+11:48.780 --> 11:49.780
+because it's after all,
+
+11:49.780 --> 11:51.780
+after a k3, you don't need more than that,
+
+11:51.780 --> 11:54.780
+but you can have an over-determined plane,
+
+11:54.780 --> 11:55.780
+for instance.
+
+11:55.780 --> 11:56.780
+It is equivalent to saying that,
+
+11:56.780 --> 11:58.780
+okay, I've got three non-polar points,
+
+11:58.780 --> 12:00.780
+and they define my plane,
+
+12:00.780 --> 12:02.780
+and I just happen to pick another fourth point
+
+12:02.780 --> 12:04.780
+on the same plane to define my plane.
+
+12:04.780 --> 12:07.780
+Makes no difference, really speaking.
+
+12:07.780 --> 12:09.780
+So, why do we do that?
+
+12:09.780 --> 12:12.780
+It's easier to express it,
+
+12:12.780 --> 12:16.780
+because there are, you know, additional axes here.
+
+12:16.780 --> 12:17.780
+So, let's do a class problem,
+
+12:17.780 --> 12:20.780
+and that will hopefully clear up some of these doubts.
+
+12:20.780 --> 12:22.780
+So, here is the problem.
+
+12:22.780 --> 12:24.780
+This plane in red, light red,
+
+12:24.780 --> 12:27.780
+I hope everybody can see that.
+
+12:27.780 --> 12:29.780
+It has these points defined,
+
+12:29.780 --> 12:31.780
+a and b,
+
+12:31.780 --> 12:32.780
+and the Miller indices,
+
+12:32.780 --> 12:34.780
+for this indicated plane.
+
+12:37.780 --> 12:41.780
+All right, so how many of these,
+
+12:41.780 --> 12:42.780
+what you heard is just one point.
+
+12:42.780 --> 12:45.780
+You'll remember again and again from our Himalayan class,
+
+12:45.780 --> 12:47.780
+were also an episode three.
+
+12:47.780 --> 12:49.780
+Sir, did I also drink another body of water?
+
+12:49.780 --> 12:50.780
+Yeah.
+
+12:50.780 --> 12:53.780
+That's obvious, right?
+
+12:53.780 --> 12:59.780
+Because Z cure is 0 in both cases.
+
+13:07.780 --> 13:37.760
+Thank you.
+
+13:37.780 --> 14:07.760
+Thank you.
+
+14:07.780 --> 14:37.760
+Thank you.
+
+14:37.780 --> 15:07.760
+Thank you.
+
+15:07.780 --> 15:37.760
+Thank you.
+
+15:37.780 --> 16:07.760
+Thank you.
+
+16:07.780 --> 16:37.760
+Thank you.
+
+16:37.780 --> 17:07.760
+Thank you.
+
+17:07.780 --> 17:37.760
+Thank you.
+
+17:37.780 --> 18:07.760
+Thank you.
+
+18:07.780 --> 18:37.760
+Thank you.
+
+18:37.780 --> 19:07.760
+Thank you.
+
+19:07.780 --> 19:37.760
+Thank you.
+
+19:37.780 --> 19:41.720
+of irrational points, like it could occur.
+
+19:41.720 --> 19:43.280
+Of course, we have got non-periodic systems
+
+19:43.280 --> 19:44.880
+like polycrystalline and morpher systems,
+
+19:44.880 --> 19:46.280
+they're not periodic either.
+
+19:47.280 --> 19:52.280
+Those are non-irrational examples of non-periodic systems.
+
+19:52.280 --> 19:54.880
+So for the non-periodic system,
+
+19:54.880 --> 19:57.780
+we cannot define the Fourier transform
+
+19:57.780 --> 19:59.820
+or there are no .
+
+19:59.820 --> 20:01.980
+Well, how would you calculate
+
+20:01.980 --> 20:04.720
+a Fourier transform in practicality?
+
+20:04.720 --> 20:06.520
+You would do something like a DFT,
+
+20:06.520 --> 20:08.020
+a speed Fourier transform.
+
+20:08.020 --> 20:10.780
+Or we can do it for some, within a particular domain,
+
+20:10.780 --> 20:12.920
+we can calculate the Fourier transform
+
+20:12.920 --> 20:15.120
+for as long as we know the values, right?
+
+20:15.120 --> 20:17.680
+But you'll always have a scatter.
+
+20:17.680 --> 20:20.560
+Because I'll have basically kind of an excellent data process
+
+20:20.560 --> 20:23.280
+which never terminates, right?
+
+20:23.280 --> 20:26.220
+I say that, okay, this point lies between this and this,
+
+20:26.220 --> 20:28.320
+and you say, no, it's actually finer than that,
+
+20:28.320 --> 20:30.920
+it's finer than that, and the process never concludes.
+
+20:33.620 --> 20:36.380
+So ask yourself, how do I construct this crystal?
+
+20:36.520 --> 20:38.820
+Can you place it at that point?
+
+20:38.820 --> 20:44.580
+And that that point is not well defined, right?
+
+20:48.120 --> 20:52.320
+Okay, so now let's connect wave function, this structure.
+
+20:52.320 --> 20:53.760
+I mentioned this expression
+
+20:53.760 --> 20:56.760
+when we talked about two different energy regimes,
+
+20:56.760 --> 21:00.360
+where Uwm is the cell function,
+
+21:00.360 --> 21:02.280
+which is the part of the wave function
+
+21:02.280 --> 21:05.480
+that represents the strong interaction between an electron,
+
+21:05.480 --> 21:06.520
+and an .
+
+21:06.520 --> 21:08.700
+and the second part
+
+21:08.700 --> 21:10.740
+is a familiar plane wave
+
+21:10.740 --> 21:12.860
+so if you had
+
+21:12.860 --> 21:14.460
+open, like you know
+
+21:14.460 --> 21:16.700
+the universe constructed of
+
+21:16.700 --> 21:19.100
+an infinite space
+
+21:19.100 --> 21:20.340
+and only one electron
+
+21:20.340 --> 21:25.360
+e to the power ikr would be a sufficient
+
+21:25.360 --> 21:27.280
+representation of what that electron wave function
+
+21:27.280 --> 21:29.340
+would be, right, because it doesn't interact
+
+21:29.340 --> 21:30.760
+with anything because nothing else exists
+
+21:30.760 --> 21:33.020
+in fact, John Archibald
+
+21:33.020 --> 21:34.380
+was a physicist
+
+21:34.380 --> 21:37.100
+was a PhD advisor of Richard Feynman
+
+21:37.100 --> 21:39.340
+he had this theory that there is only
+
+21:39.340 --> 21:41.320
+one electron in the entire universe and everything else
+
+21:41.320 --> 21:43.080
+is a motion transferred copy of that
+
+21:43.080 --> 21:44.600
+pretty crazy idea
+
+21:44.600 --> 21:47.280
+but it seems to fit the facts
+
+21:47.280 --> 21:48.240
+so
+
+21:48.240 --> 21:51.320
+the cell function of the kernel
+
+21:51.320 --> 21:53.360
+is what we are defining as
+
+21:53.360 --> 21:55.420
+u sub n, it interacts with the lattice
+
+21:55.420 --> 21:59.120
+crystals
+
+21:59.120 --> 22:01.460
+this is important to understand that even though
+
+22:01.460 --> 22:03.040
+we talk about
+
+22:03.040 --> 22:04.220
+crystals having symmetry
+
+22:04.220 --> 22:06.740
+but the act of construction of the crystal
+
+22:06.740 --> 22:08.260
+actually breaks space symmetry
+
+22:08.260 --> 22:10.980
+because space symmetry says that all directions
+
+22:10.980 --> 22:11.920
+in R3 are equivalent
+
+22:11.920 --> 22:14.660
+so once I construct a crystal
+
+22:14.660 --> 22:16.940
+I say that okay, some directions are more special
+
+22:16.940 --> 22:17.480
+than others
+
+22:17.480 --> 22:20.820
+and as a result, first of all there is symmetry breaking
+
+22:20.820 --> 22:23.000
+that occurs, so all directions are not
+
+22:23.000 --> 22:24.760
+equivalent, so this for example
+
+22:24.760 --> 22:26.300
+is a diamond crystal lattice
+
+22:26.300 --> 22:28.740
+which is what silicon and germanium
+
+22:28.740 --> 22:29.460
+condense into
+
+22:29.460 --> 22:32.440
+so just there as an example
+
+22:32.440 --> 22:33.840
+so what does that depend upon?
+
+22:34.220 --> 22:38.540
+each will break symmetry in one way or the other
+
+22:38.540 --> 22:42.980
+once you have a crystal then there is periodicity
+
+22:42.980 --> 22:44.840
+but when you say periodicity
+
+22:44.840 --> 22:47.060
+and you try to construct a miller index
+
+22:47.060 --> 22:49.060
+you are still saying that there are at least
+
+22:49.060 --> 22:50.240
+three special directions
+
+22:50.240 --> 22:54.080
+periodicity is different from symmetry
+
+22:54.080 --> 22:59.240
+periodicity is what I would say
+
+22:59.240 --> 22:59.700
+okay
+
+22:59.700 --> 23:02.860
+I think there is a slight abuse of terminology over here
+
+23:04.220 --> 23:07.780
+what we are talking about basic symmetry in R3 is
+
+23:07.780 --> 23:08.940
+isotropicity of space
+
+23:08.940 --> 23:10.420
+that all directions are equivalent
+
+23:10.420 --> 23:12.620
+the moment I impose a crystal
+
+23:12.620 --> 23:15.600
+that basic R3 symmetry is broken
+
+23:15.600 --> 23:17.720
+and we say that the resulting space is anisotropic
+
+23:17.720 --> 23:20.060
+and now within that
+
+23:20.060 --> 23:21.980
+anisotropic space we have got periodicity
+
+23:21.980 --> 23:23.880
+and that periodicity
+
+23:23.880 --> 23:25.280
+in the sense of a group theory
+
+23:25.280 --> 23:27.500
+obviously imposes a certain set of
+
+23:27.500 --> 23:29.960
+special directions in which there is
+
+23:29.960 --> 23:31.180
+periodicity and hence
+
+23:31.180 --> 23:32.220
+that is symmetry
+
+23:32.220 --> 23:34.200
+so we are using
+
+23:34.220 --> 23:35.700
+symmetry in two different terms
+
+23:35.700 --> 23:36.400
+in two different ways
+
+23:36.400 --> 23:36.960
+they are actually
+
+23:36.960 --> 23:38.920
+it is correct to use the word symmetry over here
+
+23:38.920 --> 23:41.380
+because R3 symmetry is the basic symmetry of all
+
+23:41.380 --> 23:42.620
+which is basically
+
+23:42.620 --> 23:44.500
+I think it is called
+
+23:44.500 --> 23:45.400
+n-fold or something
+
+23:45.400 --> 23:46.260
+okay never mind
+
+23:46.260 --> 23:47.040
+what it is called
+
+23:47.040 --> 23:49.960
+it is been a while since I have read these things
+
+23:49.960 --> 23:51.960
+but
+
+23:51.960 --> 23:53.600
+isotropicity
+
+23:53.600 --> 23:55.020
+and symmetry combined together
+
+23:55.020 --> 23:56.860
+those two terms will actually clarify
+
+23:56.860 --> 23:58.180
+what we are talking about
+
+23:58.180 --> 23:59.680
+so isotropicity is broken
+
+23:59.680 --> 24:01.180
+which is also known as R3 symmetry
+
+24:01.180 --> 24:03.220
+so it is like when you didn't have a crystal
+
+24:03.220 --> 24:04.140
+that any vectoring
+
+24:04.220 --> 24:06.520
+R3 was equally probable
+
+24:06.520 --> 24:09.460
+or there was no special energy direction anywhere
+
+24:09.460 --> 24:10.620
+so when you impose a crystal
+
+24:10.620 --> 24:13.880
+so that say a particular direction became more favourable for that crystal
+
+24:13.880 --> 24:15.380
+more favourable or less favourable
+
+24:15.380 --> 24:16.120
+less favourable
+
+24:16.120 --> 24:17.260
+and non-equivalent basically
+
+24:17.260 --> 24:19.040
+that is what we are trying to say
+
+24:19.040 --> 24:20.840
+what is the fact that over here
+
+24:20.840 --> 24:22.280
+the kernel is u sub n
+
+24:22.280 --> 24:23.560
+I call it the self-function
+
+24:23.560 --> 24:30.160
+and it is also known as kernel in many treatments
+
+24:30.160 --> 24:31.620
+now mobility
+
+24:31.620 --> 24:32.400
+I have still not
+
+24:32.400 --> 24:34.060
+I have not defined mobility please note
+
+24:34.060 --> 24:35.620
+I have not given the units of mobility
+
+24:35.620 --> 24:37.100
+I have not defined what unity is
+
+24:37.100 --> 24:38.260
+mobility is in
+
+24:38.260 --> 24:40.660
+you know what is the right-hand side of that equation
+
+24:40.660 --> 24:42.060
+but mobility we
+
+24:42.060 --> 24:43.620
+can right now state
+
+24:43.620 --> 24:48.900
+it is the measure of how easy it is for a carrier to move
+
+24:48.900 --> 24:50.860
+carrier or electron?
+
+24:50.860 --> 24:51.620
+electron is a carrier
+
+24:51.620 --> 24:54.260
+there is going to be a second carrier introduced to this discussion
+
+24:54.260 --> 24:57.560
+that I am generalizing into a carrier
+
+24:57.560 --> 25:00.100
+so it is a strong function of scattering interactions
+
+25:00.100 --> 25:02.120
+the more scattering you have
+
+25:02.120 --> 25:03.860
+the harder it is for the carrier to move
+
+25:04.060 --> 25:04.560
+right?
+
+25:04.560 --> 25:06.200
+can everybody understand that?
+
+25:06.200 --> 25:11.020
+okay
+
+25:11.020 --> 25:14.160
+so one thing that happens in this entire process is that
+
+25:14.160 --> 25:16.320
+we start with the assumption that electron for instance
+
+25:16.320 --> 25:17.760
+has a mass of 9.11
+
+25:17.760 --> 25:21.520
+10 to the power minus 31 kilograms
+
+25:21.520 --> 25:23.500
+in semiconductor devices
+
+25:23.500 --> 25:26.400
+we don't use that mass much
+
+25:26.400 --> 25:28.700
+instead we replace it with something called an effective mass
+
+25:28.700 --> 25:30.560
+and I will describe two ways
+
+25:30.560 --> 25:33.900
+two distinct and two distinct ways in which that is constructed
+
+25:34.060 --> 25:36.560
+so that is what I am
+
+25:36.560 --> 25:40.120
+so is that because of rest mass or moving mass?
+
+25:40.120 --> 25:41.420
+no
+
+25:41.420 --> 25:43.120
+that is relativity
+
+25:43.120 --> 25:45.360
+in that case if your speed goes up the mass goes up
+
+25:45.360 --> 25:47.420
+no that is not what you are talking about
+
+25:47.420 --> 25:48.800
+so let us now
+
+25:48.800 --> 25:50.620
+describe the first of those two masses
+
+25:50.620 --> 25:52.860
+there are two ways of defining effective mass
+
+25:52.860 --> 25:55.200
+both are necessary for you to understand
+
+25:55.200 --> 25:57.520
+because both are needed in different contexts
+
+25:57.520 --> 26:00.220
+so let us first define a kinematic effective mass
+
+26:00.220 --> 26:02.920
+so when a carrier moves through crystal it interacts with what?
+
+26:02.920 --> 26:03.600
+so when a carrier moves through crystal it interacts with what?
+
+26:03.600 --> 26:04.740
+the lattice
+
+26:04.740 --> 26:06.940
+that is the obvious culprit right?
+
+26:06.940 --> 26:08.360
+other carriers
+
+26:08.360 --> 26:11.940
+electron-electron interactions or hole-hole interactions
+
+26:11.940 --> 26:14.260
+and also stuff that should not be there
+
+26:14.260 --> 26:16.060
+impurities
+
+26:16.060 --> 26:17.100
+Joukalski process
+
+26:17.100 --> 26:18.400
+carbon impurities in silicon
+
+26:18.400 --> 26:21.060
+that is what we are talking about
+
+26:21.060 --> 26:25.160
+it is very different from free space transport
+
+26:25.160 --> 26:29.900
+so if we write down the equation of motion
+
+26:29.900 --> 26:33.000
+notice that I have pulled m inside the derivative
+
+26:33.000 --> 26:33.500
+ok?
+
+26:33.500 --> 26:36.640
+because I am writing the rate of change of momentum there
+
+26:36.640 --> 26:39.340
+is equal to three different forces
+
+26:39.340 --> 26:40.800
+one is the externally applied force
+
+26:40.800 --> 26:42.300
+so this could be a piece of silicon
+
+26:42.300 --> 26:44.060
+and apply an electric field across it
+
+26:44.060 --> 26:46.460
+that is an external force
+
+26:46.460 --> 26:47.600
+the other is periodic force
+
+26:47.600 --> 26:49.400
+I have got a crystal
+
+26:49.400 --> 26:53.040
+the carrier moving in one direction is going to see the same kind of scattering
+
+26:53.040 --> 26:54.740
+or roughly the same kind of scattering
+
+26:54.740 --> 26:56.760
+modulo the temperature differences
+
+26:56.760 --> 26:58.540
+as it hops from place to place
+
+26:58.540 --> 27:01.900
+because the lattice structure of it is periodic in itself
+
+27:01.900 --> 27:02.640
+and other?
+
+27:02.640 --> 27:04.440
+unexpected things
+
+27:04.440 --> 27:07.240
+like electron-electron interactions
+
+27:07.240 --> 27:09.980
+after all it is not a single electron system
+
+27:09.980 --> 27:13.040
+and the other thing is impurities
+
+27:13.040 --> 27:15.500
+which break periodicity by the way
+
+27:15.500 --> 27:17.200
+because if I have silicon
+
+27:17.200 --> 27:19.980
+and I suddenly introduce a phosphorus atom in there
+
+27:19.980 --> 27:23.640
+which is where you actually make n-type silicon
+
+27:23.640 --> 27:26.940
+phosphorus has a different valency and a different covalent bonding
+
+27:26.940 --> 27:27.780
+than silicon does
+
+27:27.780 --> 27:29.580
+so it will disrupt the electron cloud
+
+27:29.580 --> 27:31.640
+and break periodicity in that sense
+
+27:31.640 --> 27:32.480
+ok sir can I ask a question?
+
+27:32.480 --> 27:34.540
+periodicity what does that mean?
+
+27:34.540 --> 27:38.340
+periodic is like if you have got an infinite silicon crystal
+
+27:38.340 --> 27:41.380
+so if your electron is moving in a single direction
+
+27:41.380 --> 27:44.520
+without getting captured in different directions
+
+27:44.520 --> 27:47.040
+it is going to encounter the same kind of collisions
+
+27:47.040 --> 27:48.940
+you know roughly
+
+27:48.940 --> 27:49.880
+a given unit of time
+
+27:49.880 --> 27:51.180
+like it is moving at a constant velocity
+
+27:51.180 --> 27:51.840
+it is going to take time
+
+27:51.840 --> 27:53.880
+we are just accounting it for the lattice forces
+
+27:53.880 --> 27:54.640
+yes
+
+27:54.640 --> 27:57.340
+just that f periodic is lattice
+
+27:57.340 --> 27:59.080
+but the lattice may contain impurities
+
+27:59.080 --> 28:01.180
+and that impurity part is an extra layer
+
+28:01.180 --> 28:01.880
+so what?
+
+28:01.880 --> 28:06.580
+so when we say periodic do we also account for lattice vibrations being the same?
+
+28:06.580 --> 28:07.580
+no we don't
+
+28:07.580 --> 28:11.080
+we in fact I mentioned that earlier in this lecture
+
+28:11.080 --> 28:13.840
+we replace vibrations with the quasi particles
+
+28:13.840 --> 28:16.740
+and then that would get pushed into f other
+
+28:16.740 --> 28:21.080
+because f other contains everything else that is not a part of the perfect lattice
+
+28:21.080 --> 28:23.740
+or an externally invited force
+
+28:23.740 --> 28:28.140
+now how do you track the motion of any carrier?
+
+28:28.140 --> 28:30.320
+one electron?
+
+28:30.320 --> 28:31.040
+I read on the equation of motion I tried to track that one electron?
+
+28:31.040 --> 28:31.540
+one electron? I read on the equation of motion I tried to track that one electron?
+
+28:31.540 --> 28:37.940
+see those of you who were getting a slight sense of Deja Vu
+
+28:37.940 --> 28:40.180
+from maybe 10th grade or 11th grade
+
+28:40.180 --> 28:42.080
+where you started talking about how
+
+28:42.080 --> 28:46.440
+solid bodies can be replaced with a single centre of mass
+
+28:46.440 --> 28:48.540
+and treat it as a particle
+
+28:48.540 --> 28:51.480
+this direction this discussion is going to be somewhat similar
+
+28:51.480 --> 28:52.440
+in spirit
+
+28:52.440 --> 28:54.540
+not in detail
+
+28:54.540 --> 28:55.600
+so
+
+28:55.600 --> 28:58.400
+we're gonna say okay this is external force acting on it
+
+28:58.400 --> 28:59.280
+this is a force acting on it from the lattice itself and this is from everything else, right?
+
+28:59.280 --> 29:00.380
+I can't do it, right?
+
+29:00.380 --> 29:00.900
+if I can't do it, no problem!
+
+29:00.900 --> 29:01.400
+I can't do it, right?
+
+29:01.540 --> 29:13.540
+Well, that's easy enough to do for one particle. If you have any silicon crystal, let's say
+
+29:13.540 --> 29:21.540
+containing a mole of silicon atoms, like Avogadro number, do you write down 10 to the power
+
+29:21.540 --> 29:26.540
+of 53 such equations? No. See, it's the same kind of reasoning as you use for the rigid
+
+29:26.540 --> 29:35.540
+bodies. So, mathematically that problem is intractable. So, what I do instead is that
+
+29:35.540 --> 29:46.540
+we modify the definition of mass itself. So, I replace m0 with mn star, n refers to electron.
+
+29:46.540 --> 29:51.540
+This is going to be a kind of protocol going forward. n refers to electron and t refers
+
+29:51.540 --> 29:56.540
+to hole. We will come to a hole in a short while. So, what refers to star? Star is the
+
+29:56.540 --> 29:58.540
+particle indicating that it's not your normal mass. It's an effective mass.
+

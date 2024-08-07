@@ -1,0 +1,2264 @@
+WEBVTT
+
+00:00.000 --> 00:04.240
+So d by 18 of mn star ve
+
+00:04.240 --> 00:05.660
+So ve is the same as before
+
+00:05.660 --> 00:07.740
+What I have done over here is
+
+00:07.740 --> 00:09.720
+I have stolen away the periodicity part
+
+00:09.720 --> 00:13.320
+So I say that I write another set of equations
+
+00:13.320 --> 00:15.300
+Where I modify the mass
+
+00:15.300 --> 00:17.880
+So that I can throw away a vector on the right hand side
+
+00:17.880 --> 00:20.400
+This is a mathematical operation
+
+00:20.400 --> 00:24.000
+How do you modify the mass?
+
+00:24.600 --> 00:27.980
+There are two ways in which people modify the mass
+
+00:27.980 --> 00:31.260
+One way is to actually do really complicated calculations
+
+00:31.260 --> 00:32.400
+Which we will go into later
+
+00:32.400 --> 00:34.500
+Once I have defined both notions of effective mass
+
+00:34.500 --> 00:36.460
+And the other which is always in this
+
+00:36.460 --> 00:37.560
+Measured mass
+
+00:37.560 --> 00:39.680
+How would you measure it?
+
+00:40.080 --> 00:41.240
+How would you measure it?
+
+00:43.240 --> 00:44.300
+That's what we don't do
+
+00:44.300 --> 00:45.880
+That's why we have kind of reduced this equation
+
+00:45.880 --> 00:49.260
+We don't want to go to the pathway of the first equation
+
+00:49.260 --> 00:51.320
+We are desperately trying to avoid that
+
+00:51.320 --> 00:51.600
+Yes
+
+00:51.600 --> 00:55.040
+An equation is made for a single electron
+
+00:55.040 --> 00:56.820
+Or it's for the mole of electron?
+
+00:57.480 --> 00:57.960
+This
+
+00:57.960 --> 00:58.640
+This equation
+
+00:58.640 --> 00:59.920
+Good question
+
+00:59.920 --> 01:01.680
+This question is
+
+01:01.680 --> 01:04.280
+The second equation is what I would call a statistical equation
+
+01:04.280 --> 01:06.400
+It refers to the average electron
+
+01:06.400 --> 01:09.800
+So you expect most electrons to follow this
+
+01:09.800 --> 01:10.880
+In that sense of an average
+
+01:10.880 --> 01:13.000
+And we can do statistical averaging
+
+01:13.000 --> 01:14.960
+Because we are starting with a very very large number
+
+01:14.960 --> 01:16.600
+Of 10 to the power 23 of those electrons
+
+01:16.600 --> 01:17.000
+Which is
+
+01:17.000 --> 01:19.260
+The requirement of statistics
+
+01:19.260 --> 01:22.100
+N represents electron
+
+01:22.100 --> 01:23.740
+N always represents electron
+
+01:23.740 --> 01:25.500
+Sub n always represents electron
+
+01:25.500 --> 01:27.080
+Okay so
+
+01:27.080 --> 01:27.900
+Yeah
+
+01:27.960 --> 01:31.360
+Sir what does direction define energy?
+
+01:31.360 --> 01:34.200
+Well your velocity is in a particular direction right?
+
+01:34.200 --> 01:35.800
+That was earlier also right?
+
+01:35.800 --> 01:36.600
+I am coming to that
+
+01:36.600 --> 01:38.440
+Coming to that
+
+01:38.440 --> 01:38.840
+So
+
+01:38.840 --> 01:40.280
+What is F periodic?
+
+01:40.280 --> 01:40.680
+Huh?
+
+01:40.680 --> 01:42.240
+F periodic
+
+01:42.240 --> 01:43.160
+F periodic is gone
+
+01:43.160 --> 01:44.200
+Where is F periodic?
+
+01:44.200 --> 01:46.480
+That is the whole reason we consider to be effective mass
+
+01:46.480 --> 01:48.680
+Oh okay
+
+01:48.680 --> 01:49.600
+Okay
+
+01:49.600 --> 01:51.640
+So what is the loss of simplicity?
+
+01:51.640 --> 01:54.760
+The mass is no longer a scalar now
+
+01:54.760 --> 01:56.240
+Let us think in a little bit
+
+01:56.240 --> 01:57.840
+Because we removed the periodicity so
+
+01:57.960 --> 01:59.720
+Mass is no longer a scalar
+
+01:59.720 --> 02:01.440
+You are in R3
+
+02:01.440 --> 02:05.760
+I will have to define a different mass for each direction
+
+02:05.760 --> 02:06.560
+Because
+
+02:06.560 --> 02:07.560
+Okay think about it this way
+
+02:07.560 --> 02:08.720
+You are moving in that direction
+
+02:08.720 --> 02:10.360
+You are moving in different directions
+
+02:10.360 --> 02:12.720
+Has a different set of inertia associated with it
+
+02:12.720 --> 02:14.800
+How do we understand mass?
+
+02:14.800 --> 02:15.920
+There is more scattering here
+
+02:15.920 --> 02:19.200
+I say okay I am not going to worry about scattering arising from periodic sources
+
+02:19.200 --> 02:21.560
+I am just going to lump it up into my
+
+02:21.560 --> 02:23.680
+In a measure of inertia in that direction
+
+02:23.680 --> 02:24.960
+So that is a direction dependence
+
+02:24.960 --> 02:25.960
+So that is a direction dependence
+
+02:25.960 --> 02:26.960
+So that is a direction dependence
+
+02:26.960 --> 02:32.440
+And this is what is known as a kinematic definition of effective mass
+
+02:32.440 --> 02:33.680
+There is going to be a different definition
+
+02:33.680 --> 02:35.480
+It is going to be slightly more complicated
+
+02:35.480 --> 02:37.920
+Unrelated to this
+
+02:37.920 --> 02:39.840
+But often leads to similar numbers
+
+02:39.840 --> 02:40.840
+But not always
+
+02:40.840 --> 02:43.160
+The reason we need to understand that
+
+02:43.160 --> 02:44.920
+But M star is a vector
+
+02:44.920 --> 02:48.760
+M star is not a vector
+
+02:48.760 --> 02:51.640
+It is a tensor
+
+02:51.640 --> 02:54.240
+So basically it is a 3 by 3 matrix in R3P
+
+02:56.960 --> 03:02.080
+All the matrixes have all the matrix properties
+
+03:02.080 --> 03:05.440
+Right but then there are also cross terms
+
+03:05.440 --> 03:09.840
+So whenever we talk about matrices
+
+03:09.840 --> 03:12.360
+We say that it is diagonalizable under certain terms
+
+03:12.360 --> 03:15.880
+So that you know you have got 0 above 0 at the bottom upper triangular lower triangular
+
+03:15.880 --> 03:18.200
+And then there are 3 scalars along the diagonal
+
+03:18.200 --> 03:20.200
+Similar to the vector matrix what we have
+
+03:20.200 --> 03:23.480
+But in this case you cannot throw away the cross terms
+
+03:23.480 --> 03:25.480
+It depends upon what kind of matrix actually you have got
+
+03:25.480 --> 03:26.440
+How does that matrix work?
+
+03:26.960 --> 03:27.960
+How does it look like?
+
+03:27.960 --> 03:29.960
+We are coming to that
+
+03:29.960 --> 03:34.960
+That is the project that allows me to present something
+
+03:34.960 --> 03:38.960
+Okay now let us shell the discussion for a bit
+
+03:38.960 --> 03:43.960
+And let me go into aspects which talk about construction of the lattice in the first place
+
+03:43.960 --> 03:47.960
+Because the second definition arises naturally from there
+
+03:47.960 --> 03:50.960
+Okay silicon atom
+
+03:50.960 --> 03:53.960
+Let us imagine a universe where a single silicon atom exists
+
+03:53.960 --> 03:54.960
+Okay
+
+03:54.960 --> 03:56.960
+Obviously we cannot exist in that universe
+
+03:56.960 --> 03:59.960
+Because we are not obligated in that
+
+03:59.960 --> 04:04.960
+The shell structure for silicon is 1s2, 2s2, 2p6, 3s2, 3p2
+
+04:04.960 --> 04:07.960
+We have seen this since I don't know 11th grade or something
+
+04:07.960 --> 04:09.960
+Let us count is that 14?
+
+04:09.960 --> 04:12.960
+Yeah 4 plus 6 plus 4
+
+04:12.960 --> 04:16.960
+So I have got these two
+
+04:16.960 --> 04:18.960
+What are the red and the blue lines?
+
+04:18.960 --> 04:20.960
+Anybody want to guess?
+
+04:20.960 --> 04:22.960
+Values?
+
+04:22.960 --> 04:23.960
+Singularity
+
+04:23.960 --> 04:24.960
+Singularity
+
+04:24.960 --> 04:25.960
+Yes
+
+04:25.960 --> 04:27.960
+Ground state and excited state
+
+04:27.960 --> 04:29.960
+Because we have one single atom here
+
+04:29.960 --> 04:35.960
+And the two atoms or rather you know the ion core is basically red
+
+04:35.960 --> 04:36.960
+Which is at the bottom
+
+04:36.960 --> 04:42.960
+And the signal electron which is free to move around is kind of shown schematically at the bottom
+
+04:42.960 --> 04:44.960
+Okay
+
+04:44.960 --> 04:47.960
+What is the red dot?
+
+04:47.960 --> 04:49.960
+What is the red dot?
+
+04:49.960 --> 04:50.960
+Red dot is the ion core
+
+04:50.960 --> 04:53.960
+Basically 14 protons and a certain number of neutrons club together
+
+04:53.960 --> 04:55.960
+What is the black dot?
+
+04:55.960 --> 04:57.960
+Yeah that is the black dot
+
+04:57.960 --> 05:00.960
+So what was the black?
+
+05:00.960 --> 05:04.960
+The black dot is the electron that we are talking about right?
+
+05:04.960 --> 05:05.960
+Oh
+
+05:05.960 --> 05:07.960
+Huh?
+
+05:07.960 --> 05:08.960
+Okay
+
+05:08.960 --> 05:13.960
+The red core is essentially the nucleus of silicon
+
+05:13.960 --> 05:16.960
+And the inner shell which don't participate in ground core
+
+05:16.960 --> 05:17.960
+We don't care about
+
+05:17.960 --> 05:18.960
+Everything except the valence shell
+
+05:18.960 --> 05:20.960
+Valence shell is what we are interested in
+
+05:20.960 --> 05:21.960
+Right?
+
+05:21.960 --> 05:22.960
+Okay
+
+05:22.960 --> 05:26.960
+Now let us now bring these two atoms closer to each other
+
+05:26.960 --> 05:29.960
+I think you have seen in 11th grade what happens
+
+05:29.960 --> 05:31.960
+Molecular orbital forms
+
+05:31.960 --> 05:33.960
+Right?
+
+05:33.960 --> 05:36.960
+And one of the properties of a molecular orbital are
+
+05:36.960 --> 05:39.960
+That each energy level splits into two
+
+05:39.960 --> 05:41.960
+Right?
+
+05:41.960 --> 05:42.960
+Bonding and anti-bonding
+
+05:42.960 --> 05:45.960
+The bonding being more stable and hence lower energy
+
+05:45.960 --> 05:48.960
+So the ground state splits into two
+
+05:48.960 --> 05:50.960
+Bonding and anti-bonding
+
+05:50.960 --> 05:51.960
+And the excited state splits into two
+
+05:51.960 --> 05:53.960
+So you have got four energy levels now
+
+05:53.960 --> 05:57.960
+So two atoms brought together lead to four energy levels
+
+05:57.960 --> 06:01.960
+I think we can start to see the beginning of a geometric sequence here
+
+06:01.960 --> 06:02.960
+Sir
+
+06:02.960 --> 06:03.960
+Yeah
+
+06:03.960 --> 06:05.960
+Let us just consider one of the four energy levels
+
+06:05.960 --> 06:06.960
+Yeah
+
+06:06.960 --> 06:08.960
+Just to simplify
+
+06:08.960 --> 06:11.960
+It will be too complicated to write four different
+
+06:11.960 --> 06:12.960
+Okay
+
+06:12.960 --> 06:18.960
+Now let us see what these states look like
+
+06:18.960 --> 06:19.960
+You have all seen this
+
+06:19.960 --> 06:21.960
+Atomic orbitals and how they form you know
+
+06:21.960 --> 06:22.960
+Molecular orbitals
+
+06:22.960 --> 06:26.960
+So there is an anti-bonding orbital which consists of a node
+
+06:26.960 --> 06:30.960
+On the line connecting the two atoms
+
+06:30.960 --> 06:31.960
+Sorry anti-node
+
+06:31.960 --> 06:32.960
+Anti-node right
+
+06:32.960 --> 06:34.960
+Because that is where the probability density is the minimum
+
+06:34.960 --> 06:39.960
+And the bonding orbital means that there is more effective sharing of the electron cloud
+
+06:39.960 --> 06:40.960
+Which forms a covalent bond
+
+06:40.960 --> 06:41.960
+Hence the term bonding
+
+06:41.960 --> 06:46.960
+And hence there is a node there
+
+06:46.960 --> 06:48.960
+So this is LCAOQ
+
+06:48.960 --> 06:50.960
+Kind of remember linear combination of atomic orbitals
+
+06:50.960 --> 06:52.960
+That picture
+
+06:52.960 --> 06:54.960
+Now let us bring in the number three
+
+06:54.960 --> 06:56.960
+What is the below part?
+
+06:56.960 --> 06:57.960
+Below part yeah
+
+06:57.960 --> 07:03.960
+So the below part is basically the energy levels of potential
+
+07:03.960 --> 07:06.960
+So each of these carriers carries different energy
+
+07:06.960 --> 07:08.960
+It is from the textbook
+
+07:08.960 --> 07:10.960
+It is pretty silly to take pictures according to the textbook
+
+07:10.960 --> 07:11.960
+So what is this?
+
+07:11.960 --> 07:13.960
+Why is there a well here?
+
+07:13.960 --> 07:14.960
+Huh?
+
+07:14.960 --> 07:15.960
+I mean the below part
+
+07:15.960 --> 07:17.960
+There are two iron cores right?
+
+07:17.960 --> 07:19.960
+The potential energy heads towards infinity
+
+07:19.960 --> 07:21.960
+As the electron gets closer
+
+07:21.960 --> 07:23.960
+So those two wells now that is in between
+
+07:23.960 --> 07:26.960
+That is you know basically a shallow barrier
+
+07:26.960 --> 07:29.960
+Okay
+
+07:29.960 --> 07:31.960
+Now let us bring in the number three
+
+07:31.960 --> 07:32.960
+Yeah
+
+07:32.960 --> 07:35.960
+So you had these four states adding in two more
+
+07:35.960 --> 07:36.960
+Eight
+
+07:36.960 --> 07:40.960
+So let us see what happens
+
+07:40.960 --> 07:41.960
+Eight
+
+07:41.960 --> 07:42.960
+Right
+
+07:42.960 --> 07:45.960
+So each splits into two again
+
+07:45.960 --> 07:48.960
+Now let us carry this process forward
+
+07:48.960 --> 07:52.960
+More atoms leads to more energy levels splitting
+
+07:52.960 --> 07:54.960
+And if you have molar atoms
+
+07:54.960 --> 07:56.960
+You can see this process you know
+
+07:56.960 --> 07:58.960
+Going forth
+
+07:58.960 --> 08:01.960
+And you basically get a quasi-continuum
+
+08:01.960 --> 08:02.960
+Which is
+
+08:02.960 --> 08:05.960
+Has a large separation in between
+
+08:05.960 --> 08:07.960
+So this is your band gap
+
+08:07.960 --> 08:09.960
+So conduction band on the top
+
+08:09.960 --> 08:12.960
+Which is constructor and bonding orbitals
+
+08:12.960 --> 08:14.960
+And the Williams band on the bottom
+
+08:14.960 --> 08:16.960
+Constructing of your bonding orbitals
+
+08:16.960 --> 08:17.960
+Okay
+
+08:17.960 --> 08:23.960
+Okay let us go back
+
+08:23.960 --> 08:26.960
+So more atoms lead to more energy levels splitting
+
+08:26.960 --> 08:27.960
+And you notice that
+
+08:27.960 --> 08:28.960
+You know
+
+08:28.960 --> 08:30.960
+The way these gaps are opening up
+
+08:30.960 --> 08:33.960
+As a result of that addition process
+
+08:33.960 --> 08:35.960
+If I have a large enough
+
+08:35.960 --> 08:37.960
+You know of course we cannot sit here and
+
+08:37.960 --> 08:40.960
+Go to four, five, six and count up to ten
+
+08:40.960 --> 08:42.960
+Partly three that is like silly
+
+08:42.960 --> 08:45.960
+But this is what it results in
+
+08:45.960 --> 08:47.960
+And these are bands
+
+08:47.960 --> 08:50.960
+And the difference between the energy level
+
+08:50.960 --> 08:53.960
+Of the lowest anti-bonding orbital
+
+08:53.960 --> 08:55.960
+And the highest bonding orbital
+
+08:55.960 --> 08:58.960
+Is known as the band gap
+
+08:58.960 --> 09:02.960
+Mind you I have not defined what the x-coordinate is
+
+09:02.960 --> 09:04.960
+Which is a different story
+
+09:04.960 --> 09:07.960
+Only the bicoordinate
+
+09:07.960 --> 09:08.960
+X-coordinate
+
+09:08.960 --> 09:10.960
+Yeah it does
+
+09:10.960 --> 09:12.960
+Massively
+
+09:12.960 --> 09:15.960
+In some sense understanding basic semi-character
+
+09:15.960 --> 09:16.960
+Is about understanding the x-coordinate
+
+09:16.960 --> 09:18.960
+Yeah
+
+09:18.960 --> 09:20.960
+You will figure out in a moment why
+
+09:20.960 --> 09:21.960
+Yeah
+
+09:21.960 --> 09:22.960
+Any questions
+
+09:22.960 --> 09:23.960
+So what
+
+09:23.960 --> 09:25.960
+So there are more energy levels above this
+
+09:25.960 --> 09:26.960
+Uh
+
+09:26.960 --> 09:29.960
+So essentially what is an anti-bonding orbital
+
+09:29.960 --> 09:31.960
+Where electrons don't have to go
+
+09:31.960 --> 09:34.960
+Because they have got higher energy
+
+09:34.960 --> 09:37.960
+So even from basic principles we can argue that
+
+09:37.960 --> 09:39.960
+Everything in blue over here is unoccupied
+
+09:39.960 --> 09:41.960
+Electrons don't have to go there
+
+09:41.960 --> 09:43.960
+So they don't have to come home
+
+09:43.960 --> 09:45.960
+In organic semiconductors for instance
+
+09:45.960 --> 09:47.960
+That is the term that is used
+
+09:47.960 --> 09:49.960
+Highest occupied molecular orbital or HOMO
+
+09:49.960 --> 09:51.960
+And lowest unoccupied molecular orbital
+
+09:51.960 --> 09:52.960
+That is LUMO
+
+09:52.960 --> 09:55.960
+But LUMO and HOMO are sharp levels in organics
+
+09:55.960 --> 09:56.960
+These are bands
+
+09:56.960 --> 09:59.960
+There is a difference
+
+09:59.960 --> 10:01.960
+Because in molecular systems
+
+10:01.960 --> 10:03.960
+You don't have very very strong interactions
+
+10:03.960 --> 10:05.960
+Between different various molecules
+
+10:05.960 --> 10:07.960
+That wonder why they interact with each other
+
+10:07.960 --> 10:12.960
+And hence as a result bands don't form
+
+10:12.960 --> 10:14.960
+Okay everybody understand where the band gap now comes from?
+
+10:14.960 --> 10:21.960
+No
+
+10:21.960 --> 10:24.960
+Silicon forms covalent bonds
+
+10:24.960 --> 10:26.960
+Gemini forms covalent bonds
+
+10:26.960 --> 10:27.960
+Most of the materials you come across
+
+10:27.960 --> 10:29.960
+Kalium nitrate whatever
+
+10:29.960 --> 10:31.960
+Forms covalent bonds
+
+10:31.960 --> 10:32.960
+Bands of this nature
+
+10:32.960 --> 10:36.960
+Or something very close to this will form
+
+10:36.960 --> 10:37.960
+But if we talk about organic semiconductors
+
+10:37.960 --> 10:40.960
+There is a different breed of semiconductors altogether
+
+10:40.960 --> 10:42.960
+ALQ3 for instance
+
+10:42.960 --> 10:43.960
+It is a complicated
+
+10:43.960 --> 10:44.960
+You know
+
+10:44.960 --> 10:47.960
+Are you capsized with a name which I don't care to remember or repeat?
+
+10:47.960 --> 10:50.960
+You just understand what that name is
+
+10:50.960 --> 10:52.960
+When you are writing down a paper
+
+10:52.960 --> 10:54.960
+Put it once in a bracket and then forget about it
+
+10:54.960 --> 10:55.960
+Is that kind of a name?
+
+10:55.960 --> 10:57.960
+I am not a chemist
+
+10:57.960 --> 11:01.960
+Those interactions between molecules and molecules are not covalent
+
+11:01.960 --> 11:02.960
+They are wonder walls
+
+11:02.960 --> 11:03.960
+Which means there are weak interactions
+
+11:03.960 --> 11:06.960
+Weak interactions means less of energy splitting
+
+11:06.960 --> 11:07.960
+Remember
+
+11:07.960 --> 11:10.960
+We have to bring atoms very very close to each other
+
+11:10.960 --> 11:12.960
+For this energy splitting argument to work
+
+11:12.960 --> 11:14.960
+If they remain far apart from each other
+
+11:14.960 --> 11:16.960
+Then the perturbation of one atom on the other
+
+11:16.960 --> 11:17.960
+Is going to be very very weak
+
+11:17.960 --> 11:19.960
+And as a result the splitting will not occur
+
+11:19.960 --> 11:22.960
+So that's why bands don't form in organic semiconductors
+
+11:22.960 --> 11:27.960
+So they basically behave as if they are like
+
+11:27.960 --> 11:30.960
+I would say the electrons move through them
+
+11:30.960 --> 11:32.960
+In a way of hopping transport
+
+11:32.960 --> 11:35.960
+So one side it has an escape probability
+
+11:35.960 --> 11:36.960
+It's like a trap
+
+11:36.960 --> 11:37.960
+Then go to the next trap
+
+11:37.960 --> 11:38.960
+Then go to the next trap
+
+11:38.960 --> 11:41.960
+So unsurprisingly the conductivity in organic molecules is off
+
+11:41.960 --> 11:45.960
+Much weaker than traditional semiconductors of this kind
+
+11:45.960 --> 11:47.960
+But anyhow that's what you are going to learn in organic
+
+11:47.960 --> 11:48.960
+Sir
+
+11:48.960 --> 11:49.960
+Yeah
+
+11:49.960 --> 11:52.960
+Sir so the valence band is essentially a bonding orbital
+
+11:52.960 --> 11:53.960
+Just like a continuous
+
+11:53.960 --> 11:56.960
+It forms a continuum because I got into it 23 years ago
+
+11:56.960 --> 11:58.960
+Of course there are subbands inside
+
+11:58.960 --> 12:00.960
+And we will learn about subbands later
+
+12:00.960 --> 12:02.960
+When we need to
+
+12:02.960 --> 12:05.960
+Because there is internal structure to these bands also
+
+12:05.960 --> 12:09.960
+But we will come to that a bit later
+
+12:09.960 --> 12:10.960
+Okay
+
+12:11.960 --> 12:17.960
+So in keeping with the earlier terminology
+
+12:17.960 --> 12:21.960
+Valence electrons live in valence band
+
+12:21.960 --> 12:22.960
+That they are tightly bound
+
+12:22.960 --> 12:24.960
+The K, L, M, shell etc
+
+12:24.960 --> 12:28.960
+While the conduction electrons which are relatively free to move around
+
+12:28.960 --> 12:30.960
+Live in the conduction band
+
+12:30.960 --> 12:32.960
+And the business of understanding how much is in each
+
+12:32.960 --> 12:33.960
+Will come from statistics
+
+12:33.960 --> 12:37.960
+So we will get to that later
+
+12:37.960 --> 12:39.960
+So another thing
+
+12:39.960 --> 12:40.960
+This is now color convention
+
+12:40.960 --> 12:42.960
+When it comes to doping
+
+12:42.960 --> 12:44.960
+I will be using similar colors here
+
+12:44.960 --> 12:47.960
+N is always represented as blue
+
+12:47.960 --> 12:49.960
+P is always represented as red
+
+12:49.960 --> 12:51.960
+And you will understand why in a moment
+
+12:56.960 --> 12:59.960
+Obviously crystal structure arises from minimization of energy
+
+12:59.960 --> 13:01.960
+All of you have seen this plot most likely
+
+13:01.960 --> 13:02.960
+Right
+
+13:02.960 --> 13:03.960
+Two atoms coming together
+
+13:03.960 --> 13:05.960
+And you know what is the energy of the electrons
+
+13:05.960 --> 13:07.960
+You know that are bound to that
+
+13:07.960 --> 13:09.960
+So for hydrogen for instance
+
+13:09.960 --> 13:15.960
+This energy minimization process leads to a bond length of around 74 picometers
+
+13:15.960 --> 13:17.960
+For silicon that number is different
+
+13:17.960 --> 13:20.960
+We have previously arrived at what 5 angstroms or something like that
+
+13:20.960 --> 13:21.960
+Something like that
+
+13:21.960 --> 13:26.960
+So each element has its own particular value
+
+13:26.960 --> 13:29.960
+And this is now the silicon band structure
+
+13:29.960 --> 13:31.960
+This is from your textbook again
+
+13:31.960 --> 13:34.960
+So it divides up
+
+13:34.960 --> 13:36.960
+So you see
+
+13:36.960 --> 13:38.960
+What is the x axis here?
+
+13:39.960 --> 13:41.960
+Anybody want to guess?
+
+13:41.960 --> 13:43.960
+Distance between the two atoms
+
+13:43.960 --> 13:44.960
+Yeah
+
+13:44.960 --> 13:48.960
+So if I constructed a virtual silicon crystal
+
+13:48.960 --> 13:52.960
+Where let's say the virtual is well advised over here
+
+13:52.960 --> 13:58.960
+Where the distance between neighboring silicon atoms was not 5 angstroms
+
+13:58.960 --> 14:00.960
+But was 10 angstroms
+
+14:00.960 --> 14:03.960
+Then my band structure would look different
+
+14:06.960 --> 14:08.960
+This is where real silicon exists
+
+14:08.960 --> 14:10.960
+This dashed line
+
+14:10.960 --> 14:14.960
+If I go further here then it would look a little bit like this
+
+14:14.960 --> 14:19.960
+But it's virtual because nature does not construct that material for us
+
+14:19.960 --> 14:25.960
+Because we have no way of keeping silicon atoms in any silicon crystal further apart than 5 angstroms
+
+14:25.960 --> 14:27.960
+Because of lower energy
+
+14:27.960 --> 14:28.960
+Yeah
+
+14:28.960 --> 14:30.960
+Every system seeks its lowest energy
+
+14:30.960 --> 14:31.960
+So it's not going to stay there
+
+14:31.960 --> 14:34.960
+But this is basically more like a mathematical model
+
+14:34.960 --> 14:35.960
+So what are those lines?
+
+14:35.960 --> 14:37.960
+Like at one point you have two lines
+
+14:37.960 --> 14:38.960
+Yeah
+
+14:38.960 --> 14:40.960
+So these are what are known as sub-bands
+
+14:40.960 --> 14:41.960
+Not very well defined here
+
+14:41.960 --> 14:45.960
+So that is why most people find this figure coming so soon
+
+14:45.960 --> 14:47.960
+The text local is a bit indigestible
+
+14:47.960 --> 14:48.960
+But I'm just telling you
+
+14:48.960 --> 14:50.960
+That there are two concepts here
+
+14:50.960 --> 14:52.960
+States and electrons
+
+14:52.960 --> 14:54.960
+At least we can agree on that
+
+14:54.960 --> 14:59.960
+States refers to an electron can exist here
+
+14:59.960 --> 15:02.960
+It doesn't mean that it will exist there
+
+15:02.960 --> 15:04.960
+It can exist here
+
+15:04.960 --> 15:06.960
+While on the other hand
+
+15:06.960 --> 15:07.960
+An electron is an electron
+
+15:07.960 --> 15:09.960
+It's either there or it's not there
+
+15:09.960 --> 15:10.960
+It's a binary choice
+
+15:10.960 --> 15:16.960
+So it's like the bonding electrons are there and electrons are there
+
+15:16.960 --> 15:19.960
+In the anti-bonding also electrons can be there
+
+15:19.960 --> 15:23.960
+But they're not usually there because they're anti-bonding orbitals to start with
+
+15:23.960 --> 15:27.960
+Like if I have a surplus of electrons then it will be there
+
+15:27.960 --> 15:30.960
+You'll have to be more clear about what you mean by surplus of electrons
+
+15:30.960 --> 15:33.960
+I mean like for silicon there are only 14 electrons
+
+15:33.960 --> 15:35.960
+So 4 electrons take place in this bonding-anti-bonding
+
+15:35.960 --> 15:40.960
+If I had say a different atom with say 18 electrons
+
+15:40.960 --> 15:42.960
+It'll also have a different band structure
+
+15:42.960 --> 15:43.960
+For the same
+
+15:43.960 --> 15:46.960
+If it had the same band structure then it would be okay
+
+15:46.960 --> 15:48.960
+But again then we're talking about a virtual material
+
+15:48.960 --> 15:49.960
+Yeah
+
+15:49.960 --> 15:50.960
+Okay
+
+15:50.960 --> 15:52.960
+So why is it always an integer multiple?
+
+15:52.960 --> 15:54.960
+Because we count electrons
+
+15:54.960 --> 15:56.960
+There's no such thing as 1.3 electrons
+
+15:56.960 --> 15:59.960
+So it's an integer multiple of the number of electrons
+
+15:59.960 --> 16:04.960
+I mean if you have zero electrons how can you have three minor states in the total state?
+
+16:04.960 --> 16:10.960
+See four n states means that there are that many places for electrons to go set
+
+16:10.960 --> 16:14.960
+But they're not sitting there at present
+
+16:14.960 --> 16:19.960
+Do these states have to be equal in the conduction band and valence band or are they different?
+
+16:19.960 --> 16:21.960
+They can be different, depends on your bandwidth
+
+16:21.960 --> 16:26.960
+It depends on how many bonding and what is the energy level difference between bonding and anti-bonding and etc.
+
+16:26.960 --> 16:28.960
+Again multiple depends completely
+
+16:28.960 --> 16:32.960
+But what is the use of this diagram if we cannot create such a diagram?
+
+16:32.960 --> 16:39.960
+The use of this diagram is for you to get an early flavour of that
+
+16:39.960 --> 16:46.960
+The concept of a state being available and the concept of an electron actually populating that state are two different ideas
+
+16:46.960 --> 16:53.960
+We will based on, you know, driven or motivated by this diagram calculate the number of states available
+
+16:53.960 --> 16:57.960
+And also the correspondence that is needed to populate those states
+
+16:57.960 --> 17:01.960
+The combination of the two will give us certain important quantities
+
+17:01.960 --> 17:05.960
+And that we want to possibly by next next lecture
+
+17:05.960 --> 17:11.960
+Sir but in this diagram the only part of the diagram that we ever will really work with is the
+
+17:11.960 --> 17:15.960
+The dashed line, the rest are all virtual materials
+
+17:15.960 --> 17:22.960
+The dashed line, the vertical dashed line, that is real silicon, the rest is all virtual silicon
+
+17:22.960 --> 17:24.960
+Right? Okay
+
+17:24.960 --> 17:29.960
+Sir how from the graph are we integrating this four n and three n at any specific point?
+
+17:29.960 --> 17:30.960
+Pardon?
+
+17:30.960 --> 17:31.960
+Yeah?
+
+17:31.960 --> 17:34.960
+Like if you take any point on this line, how are you integrating that?
+
+17:34.960 --> 17:37.960
+Okay there will be two n states, okay there will be four n states or something
+
+17:37.960 --> 17:39.960
+Because we are talking about fermions, right?
+
+17:39.960 --> 17:41.960
+Electrons up spin and down spin
+
+17:41.960 --> 17:42.960
+Yes
+
+17:42.960 --> 17:43.960
+So two states
+
+17:43.960 --> 17:46.960
+No I mean if you take any random point on this
+
+17:46.960 --> 17:47.960
+Yes
+
+17:47.960 --> 17:49.960
+Like there is no like order in this thing
+
+17:49.960 --> 17:54.960
+It would be like a state and then there will be something less than a state as you go along
+
+17:54.960 --> 17:56.960
+This is a continuum right?
+
+17:56.960 --> 17:57.960
+This is a continuum
+
+17:57.960 --> 17:58.960
+Yes
+
+17:58.960 --> 18:00.960
+So it could be anywhere in here right?
+
+18:00.960 --> 18:05.960
+No I mean you like they say it is four n states and then after that eight n states and then two n states
+
+18:05.960 --> 18:08.960
+So there is no order, so how are you pinpointing the number of
+
+18:08.960 --> 18:10.960
+Because that arises from silicon matter
+
+18:11.960 --> 18:13.960
+It is a result of a calculation, yes
+
+18:13.960 --> 18:18.960
+Sir also is there any concept of kind of on purpose pushing or pulling the silicon atoms
+
+18:18.960 --> 18:20.960
+In different distances for ideal value?
+
+18:20.960 --> 18:24.960
+Okay now you have raised an important question that you didn't mean to
+
+18:24.960 --> 18:26.960
+Strain silicon
+
+18:26.960 --> 18:29.960
+Like if I take silicon and I grow it on a substrate
+
+18:29.960 --> 18:32.960
+Which is lattice mismatched
+
+18:32.960 --> 18:33.960
+What will that do?
+
+18:33.960 --> 18:35.960
+Mismatched as an exfoliator
+
+18:35.960 --> 18:38.960
+Like it either has a lattice constant larger than five or smaller than five
+
+18:38.960 --> 18:41.960
+Compressive or tensile strain
+
+18:41.960 --> 18:46.960
+Which means that I will be constructing one of these virtual silicons there
+
+18:46.960 --> 18:48.960
+But at least within certain number of monolayers
+
+18:48.960 --> 18:50.960
+Because I know what happens when I go further away from the interface
+
+18:50.960 --> 18:52.960
+We already discussed it actually
+
+18:52.960 --> 18:57.960
+There it basically relaxes to bulk whether through formation dislocations or not
+
+18:57.960 --> 18:58.960
+Because
+
+18:58.960 --> 19:01.960
+Because silicon you cannot force a bulk
+
+19:01.960 --> 19:05.960
+Like a large piece of silicon into becoming virtual silicon of some sort
+
+19:05.960 --> 19:08.960
+It will only mean certain number of layers that is impacted by that
+
+19:08.960 --> 19:09.960
+Yes
+
+19:09.960 --> 19:13.960
+Sir in the previous diagram you actually
+
+19:13.960 --> 19:15.960
+You don't have to go back sir
+
+19:15.960 --> 19:17.960
+Like when we had bonding and anti-bonding
+
+19:17.960 --> 19:20.960
+There was a lower line for bonding electrons
+
+19:20.960 --> 19:22.960
+And the upper line
+
+19:22.960 --> 19:26.960
+So the two lines for the actual spacing that we have
+
+19:26.960 --> 19:28.960
+Where we have force n states
+
+19:28.960 --> 19:30.960
+And force n electrons
+
+19:30.960 --> 19:32.960
+Those are for the bonding ones
+
+19:32.960 --> 19:33.960
+Then there is the bandgap
+
+19:33.960 --> 19:35.960
+And then the upper two are for the anti-bonding ones
+
+19:35.960 --> 19:37.960
+Yeah so force n states and zero electrons
+
+19:37.960 --> 19:38.960
+Yeah
+
+19:38.960 --> 19:42.960
+Mind you force n states and zero electrons is something that would occur at absolute zero
+
+19:42.960 --> 19:46.960
+Where there is no energy available for the electrons to go up the production band
+
+19:46.960 --> 19:50.960
+You will discover that in like a couple of slides but I am just putting it out here
+
+19:50.960 --> 19:54.960
+In this graph here you can see what is a virtual silicon and what is a real silicon
+
+19:54.960 --> 19:56.960
+Dash line is the real silicon
+
+19:56.960 --> 19:57.960
+The vertical dash line
+
+19:57.960 --> 19:58.960
+That is it
+
+19:58.960 --> 20:01.960
+Because that is the lattice distance at which silicon condenses
+
+20:01.960 --> 20:02.960
+There is no other distance
+
+20:02.960 --> 20:04.960
+But there are three dash lines
+
+20:04.960 --> 20:06.960
+Oh they are just reference lines
+
+20:06.960 --> 20:09.960
+They were just showing okay that in that particular period there is no gap
+
+20:09.960 --> 20:10.960
+Pardon
+
+20:10.960 --> 20:15.960
+I think you are referring to this neck over here right
+
+20:15.960 --> 20:16.960
+Yeah
+
+20:16.960 --> 20:19.960
+So this is also a virtual silicon
+
+20:19.960 --> 20:21.960
+But importantly there is no bandgap
+
+20:21.960 --> 20:25.960
+So that is why it is indicated in that
+
+20:25.960 --> 20:26.960
+Sir is there
+
+20:26.960 --> 20:28.960
+What is the use for virtual silicon?
+
+20:28.960 --> 20:29.960
+I just mentioned
+
+20:29.960 --> 20:30.960
+You got a straight layer of silicon
+
+20:30.960 --> 20:31.960
+You will have to go
+
+20:31.960 --> 20:32.960
+That is how the moment created
+
+20:32.960 --> 20:33.960
+But are there like
+
+20:33.960 --> 20:34.960
+Oh yes
+
+20:34.960 --> 20:37.960
+The effective mass for instance is different for straight silicon
+
+20:37.960 --> 20:39.960
+You might need it for some application
+
+20:39.960 --> 20:44.960
+What about for a very small layer like say 10-20 layers of silicon
+
+20:44.960 --> 20:47.960
+Is it useful practically like can you build and you know
+
+20:47.960 --> 20:54.960
+I would say that almost all the modern devices basically they rely almost critically on those 10-20 layers
+
+20:54.960 --> 20:55.960
+The bulk does not matter
+
+20:55.960 --> 20:59.960
+Sir so the casual speed will be different in a screened or compressed silicon obviously
+
+20:59.960 --> 21:01.960
+They will have different mobilities different bandgap everything is different
+
+21:01.960 --> 21:05.960
+So which one actually has a faster speed is there like a general input or
+
+21:05.960 --> 21:06.960
+No
+
+21:06.960 --> 21:15.960
+So for instance it depends upon whether the scattering in that particular direction changes enough so as to go below the bulk silicon scattering or not
+
+21:15.960 --> 21:19.960
+Will depend upon the material how it is trained by how much it is trained
+
+21:19.960 --> 21:24.960
+And whether there are any dipole-dipole interactions because if the underlying material is polar
+
+21:24.960 --> 21:27.960
+It will have an influence it will lead to dipole scattering also
+
+21:27.960 --> 21:31.960
+So it is a complex question depends on each system
+
+21:31.960 --> 21:35.960
+Sir so we can does that actually math exist like is it
+
+21:35.960 --> 21:37.960
+Math is very hard
+
+21:37.960 --> 21:42.960
+See this is a case of where math is extremely hard but experiments are relatively easy
+
+21:42.960 --> 21:45.960
+And importantly they get you the result you want
+
+21:45.960 --> 21:47.960
+So yeah
+
+21:47.960 --> 21:52.960
+Sir so maybe we can come up with a theory to explain this
+
+21:52.960 --> 21:53.960
+It depends
+
+21:53.960 --> 21:58.960
+So how are these states defined there and I am not looking at that what is that important state
+
+21:58.960 --> 22:00.960
+But if I didn't show it to you you will understand exactly
+
+22:00.960 --> 22:08.960
+Sir why are in the left and the right half symmetric like there are two atoms that go in the middle
+
+22:08.960 --> 22:13.960
+Yeah
+
+22:13.960 --> 22:16.960
+So it is asymmetric because this is asymmetric
+
+22:16.960 --> 22:19.960
+But that would be same
+
+22:19.960 --> 22:21.960
+You never know
+
+22:21.960 --> 22:23.960
+Look this is the offshore distance
+
+22:23.960 --> 22:28.960
+So it is a measure of how close the two atoms get and how far away they go
+
+22:28.960 --> 22:30.960
+It is not whether I am making the lecture right
+
+22:30.960 --> 22:32.960
+I hope that is clear
+
+22:32.960 --> 22:36.960
+I am saying I have got an aggregator number of atoms
+
+22:36.960 --> 22:38.960
+Which come and condense at a distance r
+
+22:38.960 --> 22:39.960
+You never know
+
+22:39.960 --> 22:41.960
+Tell me what happens at a distance r
+
+22:41.960 --> 22:43.960
+That is what this diagram is
+
+22:43.960 --> 22:44.960
+I don't know
+
+22:44.960 --> 22:45.960
+I don't know
+
+22:45.960 --> 22:46.960
+I don't know
+
+22:46.960 --> 22:47.960
+I don't know
+
+22:47.960 --> 22:48.960
+I don't know
+
+22:48.960 --> 22:49.960
+I don't know
+
+22:49.960 --> 22:51.960
+I don't know
+
+22:51.960 --> 22:56.960
+This is the continuous
+
+22:56.960 --> 22:59.000
+I think this is the urgent
+
+22:59.000 --> 23:00.960
+This is the region
+
+23:00.960 --> 23:01.960
+Right
+
+23:01.960 --> 23:14.600
+N refers to the number of atoms that is
+
+23:14.600 --> 23:17.960
+Nobody asked me that question
+
+23:17.960 --> 23:19.960
+Well that comes
+
+23:19.960 --> 23:20.960
+. . . . . 다
+
+23:20.960 --> 23:21.900
+These back lines?
+
+23:22.100 --> 23:22.440
+These ones?
+
+23:23.100 --> 23:24.880
+So this is just a distance at which
+
+23:24.880 --> 23:26.320
+virtual silicon does not have a band.
+
+23:28.680 --> 23:31.020
+The property of the material at that particular distance.
+
+23:31.160 --> 23:32.980
+It is just that if I left things B,
+
+23:33.300 --> 23:34.760
+it would never condense into this form.
+
+23:35.780 --> 23:37.020
+But you could say
+
+23:37.020 --> 23:38.720
+that by going by the definition of metal
+
+23:38.720 --> 23:41.720
+that a silicon that condenses it
+
+23:41.720 --> 23:43.000
+with this interatomic distance
+
+23:43.000 --> 23:43.740
+would act as a metal.
+
+23:45.120 --> 23:45.600
+Is this enough?
+
+23:47.100 --> 23:48.160
+So what was N here?
+
+23:48.160 --> 23:51.600
+Well, there is no gap.
+
+23:52.540 --> 23:53.600
+It depends upon
+
+23:53.600 --> 23:56.060
+at what energy you are injecting carriers into it.
+
+23:56.080 --> 23:58.040
+If the energy is much below
+
+23:58.040 --> 23:59.760
+this level,
+
+24:00.240 --> 24:01.200
+then it will be insulated.
+
+24:01.340 --> 24:02.820
+If I am injecting anywhere above this,
+
+24:02.820 --> 24:03.500
+then that doesn't matter.
+
+24:04.820 --> 24:06.220
+But why doesn't silicon exist
+
+24:06.220 --> 24:07.640
+in that virtual region,
+
+24:07.720 --> 24:09.660
+but it exists after that virtual region?
+
+24:10.680 --> 24:11.340
+No, no.
+
+24:11.460 --> 24:13.660
+Silicon exists only at this line.
+
+24:14.340 --> 24:14.860
+Nowhere else.
+
+24:16.380 --> 24:17.740
+Everything else is virtual here.
+
+24:17.980 --> 24:18.120
+Okay.
+
+24:18.160 --> 24:21.980
+So can I construct silicon
+
+24:21.980 --> 24:23.900
+that is an iron
+
+24:23.900 --> 24:24.680
+and a fiber?
+
+24:26.140 --> 24:26.540
+See,
+
+24:27.540 --> 24:28.080
+first of all,
+
+24:28.220 --> 24:30.000
+the further away I go from this black line,
+
+24:30.080 --> 24:31.420
+the harder it becomes to construct that.
+
+24:31.680 --> 24:31.820
+Right?
+
+24:32.080 --> 24:33.060
+Everybody will give me that?
+
+24:33.820 --> 24:35.600
+So even if I do strained air epitaxy,
+
+24:35.640 --> 24:36.860
+I am not going to go very far away
+
+24:36.860 --> 24:37.580
+from that black line.
+
+24:38.660 --> 24:40.740
+So whether you can reach that neck region
+
+24:40.740 --> 24:42.020
+using strained air epitaxy,
+
+24:42.820 --> 24:44.340
+so far there are no reports.
+
+24:45.980 --> 24:47.980
+So what was the capital of the drop?
+
+24:47.980 --> 24:48.280
+Yeah.
+
+24:48.280 --> 24:50.680
+What was the number of?
+
+24:50.680 --> 24:51.680
+I don't understand.
+
+24:51.680 --> 24:52.680
+.
+
+24:52.680 --> 24:53.680
+.
+
+24:53.680 --> 24:54.680
+.
+
+24:54.680 --> 24:55.680
+.
+
+24:55.680 --> 24:56.680
+.
+
+24:56.680 --> 24:57.680
+.
+
+24:57.680 --> 24:58.680
+.
+
+24:58.680 --> 24:59.680
+.
+
+24:59.680 --> 25:00.680
+.
+
+25:00.680 --> 25:01.680
+.
+
+25:01.680 --> 25:02.680
+.
+
+25:02.680 --> 25:03.680
+.
+
+25:03.680 --> 25:04.680
+.
+
+25:04.680 --> 25:05.680
+.
+
+25:05.680 --> 25:06.680
+.
+
+25:06.680 --> 25:07.680
+.
+
+25:07.680 --> 25:08.680
+.
+
+25:08.680 --> 25:09.680
+.
+
+25:09.680 --> 25:10.680
+.
+
+25:10.680 --> 25:11.680
+.
+
+25:11.680 --> 25:12.680
+.
+
+25:12.680 --> 25:13.680
+.
+
+25:13.680 --> 25:14.680
+.
+
+25:14.680 --> 25:15.680
+.
+
+25:15.680 --> 25:16.680
+.
+
+25:16.680 --> 25:17.680
+.
+
+25:17.680 --> 25:17.720
+.
+
+25:17.720 --> 25:18.380
+.
+
+25:18.380 --> 25:25.420
+So another thing,
+
+25:25.700 --> 25:27.940
+because of the Williams band being
+
+25:27.940 --> 25:29.740
+a collection of
+
+25:29.740 --> 25:31.700
+random orbitals
+
+25:31.700 --> 25:34.780
+and the conduction band being a collection of
+
+25:34.780 --> 25:35.960
+anti-warning orbitals,
+
+25:37.680 --> 25:38.660
+at the dashed line,
+
+25:38.880 --> 25:39.480
+real silicon,
+
+25:41.140 --> 25:43.740
+six n states are in the 3T orbitals.
+
+25:45.340 --> 25:46.760
+We can do that.
+
+25:46.760 --> 25:50.100
+and 3s has 2n states
+
+25:50.100 --> 25:51.540
+because s orbital carries only 2
+
+25:51.540 --> 25:54.520
+so there is an asymmetry
+
+25:54.520 --> 25:55.600
+in the number of states available
+
+25:55.600 --> 25:56.760
+between valence and conduction
+
+25:56.760 --> 26:00.720
+in general
+
+26:00.720 --> 26:03.800
+that asymmetry will not show itself
+
+26:03.800 --> 26:04.240
+because
+
+26:04.240 --> 26:07.620
+as we will learn later when we change the x coordinate
+
+26:07.620 --> 26:08.280
+of this plot
+
+26:08.280 --> 26:11.380
+the energies that are needed to
+
+26:11.380 --> 26:14.000
+run into a case where these 2n or 6n
+
+26:14.000 --> 26:14.720
+are insufficient
+
+26:14.720 --> 26:17.620
+in general it won't arise
+
+26:17.620 --> 26:19.260
+the energies needed are just
+
+26:19.260 --> 26:21.860
+your silicon crystal will disintegrate
+
+26:21.860 --> 26:22.640
+before you get to 2n
+
+26:22.640 --> 26:25.560
+so let's say
+
+26:25.560 --> 26:27.040
+I start populating these states
+
+26:27.040 --> 26:29.780
+how much energy do I need
+
+26:29.780 --> 26:31.440
+to actually fill them all up
+
+26:31.440 --> 26:34.020
+more than the band gap
+
+26:34.020 --> 26:36.060
+because you see these states are in a continuum
+
+26:36.060 --> 26:38.000
+which means you need the band gap
+
+26:38.000 --> 26:39.380
+energy to reach the band edge
+
+26:39.380 --> 26:41.300
+I need more energy to go above that
+
+26:41.300 --> 26:43.760
+and that keeps on rising
+
+26:43.760 --> 26:46.000
+you will have the exact mathematical formula
+
+26:46.000 --> 26:46.660
+for that in a bit
+
+26:46.660 --> 26:51.560
+so counting of occupied and unoccupied states
+
+26:51.560 --> 26:51.960
+we have done
+
+26:51.960 --> 26:53.500
+so now let's define some basics
+
+26:53.500 --> 26:55.580
+of what you have learnt regarding band structure
+
+26:55.580 --> 26:58.000
+now here is where x coordinates
+
+26:58.000 --> 26:59.680
+of that plot become important
+
+26:59.680 --> 27:00.480
+I am going to draw
+
+27:00.480 --> 27:02.180
+2 different
+
+27:02.180 --> 27:05.020
+pictures here
+
+27:05.020 --> 27:13.340
+energy
+
+27:13.760 --> 27:19.160
+so the previous graph was also in the transformed space
+
+27:19.160 --> 27:22.260
+or that was in the non-real space
+
+27:22.260 --> 27:23.460
+no that was in real space
+
+27:23.460 --> 27:24.380
+I was in real space
+
+27:24.380 --> 27:26.640
+this is now in transformed space
+
+27:26.640 --> 27:28.980
+I am going to that
+
+27:28.980 --> 27:34.220
+so you see E versus R
+
+27:34.220 --> 27:35.920
+there is another way of actually plotting this
+
+27:35.920 --> 27:37.140
+that is in dual space
+
+27:37.140 --> 27:38.300
+E versus A
+
+27:38.300 --> 27:42.420
+now this is where x coordinates become dual space
+
+27:42.420 --> 27:43.740
+what question is this plot
+
+27:43.760 --> 27:45.760
+what information does this plot give you
+
+27:45.760 --> 27:47.760
+what is the energy of my electron
+
+27:47.760 --> 27:50.760
+versus the separation between the two atoms
+
+27:50.760 --> 27:52.760
+versus the separation between the two atoms
+
+27:52.760 --> 27:55.760
+or if I have already got a grain of silicon
+
+27:55.760 --> 27:56.760
+I have an electron
+
+27:56.760 --> 28:00.760
+I want to track its energy as it pops from atom to atom
+
+28:00.760 --> 28:01.760
+right
+
+28:01.760 --> 28:05.760
+but the thing is the electron is moving in real space
+
+28:05.760 --> 28:06.760
+here
+
+28:06.760 --> 28:10.760
+so this is known as
+
+28:10.760 --> 28:13.260
+band diagram
+
+28:13.260 --> 28:16.260
+it's important to get these terminologies right
+
+28:16.260 --> 28:19.260
+that's what a band diagram is
+
+28:19.260 --> 28:21.260
+this one is in dual space now
+
+28:21.260 --> 28:23.260
+E versus K
+
+28:23.260 --> 28:24.260
+this still
+
+28:24.260 --> 28:27.260
+if I ask myself the same question
+
+28:27.260 --> 28:30.260
+the information I would get from this particular
+
+28:30.260 --> 28:31.260
+you know
+
+28:31.260 --> 28:34.260
+plot would be
+
+28:34.260 --> 28:37.260
+how much energy does my electron have
+
+28:37.260 --> 28:40.260
+depending on how fast it is moving
+
+28:40.260 --> 28:42.260
+so what is the energy of the electron?
+
+28:42.260 --> 28:43.260
+not always
+
+28:43.260 --> 28:44.260
+not always
+
+28:44.260 --> 28:45.260
+not always
+
+28:45.260 --> 28:47.260
+I'll show you in a moment
+
+28:47.260 --> 28:50.260
+this plot assumes that the band
+
+28:50.260 --> 28:52.260
+I should put a name over here
+
+28:52.260 --> 28:54.260
+this particular plot is known as
+
+28:54.260 --> 28:55.260
+band structure
+
+28:55.260 --> 28:56.260
+band structure
+
+29:02.260 --> 29:05.260
+so band diagram and band structure have two different means
+
+29:05.260 --> 29:10.260
+only if I'm very very close to the minimum of the conduction band
+
+29:10.260 --> 29:11.260
+and I'll define that in a moment
+
+29:11.260 --> 29:17.260
+the further away I go that's no longer true
+
+29:17.260 --> 29:18.260
+okay
+
+29:18.260 --> 29:21.260
+now let's talk about a direct band gap semiconductor
+
+29:21.260 --> 29:22.260
+okay
+
+29:22.260 --> 29:32.260
+so it is traditional to locate the top of the valence band at equal to zero
+
+29:32.260 --> 29:34.260
+okay
+
+29:34.260 --> 29:38.260
+and we always draw this as well as this
+
+29:38.260 --> 29:40.260
+for increasing electron energies
+
+29:40.260 --> 29:41.260
+okay
+
+29:41.260 --> 29:42.260
+this is a convention
+
+29:42.260 --> 29:43.260
+this is a convention
+
+29:43.260 --> 29:44.260
+you can do it in any other way
+
+29:44.260 --> 29:46.260
+by the way it will be perfectly correct
+
+29:46.260 --> 29:50.260
+but you will have to add negative signs throughout your entire semiconductor
+
+29:50.260 --> 29:51.260
+everywhere
+
+29:51.260 --> 29:53.260
+see it's like a voltage right?
+
+29:53.260 --> 29:55.260
+if you multiply this with charge
+
+29:55.260 --> 29:58.260
+I actually get something that has the dimensions of a voltage
+

@@ -1,0 +1,1404 @@
+1
+00:00:00,000 --> 00:00:08,480
+I can either say that my energy of the electron is minus E times E, because the electron charge is negative,
+
+2
+00:00:09,100 --> 00:00:13,460
+or I can say, okay, I'm going to forget about that negative sign, because it creates a mess for me,
+
+3
+00:00:14,000 --> 00:00:15,900
+and I'm going to just write it as E times E.
+
+4
+00:00:16,660 --> 00:00:19,740
+In semiconductors, we follow the E times E convention.
+
+5
+00:00:20,740 --> 00:00:28,000
+I don't know of a single textbook or a published piece of scientific literature where people do it the other way around.
+
+6
+00:00:28,000 --> 00:00:30,860
+But the connection band is drawn at the bottom.
+
+7
+00:00:31,560 --> 00:00:36,920
+The reason is that we generally associate higher energies with anti-bonding orbitals.
+
+8
+00:00:37,080 --> 00:00:38,020
+We just learned about that.
+
+9
+00:00:41,260 --> 00:00:51,460
+And since we actually associate that, we want to retain the idea of electrons being promoted to higher energy levels
+
+10
+00:00:51,460 --> 00:00:54,000
+as the system being in a higher energy state altogether.
+
+11
+00:00:55,540 --> 00:00:58,000
+So the convention in some sense is forced.
+
+12
+00:00:58,000 --> 00:00:59,180
+It comes from that natural requirement.
+
+13
+00:00:59,720 --> 00:01:01,620
+But there's nothing special about that convention.
+
+14
+00:01:02,120 --> 00:01:06,260
+It is just that this convention is so universal that it basically becomes a protocol.
+
+15
+00:01:07,740 --> 00:01:08,080
+Okay.
+
+16
+00:01:09,960 --> 00:01:14,520
+I locate the top of the Willans band at E equal to zero.
+
+17
+00:01:15,600 --> 00:01:22,220
+If I draw my band diagram now for real silicon, to that dashed line that you had,
+
+18
+00:01:25,360 --> 00:01:27,600
+my Willans band energy,
+
+19
+00:01:28,000 --> 00:01:32,000
+would be constant as a function of R.
+
+20
+00:01:32,000 --> 00:01:34,000
+Why?
+
+21
+00:01:34,000 --> 00:01:38,000
+I am in the middle of the bulk silicon, right?
+
+22
+00:01:38,000 --> 00:01:41,000
+My band gap should not change.
+
+23
+00:01:41,000 --> 00:01:43,000
+I'm inside the same material.
+
+24
+00:01:43,000 --> 00:01:45,000
+Would you put X mark over here?
+
+25
+00:01:45,000 --> 00:01:46,000
+Hm?
+
+26
+00:01:46,000 --> 00:01:47,000
+You are pulling an X mark over here.
+
+27
+00:01:47,000 --> 00:01:49,000
+I'm just giving you one part of it.
+
+28
+00:01:49,000 --> 00:01:51,000
+You'll see how radically different this is.
+
+29
+00:01:51,000 --> 00:01:52,000
+Sure.
+
+30
+00:01:52,000 --> 00:01:53,000
+Yeah.
+
+31
+00:01:53,000 --> 00:01:58,000
+So can we say that when I am having, say, in a continuous space,
+
+32
+00:01:58,000 --> 00:02:00,000
+I have two atoms, A and B,
+
+33
+00:02:00,000 --> 00:02:03,000
+even if I am changing their relative distance,
+
+34
+00:02:03,000 --> 00:02:10,000
+A and B and all such atoms exist at a distance that nature intended them to.
+
+35
+00:02:10,000 --> 00:02:11,000
+Yes.
+
+36
+00:02:11,000 --> 00:02:14,000
+So that means that distance is now fixed at five amps from the surface area.
+
+37
+00:02:14,000 --> 00:02:18,000
+So when we are actually varying R, we are just actually changing the reference at the end.
+
+38
+00:02:18,000 --> 00:02:21,000
+The coordinate of the electron that is free to move around.
+
+39
+00:02:22,000 --> 00:02:24,000
+That's the purpose of this particular part.
+
+40
+00:02:24,000 --> 00:02:27,000
+So R is the position of electron relative to the atoms?
+
+41
+00:02:27,000 --> 00:02:30,000
+Any arbitrarily chosen atom.
+
+42
+00:02:30,000 --> 00:02:33,000
+Because R equals zero in this case is not special.
+
+43
+00:02:33,000 --> 00:02:35,000
+It's somewhere in the semiconductor.
+
+44
+00:02:35,000 --> 00:02:40,000
+So where do we get to draw this diagram for ?
+
+45
+00:02:40,000 --> 00:02:45,000
+Well, it's useful for calculating electron energies because that's all that we are doing here.
+
+46
+00:02:45,000 --> 00:02:48,000
+So how do the electron energies distribute themselves?
+
+47
+00:02:48,000 --> 00:02:50,000
+Both this and this .
+
+48
+00:02:50,000 --> 00:02:53,000
+But there are different complementary pictures of that.
+
+49
+00:02:53,000 --> 00:02:55,000
+That's the question.
+
+50
+00:02:55,000 --> 00:02:56,000
+Okay.
+
+51
+00:02:56,000 --> 00:02:58,000
+So band-iron, yes.
+
+52
+00:02:58,000 --> 00:03:02,000
+Atom, you are talking about real silicon here.
+
+53
+00:03:02,000 --> 00:03:06,000
+We are looking at the R coordinate of the electron.
+
+54
+00:03:06,000 --> 00:03:08,000
+An electron that is free to move around.
+
+55
+00:03:08,000 --> 00:03:11,000
+Now if it is in the valence band, it's not free to move around.
+
+56
+00:03:11,000 --> 00:03:13,000
+It has the same energy no matter where you go in it.
+
+57
+00:03:13,000 --> 00:03:15,000
+Yes.
+
+58
+00:03:15,000 --> 00:03:17,000
+That is completely different from that.
+
+59
+00:03:17,000 --> 00:03:19,000
+That R is different from this R.
+
+60
+00:03:19,000 --> 00:03:20,000
+This is real silicon.
+
+61
+00:03:20,000 --> 00:03:24,000
+That was real silicon along a line and then all possible mathematical possibilities of that silicon.
+
+62
+00:03:24,000 --> 00:03:30,000
+There was a distance between the two silicon atoms.
+
+63
+00:03:30,000 --> 00:03:32,000
+Here is the position vector of the electron.
+
+64
+00:03:32,000 --> 00:03:36,000
+Is the position vector of the electron chosen from some other starting point?
+
+65
+00:03:36,000 --> 00:03:38,000
+Okay.
+
+66
+00:03:38,000 --> 00:03:42,000
+So the energy that I need to remain in the valence band,
+
+67
+00:03:42,000 --> 00:03:47,000
+the highest energy at which I remain in the valence band is the same regardless of where I am in the bulb.
+
+68
+00:03:47,000 --> 00:03:48,000
+Right?
+
+69
+00:03:48,000 --> 00:03:50,000
+That's my bonding energy.
+
+70
+00:03:50,000 --> 00:03:52,000
+Similarly, the energy,
+
+71
+00:03:52,000 --> 00:03:56,000
+the minimum energy at which the electron becomes free to move
+
+72
+00:03:56,000 --> 00:04:00,000
+is also the same regardless of where you are in the bulb.
+
+73
+00:04:00,000 --> 00:04:03,000
+So the band diagram is actually pretty simple.
+
+74
+00:04:03,000 --> 00:04:06,000
+It's two parallel lines.
+
+75
+00:04:06,000 --> 00:04:09,000
+Everybody understood that?
+
+76
+00:04:09,000 --> 00:04:11,000
+So can you explain the top line?
+
+77
+00:04:11,000 --> 00:04:13,000
+This is E C.
+
+78
+00:04:13,000 --> 00:04:15,000
+This is E V.
+
+79
+00:04:15,000 --> 00:04:20,000
+But you said that E C varies as we go higher and higher in the conduction band.
+
+80
+00:04:20,000 --> 00:04:22,000
+So there will be some bands here but we are not showing them.
+
+81
+00:04:22,000 --> 00:04:26,000
+We are showing the lowest possible energy where the electron can become free.
+
+82
+00:04:26,000 --> 00:04:28,000
+This is the band gap.
+
+83
+00:04:28,000 --> 00:04:34,000
+This distance is the band gap.
+
+84
+00:04:34,000 --> 00:04:39,000
+Any electron which is deeper in the bulb would have to go higher.
+
+85
+00:04:39,000 --> 00:04:41,000
+It would have to pick up more energy or move more.
+
+86
+00:04:41,000 --> 00:04:46,000
+Why don't we show the valence band and which is more negative,
+
+87
+00:04:46,000 --> 00:04:48,000
+the deeper we go into the valence band?
+
+88
+00:04:48,000 --> 00:04:50,000
+Yes.
+
+89
+00:04:50,000 --> 00:04:52,000
+So within the bulb,
+
+90
+00:04:52,000 --> 00:04:54,000
+for the electron is more or less the same.
+
+91
+00:04:54,000 --> 00:04:55,000
+That is what this diagram is.
+
+92
+00:04:55,000 --> 00:04:56,000
+That is the definition of bulk is.
+
+93
+00:04:56,000 --> 00:04:58,000
+Yes, so that is what the diagram is.
+
+94
+00:04:58,000 --> 00:05:01,000
+So the diagram is implicitly saying that every point in the bulb is equivalent.
+
+95
+00:05:01,000 --> 00:05:03,000
+That is only for the bulb.
+
+96
+00:05:03,000 --> 00:05:05,000
+At the surface, things change.
+
+97
+00:05:05,000 --> 00:05:07,000
+We won't do that.
+
+98
+00:05:07,000 --> 00:05:10,000
+You might say this is a pretty boring diagram.
+
+99
+00:05:10,000 --> 00:05:11,000
+Why bother with this at all?
+
+100
+00:05:11,000 --> 00:05:12,000
+It's just two parallel lines.
+
+101
+00:05:12,000 --> 00:05:15,000
+The thing is devices don't consist of a single bulb.
+
+102
+00:05:15,000 --> 00:05:18,000
+It consists of various things that are other than the bulb.
+
+103
+00:05:18,000 --> 00:05:20,000
+Other materials that they interface may be two contacts or whatever.
+
+104
+00:05:20,000 --> 00:05:21,000
+In which case,
+
+105
+00:05:22,000 --> 00:05:26,000
+this diagram would actually have discontinuities at both places.
+
+106
+00:05:26,000 --> 00:05:27,000
+And then,
+
+107
+00:05:27,000 --> 00:05:29,000
+now I would become special by the way.
+
+108
+00:05:29,000 --> 00:05:34,000
+Because how close or far away the electron is from that particular interface makes a difference.
+
+109
+00:05:34,000 --> 00:05:35,000
+But in the bulb,
+
+110
+00:05:35,000 --> 00:05:37,000
+it makes no difference whatsoever.
+
+111
+00:05:37,000 --> 00:05:38,000
+Okay, now let's talk about K,
+
+112
+00:05:38,000 --> 00:05:40,000
+which is a bit more interesting.
+
+113
+00:05:40,000 --> 00:05:45,000
+Sir, suppose if we had any subband like above EC and below EV,
+
+114
+00:05:45,000 --> 00:05:47,000
+what would that jump indicate,
+
+115
+00:05:47,000 --> 00:05:48,000
+let's say,
+
+116
+00:05:48,000 --> 00:05:50,000
+EV1 and EV3?
+
+117
+00:05:50,000 --> 00:05:51,000
+That would just indicate that
+
+118
+00:05:51,000 --> 00:05:52,000
+this electron,
+
+119
+00:05:52,000 --> 00:05:53,000
+let's say somewhere there,
+
+120
+00:05:53,000 --> 00:05:54,000
+is more strongly bound to the iron force,
+
+121
+00:05:54,000 --> 00:05:57,000
+it is less likely to ever get promoted to being a free electron.
+
+122
+00:05:57,000 --> 00:05:59,000
+Like an L-shell electron, for instance.
+
+123
+00:05:59,000 --> 00:06:02,000
+So could it become free by just jumping into EC?
+
+124
+00:06:02,000 --> 00:06:03,000
+Yeah.
+
+125
+00:06:03,000 --> 00:06:06,000
+So then what is the significance of that EC button?
+
+126
+00:06:06,000 --> 00:06:09,000
+EC is the lowest energy at which it can become free.
+
+127
+00:06:09,000 --> 00:06:11,000
+So where it would go to?
+
+128
+00:06:11,000 --> 00:06:13,000
+It would go to that same conduction band?
+
+129
+00:06:13,000 --> 00:06:14,000
+It will go to the conduction band,
+
+130
+00:06:14,000 --> 00:06:15,000
+or it could go to a point higher than that.
+
+131
+00:06:15,000 --> 00:06:17,000
+There would be other subband to this side as well.
+
+132
+00:06:17,000 --> 00:06:19,000
+That is very much different from this one.
+
+133
+00:06:19,000 --> 00:06:20,000
+They have different energies,
+
+134
+00:06:20,000 --> 00:06:21,000
+they have different mobilities.
+
+135
+00:06:21,000 --> 00:06:22,000
+I will define that later.
+
+136
+00:06:22,000 --> 00:06:23,000
+I spoke to some people.
+
+137
+00:06:23,000 --> 00:06:24,000
+.
+
+138
+00:06:24,000 --> 00:06:25,000
+.
+
+139
+00:06:25,000 --> 00:06:26,000
+.
+
+140
+00:06:26,000 --> 00:06:27,000
+.
+
+141
+00:06:27,000 --> 00:06:28,000
+.
+
+142
+00:06:28,000 --> 00:06:29,000
+.
+
+143
+00:06:29,000 --> 00:06:30,000
+.
+
+144
+00:06:30,000 --> 00:06:31,000
+.
+
+145
+00:06:31,000 --> 00:06:32,000
+.
+
+146
+00:06:32,000 --> 00:06:33,000
+.
+
+147
+00:06:33,000 --> 00:06:34,000
+.
+
+148
+00:06:34,000 --> 00:06:35,000
+.
+
+149
+00:06:35,000 --> 00:06:36,000
+.
+
+150
+00:06:36,000 --> 00:06:37,000
+.
+
+151
+00:06:37,000 --> 00:06:38,000
+.
+
+152
+00:06:38,000 --> 00:06:39,000
+.
+
+153
+00:06:39,000 --> 00:06:40,000
+.
+
+154
+00:06:40,000 --> 00:06:41,000
+.
+
+155
+00:06:41,000 --> 00:06:42,000
+.
+
+156
+00:06:42,000 --> 00:06:43,000
+.
+
+157
+00:06:43,000 --> 00:06:44,000
+.
+
+158
+00:06:44,000 --> 00:06:45,000
+.
+
+159
+00:06:45,000 --> 00:06:46,000
+.
+
+160
+00:06:46,000 --> 00:06:48,000
+.
+
+161
+00:06:48,000 --> 00:06:49,000
+.
+
+162
+00:06:49,000 --> 00:06:50,000
+.
+
+163
+00:06:50,000 --> 00:06:51,000
+.
+
+164
+00:06:51,000 --> 00:07:03,000
+.
+
+165
+00:07:03,000 --> 00:07:08,000
+.
+
+166
+00:07:08,000 --> 00:07:15,000
+.
+
+167
+00:07:15,000 --> 00:07:18,000
+.
+
+168
+00:07:18,000 --> 00:07:36,680
+I think somebody was saying parabolas here, so we do that only takes place near the edge
+
+169
+00:07:36,680 --> 00:07:40,240
+of the conduction band and we are in right there, so when you go far away it won't capture
+
+170
+00:07:40,240 --> 00:07:41,240
+the number of parabolas.
+
+171
+00:07:41,240 --> 00:07:46,660
+So I am drawing the conduction band now and this is where the real difference in silicon
+
+172
+00:07:46,660 --> 00:07:48,660
+and other materials become different.
+
+173
+00:07:48,660 --> 00:07:50,660
+Why does the energy decrease?
+
+174
+00:07:50,660 --> 00:07:52,660
+No, energy increases.
+
+175
+00:07:52,660 --> 00:07:58,660
+Energy increases because remember we are drawing this diagram for increasing electron energies,
+
+176
+00:07:58,660 --> 00:07:59,660
+conduction band.
+
+177
+00:07:59,660 --> 00:08:02,660
+In the valence band also the energies increase downwards.
+
+178
+00:08:02,660 --> 00:08:04,660
+That means it is more strongly bound.
+
+179
+00:08:04,660 --> 00:08:09,660
+But something else is less strongly bound and I have not defined that something else.
+
+180
+00:08:09,660 --> 00:08:15,660
+So an electron down here will be more strongly bound.
+
+181
+00:08:15,660 --> 00:08:16,660
+Sir, but then you know.
+
+182
+00:08:16,660 --> 00:08:22,660
+When it is more strongly bound why is the momentum more for that?
+
+183
+00:08:22,660 --> 00:08:25,660
+I will define this momentum in a bit and then it will become clear.
+
+184
+00:08:25,660 --> 00:08:29,660
+The momentum is not your normal momentum, it is what is known as the crystal momentum
+
+185
+00:08:29,660 --> 00:08:30,660
+but it is okay.
+
+186
+00:08:30,660 --> 00:08:37,660
+Sir, so if I say that if I am moving towards the bulk or away from the bulk then only my
+
+187
+00:08:37,660 --> 00:08:38,660
+k will change, right?
+
+188
+00:08:38,660 --> 00:08:41,660
+Because when I am moving along the bulk why should my…
+
+189
+00:08:41,660 --> 00:08:42,660
+Let me define k.
+
+190
+00:08:42,660 --> 00:08:44,660
+I am not defining k for you here.
+
+191
+00:08:44,660 --> 00:08:45,660
+What are the really important points?
+
+192
+00:08:45,660 --> 00:08:49,660
+See, here I did not need to define r because everything was constant, right?
+
+193
+00:08:49,660 --> 00:08:51,660
+And how many of you have watched Star Trek?
+
+194
+00:08:51,660 --> 00:08:52,660
+One, two.
+
+195
+00:08:52,660 --> 00:08:53,660
+You know the queue?
+
+196
+00:08:53,660 --> 00:08:54,660
+You remember that episode where they have that infinite road?
+
+197
+00:08:54,660 --> 00:08:55,660
+The road never ends.
+
+198
+00:08:55,660 --> 00:08:56,660
+That is basically the r existence.
+
+199
+00:08:56,660 --> 00:08:57,660
+It is very, very boring.
+
+200
+00:08:57,660 --> 00:08:58,660
+Everything is the same everywhere.
+
+201
+00:08:58,660 --> 00:08:59,660
+Okay.
+
+202
+00:08:59,660 --> 00:09:00,660
+This is a little bit different.
+
+203
+00:09:00,660 --> 00:09:01,660
+So this is the k.
+
+204
+00:09:01,660 --> 00:09:02,660
+This is the k.
+
+205
+00:09:02,660 --> 00:09:03,660
+This is the k.
+
+206
+00:09:03,660 --> 00:09:04,660
+This is the k.
+
+207
+00:09:04,660 --> 00:09:05,660
+This is the k.
+
+208
+00:09:05,660 --> 00:09:06,660
+This is the k.
+
+209
+00:09:06,660 --> 00:09:07,660
+This is the k.
+
+210
+00:09:07,660 --> 00:09:08,660
+This is the k.
+
+211
+00:09:08,660 --> 00:09:09,660
+This is the k.
+
+212
+00:09:09,660 --> 00:09:10,660
+This is the k.
+
+213
+00:09:10,660 --> 00:09:11,660
+This is the k.
+
+214
+00:09:11,660 --> 00:09:12,660
+This is the k.
+
+215
+00:09:12,660 --> 00:09:13,660
+This is the k.
+
+216
+00:09:13,660 --> 00:09:14,660
+This is the k.
+
+217
+00:09:14,660 --> 00:09:15,660
+This is the k.
+
+218
+00:09:15,660 --> 00:09:19,660
+So this is a valence band.
+
+219
+00:09:19,660 --> 00:09:23,660
+Now I define something known as first breline zone.
+
+220
+00:09:23,660 --> 00:09:27,660
+I will write it down here so that you guys can know this.
+
+221
+00:09:27,660 --> 00:09:38,660
+First.
+
+222
+00:09:38,660 --> 00:09:39,660
+Okay?
+
+223
+00:09:39,660 --> 00:09:42,660
+First breline zone, FEEZ.
+
+224
+00:09:42,660 --> 00:09:43,660
+denken WOMAN 2
+
+225
+00:09:43,660 --> 00:09:52,660
+This is the distance along positive k. By the way, this diagram is going to become significantly
+
+226
+00:09:52,660 --> 00:09:59,660
+more complicated. Right one is very simple. It's k in this direction, but we'll make it
+
+227
+00:09:59,660 --> 00:10:06,660
+more complicated in a bit. This is the distance of periodicity. This is the g vector that
+
+228
+00:10:06,660 --> 00:10:11,660
+we were referring to when we first started talking about dual space. This is the mod
+
+229
+00:10:11,660 --> 00:10:26,660
+of the g vector. Now, beyond this space, this diagram repeats itself. Now you understand
+
+230
+00:10:26,660 --> 00:10:36,660
+how this k thing is constructed? Each refers to a unit cell in k space. How do you define
+
+231
+00:10:36,660 --> 00:10:41,660
+a unit cell in k space? I think the unit cell in real space carry over its Fourier
+
+232
+00:10:41,660 --> 00:10:46,660
+transform or x-ray diffraction or whatever you have, and then you write down the corresponding
+
+233
+00:10:46,660 --> 00:10:55,660
+reciprocal relations here. Okay? So in that, as I get further and further away from the
+
+234
+00:10:55,660 --> 00:11:05,660
+center of the unit cell, my momentum naturally increases. Because what's my natural tendency?
+
+235
+00:11:05,660 --> 00:11:06,660
+You know, for a bound electron.
+
+236
+00:11:06,660 --> 00:11:12,660
+Stay within, you know, the bound state. Why do you need to go too far?
+
+237
+00:11:12,660 --> 00:11:14,660
+So could you please repeat what you used to say?
+
+238
+00:11:14,660 --> 00:11:21,660
+So as long as I have a bound electron, I have a certain punishment involved in trying to
+
+239
+00:11:21,660 --> 00:11:27,660
+stray too far away from my bound state. There's an energy barrier to overcome. So I need a
+
+240
+00:11:27,660 --> 00:11:35,660
+higher and higher momentum to actually overcome that. To pick up enough speed. In some sense,
+
+241
+00:11:35,660 --> 00:11:39,660
+you've got a neutron star and then there is a planet that is in its gravity. It requires
+
+242
+00:11:39,660 --> 00:11:44,660
+a lot of energy to get out. It's something similar to that.
+
+243
+00:11:44,660 --> 00:11:48,660
+Okay. Now how do I draw the conduction band? And this is where there's a little bit of
+
+244
+00:11:48,660 --> 00:11:54,660
+a head-scratching moment. Have you heard of things called direct and indirect bandgap
+
+245
+00:11:54,660 --> 00:12:00,660
+semiconductors? No? Okay. This diagram is what really defines that. I'll need to find
+
+246
+00:12:00,660 --> 00:12:03,660
+that. Just motivate this discussion.
+
+247
+00:12:03,660 --> 00:12:13,660
+If, if, notice the word if. My conduction band looks like this. If, where the bottom
+
+248
+00:12:13,660 --> 00:12:19,660
+of the conduction band and the top of the band are at the same k coordinate, chosen
+
+249
+00:12:19,660 --> 00:12:27,660
+to be k equal to zero for simplicity, then I have a direct bandgap semiconductor. Silicon
+
+250
+00:12:27,660 --> 00:12:31,660
+is not a direct bandgap semiconductor.
+
+251
+00:12:33,660 --> 00:12:41,660
+If the bottom of my conduction band and the top of my valence band are at the same k coordinate,
+
+252
+00:12:41,660 --> 00:12:47,660
+which we choose for convenience to be k equal to zero, then I have a direct bandgap semiconductor.
+
+253
+00:12:47,660 --> 00:12:53,660
+So what this statement says is that this is the bandgap then, because that's the definition
+
+254
+00:12:53,660 --> 00:13:02,660
+of what bandgap is. Right? Now, for silicon, so this is, should probably be a little bit
+
+255
+00:13:03,660 --> 00:13:09,660
+confused discussion otherwise.
+
+256
+00:13:09,660 --> 00:13:21,660
+I go to 0.85 FBZ. 85% of the way to the edge of the unit cell. And I'm not a forward direction
+
+257
+00:13:21,660 --> 00:13:30,660
+yet. The direction also matters. That complication will come later. I go up a distance EGR. From
+
+258
+00:13:30,660 --> 00:13:32,660
+this point, I draw a vertical line.
+
+259
+00:13:32,660 --> 00:13:33,660
+Wow.
+
+260
+00:13:33,660 --> 00:13:37,660
+And look at that point. That's the bottom of the conduction band.
+
+261
+00:13:37,660 --> 00:13:48,660
+It looks a little bit like this. My drawing is not so great, but yeah. That's silicon band
+
+262
+00:13:48,660 --> 00:13:55,660
+structure with only two bands. You were saying x coordinate matters.
+
+263
+00:13:55,660 --> 00:13:56,660
+Yeah, it does matter.
+
+264
+00:13:56,660 --> 00:14:02,660
+Okay. Now what does this mean practically? I'm just going to close with this example.
+
+265
+00:14:02,660 --> 00:14:09,660
+Which is basically answer a technological question for you. How do LEDs work?
+
+266
+00:14:09,660 --> 00:14:17,660
+Inject an electron and inject a counter carrier, which I'm going to call a hole in a lecture
+
+267
+00:14:17,660 --> 00:14:27,660
+or two. They recombine and they get a photon up. If k is momentum, this carrier at this
+
+268
+00:14:27,660 --> 00:14:31,660
+is the bottom of the conduction band here. And this electron, which is at the top of
+
+269
+00:14:31,660 --> 00:14:39,660
+the valence band here, has different momentum. How different? 0.85 FBZ. Your FBZ is the unit
+
+270
+00:14:39,660 --> 00:14:42,660
+of momentum. Okay?
+
+271
+00:14:42,660 --> 00:14:43,660
+Yes.
+
+272
+00:14:43,660 --> 00:14:45,660
+What is the momentum of a photon?
+
+273
+00:14:45,660 --> 00:14:48,660
+H by 3.
+
+274
+00:14:48,660 --> 00:14:51,660
+Momentum. Not energy.
+
+275
+00:14:51,660 --> 00:14:55,660
+H by lambda.
+
+276
+00:14:55,660 --> 00:14:57,660
+Energy divided by C, right?
+
+277
+00:14:57,660 --> 00:14:58,660
+Yes.
+
+278
+00:14:58,660 --> 00:14:59,660
+What is C?
+
+279
+00:14:59,660 --> 00:15:00,660
+Speed of light.
+
+280
+00:15:00,660 --> 00:15:01,660
+Speed of light.
+
+281
+00:15:01,660 --> 00:15:02,660
+How much? 2.992.
+
+282
+00:15:02,660 --> 00:15:10,660
+Very large number. So what is the momentum of a photon?
+
+283
+00:15:10,660 --> 00:15:18,660
+Close to 0. Right? Now, okay. I've got one particle here, one particle here. I want to
+
+284
+00:15:18,660 --> 00:15:24,660
+combine them and create another particle known as a photon. I must have energy conservation,
+
+285
+00:15:24,660 --> 00:15:27,660
+but I must also have momentum conservation.
+
+286
+00:15:27,660 --> 00:15:28,660
+Yes.
+
+287
+00:15:28,660 --> 00:15:34,660
+So, let's say an electron at momentum k have a basically, it's a hole, but okay,
+
+288
+00:15:34,660 --> 00:15:36,660
+a counter carrier at momentum 0.
+
+289
+00:15:36,660 --> 00:15:37,660
+Okay.
+
+290
+00:15:37,660 --> 00:15:40,660
+Net momentum of the initial state is what? 0.85 FBZ.
+
+291
+00:15:40,660 --> 00:15:41,660
+Half of it.
+
+292
+00:15:41,660 --> 00:15:44,660
+Final state is the photon, which has an energy 0 momentum.
+
+293
+00:15:44,660 --> 00:15:45,660
+Oh.
+
+294
+00:15:45,660 --> 00:15:51,660
+I can't satisfy that equation. That is the reason why silicon does not make good LEDs.
+
+295
+00:15:51,660 --> 00:15:55,660
+It goes back, it is basically the corollary of that thing I told you about earlier, that
+
+296
+00:15:55,660 --> 00:15:59,660
+silicon can be used to do some things, silicon will be used to do some things. This is an
+
+297
+00:15:59,660 --> 00:16:03,660
+example of the silicon cannot be used to do some things. This is why people bother about
+
+298
+00:16:03,660 --> 00:16:06,660
+gallium arsenide, gallium nitride and other direct bandgaps and other like this.
+
+299
+00:16:06,660 --> 00:16:11,660
+So, that's why you use direct conduction band rather than core .
+
+300
+00:16:11,660 --> 00:16:15,660
+We have to. We have to. How else do we use it at some momentum? So, let's figure out
+
+301
+00:16:15,660 --> 00:16:22,660
+a way how to do that. Let's say that my ideal direct bandgap points would have been here,
+
+302
+00:16:22,660 --> 00:16:32,660
+but this is silicon, so it is not here. So, I would basically have to find the process
+
+303
+00:16:32,660 --> 00:16:39,660
+which takes away that momentum from this electron and allows this recombination to take place.
+
+304
+00:16:39,660 --> 00:16:45,660
+It's a pretty large momentum. And any horizontal transitions on this actually refer to something
+
+305
+00:16:45,660 --> 00:16:51,660
+I mentioned right at the beginning of this lecture, they refer to as phonons. Now, if
+
+306
+00:16:51,660 --> 00:16:52,660
+semiconductors have to do something like this.
+
+307
+00:16:52,660 --> 00:16:57,660
+So, if you have phonons with large energies available to 0.85 xz, this process would
+
+308
+00:16:57,660 --> 00:17:02,660
+happen. But phonon energies in most semiconductors are actually very, very small. They are in
+
+309
+00:17:02,660 --> 00:17:05,660
+milli electron volts, not electron volts either. Yes.
+
+310
+00:17:05,660 --> 00:17:11,660
+Sir, we could also like feasibly maybe combine like an electron along a vertical
+
+311
+00:17:11,660 --> 00:17:17,660
+grid. Is that also considered unfeasible? So, you see, if I extend this band further
+
+312
+00:17:17,660 --> 00:17:21,660
+by the way. Is that energy considered unfeasible? That energy is very, very high.
+
+313
+00:17:21,660 --> 00:17:22,660
+Okay.
+
+314
+00:17:22,660 --> 00:17:27,660
+I mean, yes, you could get like extreme UV emission or something, a deep UV emission
+
+315
+00:17:27,660 --> 00:17:32,660
+from silicon, but the efficiency would be so poor that it would not be worth making it.
+
+316
+00:17:32,660 --> 00:17:35,660
+So, anyhow, we will continue this very interesting discussion next time.
+
+317
+00:17:35,660 --> 00:17:37,660
+.
+
+318
+00:17:37,660 --> 00:17:46,660
+.
+
+319
+00:17:46,660 --> 00:17:47,660
+.
+
+320
+00:17:47,660 --> 00:17:48,660
+.
+
+321
+00:17:48,660 --> 00:17:49,660
+.
+
+322
+00:17:49,660 --> 00:17:50,660
+.
+
+323
+00:17:50,660 --> 00:17:51,660
+.
+
+324
+00:17:51,660 --> 00:17:52,660
+.
+
+325
+00:17:52,660 --> 00:17:53,660
+.
+
+326
+00:17:53,660 --> 00:17:54,660
+.
+
+327
+00:17:54,660 --> 00:17:55,660
+.
+
+328
+00:17:55,660 --> 00:17:56,660
+.
+
+329
+00:17:56,660 --> 00:17:57,660
+.
+
+330
+00:17:57,660 --> 00:17:58,660
+.
+
+331
+00:17:58,660 --> 00:17:59,660
+.
+
+332
+00:17:59,660 --> 00:18:00,660
+.
+
+333
+00:18:00,660 --> 00:18:03,660
+.
+
+334
+00:18:03,660 --> 00:18:04,660
+.
+
+335
+00:18:04,660 --> 00:18:05,660
+.
+
+336
+00:18:05,660 --> 00:18:06,660
+.
+
+337
+00:18:06,660 --> 00:18:07,660
+.
+
+338
+00:18:07,660 --> 00:18:08,660
+.
+
+339
+00:18:08,660 --> 00:18:09,660
+.
+
+340
+00:18:09,660 --> 00:18:10,660
+.
+
+341
+00:18:10,660 --> 00:18:11,660
+.
+
+342
+00:18:11,660 --> 00:18:12,660
+.
+
+343
+00:18:12,660 --> 00:18:13,660
+.
+
+344
+00:18:13,660 --> 00:18:14,660
+.
+
+345
+00:18:14,660 --> 00:18:15,660
+.
+
+346
+00:18:15,660 --> 00:18:16,660
+.
+
+347
+00:18:16,660 --> 00:18:17,660
+.
+
+348
+00:18:17,660 --> 00:18:18,660
+.
+
+349
+00:18:18,660 --> 00:18:19,660
+.
+
+350
+00:18:19,660 --> 00:18:20,660
+.
+
+351
+00:18:20,660 --> 00:18:21,660
+.
+

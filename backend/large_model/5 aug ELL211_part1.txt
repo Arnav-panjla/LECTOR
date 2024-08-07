@@ -1,0 +1,521 @@
+Okay. So packaging and the fact that it
+is the highest value in some sense,
+what we are teaching in this class is
+only what I would call
+20 percent of the overall amount of materials.
+This is not to say that this is just
+some pre-designed bug that we just use as a standard package.
+Packaging is used to be considered like an art in itself,
+but now increasingly because of the heat issues,
+people no longer speak about
+integrated software in the package separately.
+Instead, they talk about packaging of systems.
+That means that
+heat core design or thermal core design has to be a part of the IC design process itself.
+Unfortunately, as far as I know,
+only one course in any of the IITs in India,
+IIT Bombay, actually teaches IC design in that way.
+Even our VLSI design program over here,
+talks about IC design in isolation more or less.
+It doesn't make all the grammars. Can I help you?
+Yes, please.
+Okay.
+See, if you can send all the stuff together at one point,
+I'll be able to help you.
+But if you keep coming every five minutes to interrupt me,
+that's not really the problem.
+Please, please, please don't.
+So, the issue is that this kind of
+fragmented knowledge forces people to take
+electives in domains that they don't consider their own.
+For instance, mechanical engineering has a big input here because heat transfer is
+a central part of
+that study.
+As a part of the ISN-India's Immigration Commission,
+the most publicly publicized part of this is
+for me and I, could probably participate in initiative.
+Which can also be a part of .
+So, one of the lift well know concepts,
+they have a lot of people going there.
+I will try to figure out something out for you.
+They remain at least one guysbelen beras in compliance with theceeding.
+I would like to ask you that question recordings there.
+Yes. Yes. Yes. Yes. No problem.
+Okay. Thank you.
+Yes.
+Yes Puwał...
+Yes. Yes. Yes. Yes followed by the Infrastructure Again.
+Okay. Yes. Yes. Yes. Uh...black background and one of the rest publications
+who is actually going there too?
+I know parts of activism are even in the whole education system when it comes to this part of technology research and development.
+And there, certain new VTech or MTech programs are going to be offered in a few years,
+which are entirely geared about taking elements of various traditional practices of engineering
+and offering them as, you know, semiconductor devices or something like that.
+So this packaging issue is not just something that you can learn later on your own.
+I recommend that if you are interested in going into this field, start looking for corresponding electives,
+because you will not have the time to learn heat transfer from scratch after you've completed your VTech,
+or you're late into your MTech, etc. It's just one of the matters.
+Then we shall come back to this.
+We'll start it, resume our discussion.
+This part was prompted by a student question.
+But then we resume our discussion on what happens to carrier wave functions in various kinds of materials,
+starting from the understanding that only in a perfectly periodic crystal do you have black-hot scattering.
+In any room temperature case, you will not have a perfect crystal.
+You will have vibrations, which give rise to virtual particles known as phonons.
+In a second quantization sense, interact with carriers, and that leads to scattering.
+We defined an R-space, which is easy enough to understand, in one dimension, two dimensions, and three dimensions.
+But there is a dual space to that, which arises from Fourier transforms, which is also periodic.
+And if you are starting in the Bravais lattice, one of those 14 lattices,
+then its dual space is known as a reciprocal lattice.
+And the reciprocal lattice is guaranteed to be also a Bravais lattice.
+Of course, there is no guarantee that Bravais lattice A maps into reciprocal lattice A.
+It could be B, where B is also a set of initial Bravais lattices that we started with.
+Then we had a simple class problem.
+We defined planes, classes of planes.
+We defined families of planes which are parallel to each other, or depending upon the nature of symmetry.
+They may even be orthogonal, but they have the same symmetry in that direction.
+The practical influence of understanding of planes is that it allows you to
+please wafers without actually shattering them and losing a lot of material,
+and also causing edge issues, because you want to use the entire real estate as much as possible.
+We defined waferents in real space, corresponding to that,
+because of the relationship between the periodicity r and the periodicity k,
+is that if ikr, essentially, is equal to a constant, or 1, depending on your normalization,
+is also a waferent.
+So if r is a waferent, k is also a waferent.
+That's the property of plane waves.
+Then we formally defined the reciprocal lattice, and we expanded on the Fourier part.
+Let's today connect this more to crystallography.
+You've all seen Miller's analysis? Have you?
+No.
+So those of you who did coordinate geometry, and I think it was all of you in 11th grade,
+you know how to write down the equation of a plane, right?
+One of the canonical forms of the equation of a plane is a dot n equal to a constant, right?
+Which is also the biggest discussion.
+So, Miller indices, in that sense, are an exercise in finding the normal to the plane.
+As long as you can write the normal to the plane, which is the equation of the plane effectively,
+you can figure out where the indices are.
+So, the area vector for a plane is picked to be parallel to the shortest reciprocal lattice vector.
+So notice that, in coordinate geometry, the direction that is perpendicular to the plane is also in r3.
+Right?
+So, if you're starting with a plane arbitrarily oriented in r3,
+then the vector that is perpendicular is also in r3.
+But here we're making a departure from that.
+We're saying that if you have a plane in real space,
+then its vertical is a point in reciprocal space which has a k-position vector.
+It's just a change of terminology. That is all there.
+Let me repeat.
+If you have a plane which is arbitrarily oriented in r3,
+I find it's normal.
+The coordinates, which is basically a triplet,
+is a point in k-space.
+Same coordinates.
+So, let's say 3, 1, 5.
+Those are coordinates in k-space for the dual vector.
+So, if you have a plane in this direction, it maps to a point.
+A position vector, to be more precise.
+Yes?
+You're taking the normal to that plane and then mapping it to a point in k-space.
+You're just taking those coordinates and we will describe,
+because obviously people who work in crystallography
+are not very comfortable with working on Fourier analysis.
+So, they have their own way of arriving at the same thing,
+which I'll describe how to construct a Miller index.
+It is essentially the same process.
+If you have done a little bit of linear algebra,
+which I believe you have done,
+you can work out the steps and you'll say,
+okay, yeah, these two treatments are exactly equivalent.
+Sir, but for a plane like,
+we can't only depend on one model vector.
+We should also have a point, right?
+So, we will have to consider that when doing this.
+Which point?
+Meaning, if you have a normal vector,
+infinite planes which have a normal vector.
+Yeah.
+So, all you say is that if I define its normal vector,
+any normal which is a scalar multiple of that normal vector
+will also serve as a normal vector.
+What we're trying to find over here is the minimum normal vector.
+But I'm telling you that if there are infinite planes
+for the same normal vector, right?
+Yes, yes, yes.
+So, this basically goes back to our previous discussion,
+where families of planes corresponded to a single point in k-space.
+Okay.
+So, how do you construct a family of planes
+that are all parallel to each other?
+So, that discussion is exactly equivalent.
+So, you pick a parallel,
+but you pick the shortest reciprocal lattice vector
+and let us express that in three unit coordinates,
+or rather three unit vectors,
+in the linear space defined by b1, b2, b3,
+which I have bolded there.
+How do you construct it?
+It is the smallest integral coefficient
+in reciprocal space.
+So, you basically write it as,
+so if you have like this coordinate system in,
+I think, red or black?
+Yeah, black.
+It is in real space.
+Then you construct a coordinate system in red.
+That is the corresponding coordinate system in k-space.
+So, they are not, so black is r3,
+red is k3.
+And we are finding out
+the corresponding minimum intercepts
+a by h, b by k and c by l.
+And we are trying to find out h, k and l,
+which are the smallest integers
+which will make this possible.
+So, for instance, you have got 7 by 11 or something.
+Then 11 is the corresponding, you know,
+coordinate I have to worry about.
+Can you repeat it?
+So, what we are trying to do over here is,
+we are trying to find out coordinates in b-space,
+which is, you know, effectively mapping of k-space,
+h, k, l,
+so that you have b by,
+you are finding h, k and l,
+so that they are the smallest possible integer multiples
+in each direction.
+Yeah?
+The numbers you said.
+Yeah?
+The numbers you said, 7, 5, 11, I didn't get.
+So, we will give you a worked example.
+You will probably understand from that more clearly.
+So, crystallographic definition,
+which is independent of, you know,
+Fourier definition is that
+it is the inverse proportionality of intercepts in real space.
+So, for instance,
+if I have an arbitrarily oriented plane,
+which has intercepts,
+let's say x1, x2, x3,
+then the corresponding 1 over x1,
+1 over x2,
+1 over x3,
+expressed in smallest integer form,
+will be the corresponding h, k, l's.
+I take the inverse,
+and I find out the l, c, m, in some sense,
+for those,
+and those are h, k, l's,
+with no bound factors.
+So, for hexagonal and robohedral lattices,
+it is more convenient to use four indices,
+even though we are not talking about a four-dimensional space,
+because there is an additional axis,
+which is a c-axis in the road direction,
+you would present that using the fourth index.
+This is just specific to these two crystal structures.
+It is not necessary,
+it is entirely possible to express it in three,
+because it's after all,
+after a k3, you don't need more than that,
+but you can have an over-determined plane,
+for instance.
+It is equivalent to saying that,
+okay, I've got three non-polar points,
+and they define my plane,
+and I just happen to pick another fourth point
+on the same plane to define my plane.
+Makes no difference, really speaking.
+So, why do we do that?
+It's easier to express it,
+because there are, you know, additional axes here.
+So, let's do a class problem,
+and that will hopefully clear up some of these doubts.
+So, here is the problem.
+This plane in red, light red,
+I hope everybody can see that.
+It has these points defined,
+a and b,
+and the Miller indices,
+for this indicated plane.
+All right, so how many of these,
+what you heard is just one point.
+You'll remember again and again from our Himalayan class,
+were also an episode three.
+Sir, did I also drink another body of water?
+Yeah.
+That's obvious, right?
+Because Z cure is 0 in both cases.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+of irrational points, like it could occur.
+Of course, we have got non-periodic systems
+like polycrystalline and morpher systems,
+they're not periodic either.
+Those are non-irrational examples of non-periodic systems.
+So for the non-periodic system,
+we cannot define the Fourier transform
+or there are no .
+Well, how would you calculate
+a Fourier transform in practicality?
+You would do something like a DFT,
+a speed Fourier transform.
+Or we can do it for some, within a particular domain,
+we can calculate the Fourier transform
+for as long as we know the values, right?
+But you'll always have a scatter.
+Because I'll have basically kind of an excellent data process
+which never terminates, right?
+I say that, okay, this point lies between this and this,
+and you say, no, it's actually finer than that,
+it's finer than that, and the process never concludes.
+So ask yourself, how do I construct this crystal?
+Can you place it at that point?
+And that that point is not well defined, right?
+Okay, so now let's connect wave function, this structure.
+I mentioned this expression
+when we talked about two different energy regimes,
+where Uwm is the cell function,
+which is the part of the wave function
+that represents the strong interaction between an electron,
+and an .
+and the second part
+is a familiar plane wave
+so if you had
+open, like you know
+the universe constructed of
+an infinite space
+and only one electron
+e to the power ikr would be a sufficient
+representation of what that electron wave function
+would be, right, because it doesn't interact
+with anything because nothing else exists
+in fact, John Archibald
+was a physicist
+was a PhD advisor of Richard Feynman
+he had this theory that there is only
+one electron in the entire universe and everything else
+is a motion transferred copy of that
+pretty crazy idea
+but it seems to fit the facts
+so
+the cell function of the kernel
+is what we are defining as
+u sub n, it interacts with the lattice
+crystals
+this is important to understand that even though
+we talk about
+crystals having symmetry
+but the act of construction of the crystal
+actually breaks space symmetry
+because space symmetry says that all directions
+in R3 are equivalent
+so once I construct a crystal
+I say that okay, some directions are more special
+than others
+and as a result, first of all there is symmetry breaking
+that occurs, so all directions are not
+equivalent, so this for example
+is a diamond crystal lattice
+which is what silicon and germanium
+condense into
+so just there as an example
+so what does that depend upon?
+each will break symmetry in one way or the other
+once you have a crystal then there is periodicity
+but when you say periodicity
+and you try to construct a miller index
+you are still saying that there are at least
+three special directions
+periodicity is different from symmetry
+periodicity is what I would say
+okay
+I think there is a slight abuse of terminology over here
+what we are talking about basic symmetry in R3 is
+isotropicity of space
+that all directions are equivalent
+the moment I impose a crystal
+that basic R3 symmetry is broken
+and we say that the resulting space is anisotropic
+and now within that
+anisotropic space we have got periodicity
+and that periodicity
+in the sense of a group theory
+obviously imposes a certain set of
+special directions in which there is
+periodicity and hence
+that is symmetry
+so we are using
+symmetry in two different terms
+in two different ways
+they are actually
+it is correct to use the word symmetry over here
+because R3 symmetry is the basic symmetry of all
+which is basically
+I think it is called
+n-fold or something
+okay never mind
+what it is called
+it is been a while since I have read these things
+but
+isotropicity
+and symmetry combined together
+those two terms will actually clarify
+what we are talking about
+so isotropicity is broken
+which is also known as R3 symmetry
+so it is like when you didn't have a crystal
+that any vectoring
+R3 was equally probable
+or there was no special energy direction anywhere
+so when you impose a crystal
+so that say a particular direction became more favourable for that crystal
+more favourable or less favourable
+less favourable
+and non-equivalent basically
+that is what we are trying to say
+what is the fact that over here
+the kernel is u sub n
+I call it the self-function
+and it is also known as kernel in many treatments
+now mobility
+I have still not
+I have not defined mobility please note
+I have not given the units of mobility
+I have not defined what unity is
+mobility is in
+you know what is the right-hand side of that equation
+but mobility we
+can right now state
+it is the measure of how easy it is for a carrier to move
+carrier or electron?
+electron is a carrier
+there is going to be a second carrier introduced to this discussion
+that I am generalizing into a carrier
+so it is a strong function of scattering interactions
+the more scattering you have
+the harder it is for the carrier to move
+right?
+can everybody understand that?
+okay
+so one thing that happens in this entire process is that
+we start with the assumption that electron for instance
+has a mass of 9.11
+10 to the power minus 31 kilograms
+in semiconductor devices
+we don't use that mass much
+instead we replace it with something called an effective mass
+and I will describe two ways
+two distinct and two distinct ways in which that is constructed
+so that is what I am
+so is that because of rest mass or moving mass?
+no
+that is relativity
+in that case if your speed goes up the mass goes up
+no that is not what you are talking about
+so let us now
+describe the first of those two masses
+there are two ways of defining effective mass
+both are necessary for you to understand
+because both are needed in different contexts
+so let us first define a kinematic effective mass
+so when a carrier moves through crystal it interacts with what?
+so when a carrier moves through crystal it interacts with what?
+the lattice
+that is the obvious culprit right?
+other carriers
+electron-electron interactions or hole-hole interactions
+and also stuff that should not be there
+impurities
+Joukalski process
+carbon impurities in silicon
+that is what we are talking about
+it is very different from free space transport
+so if we write down the equation of motion
+notice that I have pulled m inside the derivative
+ok?
+because I am writing the rate of change of momentum there
+is equal to three different forces
+one is the externally applied force
+so this could be a piece of silicon
+and apply an electric field across it
+that is an external force
+the other is periodic force
+I have got a crystal
+the carrier moving in one direction is going to see the same kind of scattering
+or roughly the same kind of scattering
+modulo the temperature differences
+as it hops from place to place
+because the lattice structure of it is periodic in itself
+and other?
+unexpected things
+like electron-electron interactions
+after all it is not a single electron system
+and the other thing is impurities
+which break periodicity by the way
+because if I have silicon
+and I suddenly introduce a phosphorus atom in there
+which is where you actually make n-type silicon
+phosphorus has a different valency and a different covalent bonding
+than silicon does
+so it will disrupt the electron cloud
+and break periodicity in that sense
+ok sir can I ask a question?
+periodicity what does that mean?
+periodic is like if you have got an infinite silicon crystal
+so if your electron is moving in a single direction
+without getting captured in different directions
+it is going to encounter the same kind of collisions
+you know roughly
+a given unit of time
+like it is moving at a constant velocity
+it is going to take time
+we are just accounting it for the lattice forces
+yes
+just that f periodic is lattice
+but the lattice may contain impurities
+and that impurity part is an extra layer
+so what?
+so when we say periodic do we also account for lattice vibrations being the same?
+no we don't
+we in fact I mentioned that earlier in this lecture
+we replace vibrations with the quasi particles
+and then that would get pushed into f other
+because f other contains everything else that is not a part of the perfect lattice
+or an externally invited force
+now how do you track the motion of any carrier?
+one electron?
+I read on the equation of motion I tried to track that one electron?
+one electron? I read on the equation of motion I tried to track that one electron?
+see those of you who were getting a slight sense of Deja Vu
+from maybe 10th grade or 11th grade
+where you started talking about how
+solid bodies can be replaced with a single centre of mass
+and treat it as a particle
+this direction this discussion is going to be somewhat similar
+in spirit
+not in detail
+so
+we're gonna say okay this is external force acting on it
+this is a force acting on it from the lattice itself and this is from everything else, right?
+I can't do it, right?
+if I can't do it, no problem!
+I can't do it, right?
+Well, that's easy enough to do for one particle. If you have any silicon crystal, let's say
+containing a mole of silicon atoms, like Avogadro number, do you write down 10 to the power
+of 53 such equations? No. See, it's the same kind of reasoning as you use for the rigid
+bodies. So, mathematically that problem is intractable. So, what I do instead is that
+we modify the definition of mass itself. So, I replace m0 with mn star, n refers to electron.
+This is going to be a kind of protocol going forward. n refers to electron and t refers
+to hole. We will come to a hole in a short while. So, what refers to star? Star is the
+particle indicating that it's not your normal mass. It's an effective mass.

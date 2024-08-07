@@ -1,0 +1,352 @@
+start	end	text
+0	8480	I can either say that my energy of the electron is minus E times E, because the electron charge is negative,
+9100	13460	or I can say, okay, I'm going to forget about that negative sign, because it creates a mess for me,
+14000	15900	and I'm going to just write it as E times E.
+16660	19740	In semiconductors, we follow the E times E convention.
+20740	28000	I don't know of a single textbook or a published piece of scientific literature where people do it the other way around.
+28000	30860	But the connection band is drawn at the bottom.
+31560	36920	The reason is that we generally associate higher energies with anti-bonding orbitals.
+37080	38020	We just learned about that.
+41260	51460	And since we actually associate that, we want to retain the idea of electrons being promoted to higher energy levels
+51460	54000	as the system being in a higher energy state altogether.
+55540	58000	So the convention in some sense is forced.
+58000	59180	It comes from that natural requirement.
+59720	61620	But there's nothing special about that convention.
+62120	66260	It is just that this convention is so universal that it basically becomes a protocol.
+67740	68080	Okay.
+69960	74520	I locate the top of the Willans band at E equal to zero.
+75600	82220	If I draw my band diagram now for real silicon, to that dashed line that you had,
+85360	87600	my Willans band energy,
+88000	92000	would be constant as a function of R.
+92000	94000	Why?
+94000	98000	I am in the middle of the bulk silicon, right?
+98000	101000	My band gap should not change.
+101000	103000	I'm inside the same material.
+103000	105000	Would you put X mark over here?
+105000	106000	Hm?
+106000	107000	You are pulling an X mark over here.
+107000	109000	I'm just giving you one part of it.
+109000	111000	You'll see how radically different this is.
+111000	112000	Sure.
+112000	113000	Yeah.
+113000	118000	So can we say that when I am having, say, in a continuous space,
+118000	120000	I have two atoms, A and B,
+120000	123000	even if I am changing their relative distance,
+123000	130000	A and B and all such atoms exist at a distance that nature intended them to.
+130000	131000	Yes.
+131000	134000	So that means that distance is now fixed at five amps from the surface area.
+134000	138000	So when we are actually varying R, we are just actually changing the reference at the end.
+138000	141000	The coordinate of the electron that is free to move around.
+142000	144000	That's the purpose of this particular part.
+144000	147000	So R is the position of electron relative to the atoms?
+147000	150000	Any arbitrarily chosen atom.
+150000	153000	Because R equals zero in this case is not special.
+153000	155000	It's somewhere in the semiconductor.
+155000	160000	So where do we get to draw this diagram for ?
+160000	165000	Well, it's useful for calculating electron energies because that's all that we are doing here.
+165000	168000	So how do the electron energies distribute themselves?
+168000	170000	Both this and this .
+170000	173000	But there are different complementary pictures of that.
+173000	175000	That's the question.
+175000	176000	Okay.
+176000	178000	So band-iron, yes.
+178000	182000	Atom, you are talking about real silicon here.
+182000	186000	We are looking at the R coordinate of the electron.
+186000	188000	An electron that is free to move around.
+188000	191000	Now if it is in the valence band, it's not free to move around.
+191000	193000	It has the same energy no matter where you go in it.
+193000	195000	Yes.
+195000	197000	That is completely different from that.
+197000	199000	That R is different from this R.
+199000	200000	This is real silicon.
+200000	204000	That was real silicon along a line and then all possible mathematical possibilities of that silicon.
+204000	210000	There was a distance between the two silicon atoms.
+210000	212000	Here is the position vector of the electron.
+212000	216000	Is the position vector of the electron chosen from some other starting point?
+216000	218000	Okay.
+218000	222000	So the energy that I need to remain in the valence band,
+222000	227000	the highest energy at which I remain in the valence band is the same regardless of where I am in the bulb.
+227000	228000	Right?
+228000	230000	That's my bonding energy.
+230000	232000	Similarly, the energy,
+232000	236000	the minimum energy at which the electron becomes free to move
+236000	240000	is also the same regardless of where you are in the bulb.
+240000	243000	So the band diagram is actually pretty simple.
+243000	246000	It's two parallel lines.
+246000	249000	Everybody understood that?
+249000	251000	So can you explain the top line?
+251000	253000	This is E C.
+253000	255000	This is E V.
+255000	260000	But you said that E C varies as we go higher and higher in the conduction band.
+260000	262000	So there will be some bands here but we are not showing them.
+262000	266000	We are showing the lowest possible energy where the electron can become free.
+266000	268000	This is the band gap.
+268000	274000	This distance is the band gap.
+274000	279000	Any electron which is deeper in the bulb would have to go higher.
+279000	281000	It would have to pick up more energy or move more.
+281000	286000	Why don't we show the valence band and which is more negative,
+286000	288000	the deeper we go into the valence band?
+288000	290000	Yes.
+290000	292000	So within the bulb,
+292000	294000	for the electron is more or less the same.
+294000	295000	That is what this diagram is.
+295000	296000	That is the definition of bulk is.
+296000	298000	Yes, so that is what the diagram is.
+298000	301000	So the diagram is implicitly saying that every point in the bulb is equivalent.
+301000	303000	That is only for the bulb.
+303000	305000	At the surface, things change.
+305000	307000	We won't do that.
+307000	310000	You might say this is a pretty boring diagram.
+310000	311000	Why bother with this at all?
+311000	312000	It's just two parallel lines.
+312000	315000	The thing is devices don't consist of a single bulb.
+315000	318000	It consists of various things that are other than the bulb.
+318000	320000	Other materials that they interface may be two contacts or whatever.
+320000	321000	In which case,
+322000	326000	this diagram would actually have discontinuities at both places.
+326000	327000	And then,
+327000	329000	now I would become special by the way.
+329000	334000	Because how close or far away the electron is from that particular interface makes a difference.
+334000	335000	But in the bulb,
+335000	337000	it makes no difference whatsoever.
+337000	338000	Okay, now let's talk about K,
+338000	340000	which is a bit more interesting.
+340000	345000	Sir, suppose if we had any subband like above EC and below EV,
+345000	347000	what would that jump indicate,
+347000	348000	let's say,
+348000	350000	EV1 and EV3?
+350000	351000	That would just indicate that
+351000	352000	this electron,
+352000	353000	let's say somewhere there,
+353000	354000	is more strongly bound to the iron force,
+354000	357000	it is less likely to ever get promoted to being a free electron.
+357000	359000	Like an L-shell electron, for instance.
+359000	362000	So could it become free by just jumping into EC?
+362000	363000	Yeah.
+363000	366000	So then what is the significance of that EC button?
+366000	369000	EC is the lowest energy at which it can become free.
+369000	371000	So where it would go to?
+371000	373000	It would go to that same conduction band?
+373000	374000	It will go to the conduction band,
+374000	375000	or it could go to a point higher than that.
+375000	377000	There would be other subband to this side as well.
+377000	379000	That is very much different from this one.
+379000	380000	They have different energies,
+380000	381000	they have different mobilities.
+381000	382000	I will define that later.
+382000	383000	I spoke to some people.
+383000	384000	.
+384000	385000	.
+385000	386000	.
+386000	387000	.
+387000	388000	.
+388000	389000	.
+389000	390000	.
+390000	391000	.
+391000	392000	.
+392000	393000	.
+393000	394000	.
+394000	395000	.
+395000	396000	.
+396000	397000	.
+397000	398000	.
+398000	399000	.
+399000	400000	.
+400000	401000	.
+401000	402000	.
+402000	403000	.
+403000	404000	.
+404000	405000	.
+405000	406000	.
+406000	408000	.
+408000	409000	.
+409000	410000	.
+410000	411000	.
+411000	423000	.
+423000	428000	.
+428000	435000	.
+435000	438000	.
+438000	456680	I think somebody was saying parabolas here, so we do that only takes place near the edge
+456680	460240	of the conduction band and we are in right there, so when you go far away it won't capture
+460240	461240	the number of parabolas.
+461240	466660	So I am drawing the conduction band now and this is where the real difference in silicon
+466660	468660	and other materials become different.
+468660	470660	Why does the energy decrease?
+470660	472660	No, energy increases.
+472660	478660	Energy increases because remember we are drawing this diagram for increasing electron energies,
+478660	479660	conduction band.
+479660	482660	In the valence band also the energies increase downwards.
+482660	484660	That means it is more strongly bound.
+484660	489660	But something else is less strongly bound and I have not defined that something else.
+489660	495660	So an electron down here will be more strongly bound.
+495660	496660	Sir, but then you know.
+496660	502660	When it is more strongly bound why is the momentum more for that?
+502660	505660	I will define this momentum in a bit and then it will become clear.
+505660	509660	The momentum is not your normal momentum, it is what is known as the crystal momentum
+509660	510660	but it is okay.
+510660	517660	Sir, so if I say that if I am moving towards the bulk or away from the bulk then only my
+517660	518660	k will change, right?
+518660	521660	Because when I am moving along the bulk why should my…
+521660	522660	Let me define k.
+522660	524660	I am not defining k for you here.
+524660	525660	What are the really important points?
+525660	529660	See, here I did not need to define r because everything was constant, right?
+529660	531660	And how many of you have watched Star Trek?
+531660	532660	One, two.
+532660	533660	You know the queue?
+533660	534660	You remember that episode where they have that infinite road?
+534660	535660	The road never ends.
+535660	536660	That is basically the r existence.
+536660	537660	It is very, very boring.
+537660	538660	Everything is the same everywhere.
+538660	539660	Okay.
+539660	540660	This is a little bit different.
+540660	541660	So this is the k.
+541660	542660	This is the k.
+542660	543660	This is the k.
+543660	544660	This is the k.
+544660	545660	This is the k.
+545660	546660	This is the k.
+546660	547660	This is the k.
+547660	548660	This is the k.
+548660	549660	This is the k.
+549660	550660	This is the k.
+550660	551660	This is the k.
+551660	552660	This is the k.
+552660	553660	This is the k.
+553660	554660	This is the k.
+554660	555660	This is the k.
+555660	559660	So this is a valence band.
+559660	563660	Now I define something known as first breline zone.
+563660	567660	I will write it down here so that you guys can know this.
+567660	578660	First.
+578660	579660	Okay?
+579660	582660	First breline zone, FEEZ.
+582660	583660	denken WOMAN 2
+583660	592660	This is the distance along positive k. By the way, this diagram is going to become significantly
+592660	599660	more complicated. Right one is very simple. It's k in this direction, but we'll make it
+599660	606660	more complicated in a bit. This is the distance of periodicity. This is the g vector that
+606660	611660	we were referring to when we first started talking about dual space. This is the mod
+611660	626660	of the g vector. Now, beyond this space, this diagram repeats itself. Now you understand
+626660	636660	how this k thing is constructed? Each refers to a unit cell in k space. How do you define
+636660	641660	a unit cell in k space? I think the unit cell in real space carry over its Fourier
+641660	646660	transform or x-ray diffraction or whatever you have, and then you write down the corresponding
+646660	655660	reciprocal relations here. Okay? So in that, as I get further and further away from the
+655660	665660	center of the unit cell, my momentum naturally increases. Because what's my natural tendency?
+665660	666660	You know, for a bound electron.
+666660	672660	Stay within, you know, the bound state. Why do you need to go too far?
+672660	674660	So could you please repeat what you used to say?
+674660	681660	So as long as I have a bound electron, I have a certain punishment involved in trying to
+681660	687660	stray too far away from my bound state. There's an energy barrier to overcome. So I need a
+687660	695660	higher and higher momentum to actually overcome that. To pick up enough speed. In some sense,
+695660	699660	you've got a neutron star and then there is a planet that is in its gravity. It requires
+699660	704660	a lot of energy to get out. It's something similar to that.
+704660	708660	Okay. Now how do I draw the conduction band? And this is where there's a little bit of
+708660	714660	a head-scratching moment. Have you heard of things called direct and indirect bandgap
+714660	720660	semiconductors? No? Okay. This diagram is what really defines that. I'll need to find
+720660	723660	that. Just motivate this discussion.
+723660	733660	If, if, notice the word if. My conduction band looks like this. If, where the bottom
+733660	739660	of the conduction band and the top of the band are at the same k coordinate, chosen
+739660	747660	to be k equal to zero for simplicity, then I have a direct bandgap semiconductor. Silicon
+747660	751660	is not a direct bandgap semiconductor.
+753660	761660	If the bottom of my conduction band and the top of my valence band are at the same k coordinate,
+761660	767660	which we choose for convenience to be k equal to zero, then I have a direct bandgap semiconductor.
+767660	773660	So what this statement says is that this is the bandgap then, because that's the definition
+773660	782660	of what bandgap is. Right? Now, for silicon, so this is, should probably be a little bit
+783660	789660	confused discussion otherwise.
+789660	801660	I go to 0.85 FBZ. 85% of the way to the edge of the unit cell. And I'm not a forward direction
+801660	810660	yet. The direction also matters. That complication will come later. I go up a distance EGR. From
+810660	812660	this point, I draw a vertical line.
+812660	813660	Wow.
+813660	817660	And look at that point. That's the bottom of the conduction band.
+817660	828660	It looks a little bit like this. My drawing is not so great, but yeah. That's silicon band
+828660	835660	structure with only two bands. You were saying x coordinate matters.
+835660	836660	Yeah, it does matter.
+836660	842660	Okay. Now what does this mean practically? I'm just going to close with this example.
+842660	849660	Which is basically answer a technological question for you. How do LEDs work?
+849660	857660	Inject an electron and inject a counter carrier, which I'm going to call a hole in a lecture
+857660	867660	or two. They recombine and they get a photon up. If k is momentum, this carrier at this
+867660	871660	is the bottom of the conduction band here. And this electron, which is at the top of
+871660	879660	the valence band here, has different momentum. How different? 0.85 FBZ. Your FBZ is the unit
+879660	882660	of momentum. Okay?
+882660	883660	Yes.
+883660	885660	What is the momentum of a photon?
+885660	888660	H by 3.
+888660	891660	Momentum. Not energy.
+891660	895660	H by lambda.
+895660	897660	Energy divided by C, right?
+897660	898660	Yes.
+898660	899660	What is C?
+899660	900660	Speed of light.
+900660	901660	Speed of light.
+901660	902660	How much? 2.992.
+902660	910660	Very large number. So what is the momentum of a photon?
+910660	918660	Close to 0. Right? Now, okay. I've got one particle here, one particle here. I want to
+918660	924660	combine them and create another particle known as a photon. I must have energy conservation,
+924660	927660	but I must also have momentum conservation.
+927660	928660	Yes.
+928660	934660	So, let's say an electron at momentum k have a basically, it's a hole, but okay,
+934660	936660	a counter carrier at momentum 0.
+936660	937660	Okay.
+937660	940660	Net momentum of the initial state is what? 0.85 FBZ.
+940660	941660	Half of it.
+941660	944660	Final state is the photon, which has an energy 0 momentum.
+944660	945660	Oh.
+945660	951660	I can't satisfy that equation. That is the reason why silicon does not make good LEDs.
+951660	955660	It goes back, it is basically the corollary of that thing I told you about earlier, that
+955660	959660	silicon can be used to do some things, silicon will be used to do some things. This is an
+959660	963660	example of the silicon cannot be used to do some things. This is why people bother about
+963660	966660	gallium arsenide, gallium nitride and other direct bandgaps and other like this.
+966660	971660	So, that's why you use direct conduction band rather than core .
+971660	975660	We have to. We have to. How else do we use it at some momentum? So, let's figure out
+975660	982660	a way how to do that. Let's say that my ideal direct bandgap points would have been here,
+982660	992660	but this is silicon, so it is not here. So, I would basically have to find the process
+992660	999660	which takes away that momentum from this electron and allows this recombination to take place.
+999660	1005660	It's a pretty large momentum. And any horizontal transitions on this actually refer to something
+1005660	1011660	I mentioned right at the beginning of this lecture, they refer to as phonons. Now, if
+1011660	1012660	semiconductors have to do something like this.
+1012660	1017660	So, if you have phonons with large energies available to 0.85 xz, this process would
+1017660	1022660	happen. But phonon energies in most semiconductors are actually very, very small. They are in
+1022660	1025660	milli electron volts, not electron volts either. Yes.
+1025660	1031660	Sir, we could also like feasibly maybe combine like an electron along a vertical
+1031660	1037660	grid. Is that also considered unfeasible? So, you see, if I extend this band further
+1037660	1041660	by the way. Is that energy considered unfeasible? That energy is very, very high.
+1041660	1042660	Okay.
+1042660	1047660	I mean, yes, you could get like extreme UV emission or something, a deep UV emission
+1047660	1052660	from silicon, but the efficiency would be so poor that it would not be worth making it.
+1052660	1055660	So, anyhow, we will continue this very interesting discussion next time.
+1055660	1057660	.
+1057660	1066660	.
+1066660	1067660	.
+1067660	1068660	.
+1068660	1069660	.
+1069660	1070660	.
+1070660	1071660	.
+1071660	1072660	.
+1072660	1073660	.
+1073660	1074660	.
+1074660	1075660	.
+1075660	1076660	.
+1076660	1077660	.
+1077660	1078660	.
+1078660	1079660	.
+1079660	1080660	.
+1080660	1083660	.
+1083660	1084660	.
+1084660	1085660	.
+1085660	1086660	.
+1086660	1087660	.
+1087660	1088660	.
+1088660	1089660	.
+1089660	1090660	.
+1090660	1091660	.
+1091660	1092660	.
+1092660	1093660	.
+1093660	1094660	.
+1094660	1095660	.
+1095660	1096660	.
+1096660	1097660	.
+1097660	1098660	.
+1098660	1099660	.
+1099660	1100660	.
+1100660	1101660	.

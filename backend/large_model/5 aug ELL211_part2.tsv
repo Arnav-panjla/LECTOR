@@ -1,0 +1,755 @@
+start	end	text
+0	4240	So d by 18 of mn star ve
+4240	5660	So ve is the same as before
+5660	7740	What I have done over here is
+7740	9720	I have stolen away the periodicity part
+9720	13320	So I say that I write another set of equations
+13320	15300	Where I modify the mass
+15300	17880	So that I can throw away a vector on the right hand side
+17880	20400	This is a mathematical operation
+20400	24000	How do you modify the mass?
+24600	27980	There are two ways in which people modify the mass
+27980	31260	One way is to actually do really complicated calculations
+31260	32400	Which we will go into later
+32400	34500	Once I have defined both notions of effective mass
+34500	36460	And the other which is always in this
+36460	37560	Measured mass
+37560	39680	How would you measure it?
+40080	41240	How would you measure it?
+43240	44300	That's what we don't do
+44300	45880	That's why we have kind of reduced this equation
+45880	49260	We don't want to go to the pathway of the first equation
+49260	51320	We are desperately trying to avoid that
+51320	51600	Yes
+51600	55040	An equation is made for a single electron
+55040	56820	Or it's for the mole of electron?
+57480	57960	This
+57960	58640	This equation
+58640	59920	Good question
+59920	61680	This question is
+61680	64280	The second equation is what I would call a statistical equation
+64280	66400	It refers to the average electron
+66400	69800	So you expect most electrons to follow this
+69800	70880	In that sense of an average
+70880	73000	And we can do statistical averaging
+73000	74960	Because we are starting with a very very large number
+74960	76600	Of 10 to the power 23 of those electrons
+76600	77000	Which is
+77000	79260	The requirement of statistics
+79260	82100	N represents electron
+82100	83740	N always represents electron
+83740	85500	Sub n always represents electron
+85500	87080	Okay so
+87080	87900	Yeah
+87960	91360	Sir what does direction define energy?
+91360	94200	Well your velocity is in a particular direction right?
+94200	95800	That was earlier also right?
+95800	96600	I am coming to that
+96600	98440	Coming to that
+98440	98840	So
+98840	100280	What is F periodic?
+100280	100680	Huh?
+100680	102240	F periodic
+102240	103160	F periodic is gone
+103160	104200	Where is F periodic?
+104200	106480	That is the whole reason we consider to be effective mass
+106480	108680	Oh okay
+108680	109600	Okay
+109600	111640	So what is the loss of simplicity?
+111640	114760	The mass is no longer a scalar now
+114760	116240	Let us think in a little bit
+116240	117840	Because we removed the periodicity so
+117960	119720	Mass is no longer a scalar
+119720	121440	You are in R3
+121440	125760	I will have to define a different mass for each direction
+125760	126560	Because
+126560	127560	Okay think about it this way
+127560	128720	You are moving in that direction
+128720	130360	You are moving in different directions
+130360	132720	Has a different set of inertia associated with it
+132720	134800	How do we understand mass?
+134800	135920	There is more scattering here
+135920	139200	I say okay I am not going to worry about scattering arising from periodic sources
+139200	141560	I am just going to lump it up into my
+141560	143680	In a measure of inertia in that direction
+143680	144960	So that is a direction dependence
+144960	145960	So that is a direction dependence
+145960	146960	So that is a direction dependence
+146960	152440	And this is what is known as a kinematic definition of effective mass
+152440	153680	There is going to be a different definition
+153680	155480	It is going to be slightly more complicated
+155480	157920	Unrelated to this
+157920	159840	But often leads to similar numbers
+159840	160840	But not always
+160840	163160	The reason we need to understand that
+163160	164920	But M star is a vector
+164920	168760	M star is not a vector
+168760	171640	It is a tensor
+171640	174240	So basically it is a 3 by 3 matrix in R3P
+176960	182080	All the matrixes have all the matrix properties
+182080	185440	Right but then there are also cross terms
+185440	189840	So whenever we talk about matrices
+189840	192360	We say that it is diagonalizable under certain terms
+192360	195880	So that you know you have got 0 above 0 at the bottom upper triangular lower triangular
+195880	198200	And then there are 3 scalars along the diagonal
+198200	200200	Similar to the vector matrix what we have
+200200	203480	But in this case you cannot throw away the cross terms
+203480	205480	It depends upon what kind of matrix actually you have got
+205480	206440	How does that matrix work?
+206960	207960	How does it look like?
+207960	209960	We are coming to that
+209960	214960	That is the project that allows me to present something
+214960	218960	Okay now let us shell the discussion for a bit
+218960	223960	And let me go into aspects which talk about construction of the lattice in the first place
+223960	227960	Because the second definition arises naturally from there
+227960	230960	Okay silicon atom
+230960	233960	Let us imagine a universe where a single silicon atom exists
+233960	234960	Okay
+234960	236960	Obviously we cannot exist in that universe
+236960	239960	Because we are not obligated in that
+239960	244960	The shell structure for silicon is 1s2, 2s2, 2p6, 3s2, 3p2
+244960	247960	We have seen this since I don't know 11th grade or something
+247960	249960	Let us count is that 14?
+249960	252960	Yeah 4 plus 6 plus 4
+252960	256960	So I have got these two
+256960	258960	What are the red and the blue lines?
+258960	260960	Anybody want to guess?
+260960	262960	Values?
+262960	263960	Singularity
+263960	264960	Singularity
+264960	265960	Yes
+265960	267960	Ground state and excited state
+267960	269960	Because we have one single atom here
+269960	275960	And the two atoms or rather you know the ion core is basically red
+275960	276960	Which is at the bottom
+276960	282960	And the signal electron which is free to move around is kind of shown schematically at the bottom
+282960	284960	Okay
+284960	287960	What is the red dot?
+287960	289960	What is the red dot?
+289960	290960	Red dot is the ion core
+290960	293960	Basically 14 protons and a certain number of neutrons club together
+293960	295960	What is the black dot?
+295960	297960	Yeah that is the black dot
+297960	300960	So what was the black?
+300960	304960	The black dot is the electron that we are talking about right?
+304960	305960	Oh
+305960	307960	Huh?
+307960	308960	Okay
+308960	313960	The red core is essentially the nucleus of silicon
+313960	316960	And the inner shell which don't participate in ground core
+316960	317960	We don't care about
+317960	318960	Everything except the valence shell
+318960	320960	Valence shell is what we are interested in
+320960	321960	Right?
+321960	322960	Okay
+322960	326960	Now let us now bring these two atoms closer to each other
+326960	329960	I think you have seen in 11th grade what happens
+329960	331960	Molecular orbital forms
+331960	333960	Right?
+333960	336960	And one of the properties of a molecular orbital are
+336960	339960	That each energy level splits into two
+339960	341960	Right?
+341960	342960	Bonding and anti-bonding
+342960	345960	The bonding being more stable and hence lower energy
+345960	348960	So the ground state splits into two
+348960	350960	Bonding and anti-bonding
+350960	351960	And the excited state splits into two
+351960	353960	So you have got four energy levels now
+353960	357960	So two atoms brought together lead to four energy levels
+357960	361960	I think we can start to see the beginning of a geometric sequence here
+361960	362960	Sir
+362960	363960	Yeah
+363960	365960	Let us just consider one of the four energy levels
+365960	366960	Yeah
+366960	368960	Just to simplify
+368960	371960	It will be too complicated to write four different
+371960	372960	Okay
+372960	378960	Now let us see what these states look like
+378960	379960	You have all seen this
+379960	381960	Atomic orbitals and how they form you know
+381960	382960	Molecular orbitals
+382960	386960	So there is an anti-bonding orbital which consists of a node
+386960	390960	On the line connecting the two atoms
+390960	391960	Sorry anti-node
+391960	392960	Anti-node right
+392960	394960	Because that is where the probability density is the minimum
+394960	399960	And the bonding orbital means that there is more effective sharing of the electron cloud
+399960	400960	Which forms a covalent bond
+400960	401960	Hence the term bonding
+401960	406960	And hence there is a node there
+406960	408960	So this is LCAOQ
+408960	410960	Kind of remember linear combination of atomic orbitals
+410960	412960	That picture
+412960	414960	Now let us bring in the number three
+414960	416960	What is the below part?
+416960	417960	Below part yeah
+417960	423960	So the below part is basically the energy levels of potential
+423960	426960	So each of these carriers carries different energy
+426960	428960	It is from the textbook
+428960	430960	It is pretty silly to take pictures according to the textbook
+430960	431960	So what is this?
+431960	433960	Why is there a well here?
+433960	434960	Huh?
+434960	435960	I mean the below part
+435960	437960	There are two iron cores right?
+437960	439960	The potential energy heads towards infinity
+439960	441960	As the electron gets closer
+441960	443960	So those two wells now that is in between
+443960	446960	That is you know basically a shallow barrier
+446960	449960	Okay
+449960	451960	Now let us bring in the number three
+451960	452960	Yeah
+452960	455960	So you had these four states adding in two more
+455960	456960	Eight
+456960	460960	So let us see what happens
+460960	461960	Eight
+461960	462960	Right
+462960	465960	So each splits into two again
+465960	468960	Now let us carry this process forward
+468960	472960	More atoms leads to more energy levels splitting
+472960	474960	And if you have molar atoms
+474960	476960	You can see this process you know
+476960	478960	Going forth
+478960	481960	And you basically get a quasi-continuum
+481960	482960	Which is
+482960	485960	Has a large separation in between
+485960	487960	So this is your band gap
+487960	489960	So conduction band on the top
+489960	492960	Which is constructor and bonding orbitals
+492960	494960	And the Williams band on the bottom
+494960	496960	Constructing of your bonding orbitals
+496960	497960	Okay
+497960	503960	Okay let us go back
+503960	506960	So more atoms lead to more energy levels splitting
+506960	507960	And you notice that
+507960	508960	You know
+508960	510960	The way these gaps are opening up
+510960	513960	As a result of that addition process
+513960	515960	If I have a large enough
+515960	517960	You know of course we cannot sit here and
+517960	520960	Go to four, five, six and count up to ten
+520960	522960	Partly three that is like silly
+522960	525960	But this is what it results in
+525960	527960	And these are bands
+527960	530960	And the difference between the energy level
+530960	533960	Of the lowest anti-bonding orbital
+533960	535960	And the highest bonding orbital
+535960	538960	Is known as the band gap
+538960	542960	Mind you I have not defined what the x-coordinate is
+542960	544960	Which is a different story
+544960	547960	Only the bicoordinate
+547960	548960	X-coordinate
+548960	550960	Yeah it does
+550960	552960	Massively
+552960	555960	In some sense understanding basic semi-character
+555960	556960	Is about understanding the x-coordinate
+556960	558960	Yeah
+558960	560960	You will figure out in a moment why
+560960	561960	Yeah
+561960	562960	Any questions
+562960	563960	So what
+563960	565960	So there are more energy levels above this
+565960	566960	Uh
+566960	569960	So essentially what is an anti-bonding orbital
+569960	571960	Where electrons don't have to go
+571960	574960	Because they have got higher energy
+574960	577960	So even from basic principles we can argue that
+577960	579960	Everything in blue over here is unoccupied
+579960	581960	Electrons don't have to go there
+581960	583960	So they don't have to come home
+583960	585960	In organic semiconductors for instance
+585960	587960	That is the term that is used
+587960	589960	Highest occupied molecular orbital or HOMO
+589960	591960	And lowest unoccupied molecular orbital
+591960	592960	That is LUMO
+592960	595960	But LUMO and HOMO are sharp levels in organics
+595960	596960	These are bands
+596960	599960	There is a difference
+599960	601960	Because in molecular systems
+601960	603960	You don't have very very strong interactions
+603960	605960	Between different various molecules
+605960	607960	That wonder why they interact with each other
+607960	612960	And hence as a result bands don't form
+612960	614960	Okay everybody understand where the band gap now comes from?
+614960	621960	No
+621960	624960	Silicon forms covalent bonds
+624960	626960	Gemini forms covalent bonds
+626960	627960	Most of the materials you come across
+627960	629960	Kalium nitrate whatever
+629960	631960	Forms covalent bonds
+631960	632960	Bands of this nature
+632960	636960	Or something very close to this will form
+636960	637960	But if we talk about organic semiconductors
+637960	640960	There is a different breed of semiconductors altogether
+640960	642960	ALQ3 for instance
+642960	643960	It is a complicated
+643960	644960	You know
+644960	647960	Are you capsized with a name which I don't care to remember or repeat?
+647960	650960	You just understand what that name is
+650960	652960	When you are writing down a paper
+652960	654960	Put it once in a bracket and then forget about it
+654960	655960	Is that kind of a name?
+655960	657960	I am not a chemist
+657960	661960	Those interactions between molecules and molecules are not covalent
+661960	662960	They are wonder walls
+662960	663960	Which means there are weak interactions
+663960	666960	Weak interactions means less of energy splitting
+666960	667960	Remember
+667960	670960	We have to bring atoms very very close to each other
+670960	672960	For this energy splitting argument to work
+672960	674960	If they remain far apart from each other
+674960	676960	Then the perturbation of one atom on the other
+676960	677960	Is going to be very very weak
+677960	679960	And as a result the splitting will not occur
+679960	682960	So that's why bands don't form in organic semiconductors
+682960	687960	So they basically behave as if they are like
+687960	690960	I would say the electrons move through them
+690960	692960	In a way of hopping transport
+692960	695960	So one side it has an escape probability
+695960	696960	It's like a trap
+696960	697960	Then go to the next trap
+697960	698960	Then go to the next trap
+698960	701960	So unsurprisingly the conductivity in organic molecules is off
+701960	705960	Much weaker than traditional semiconductors of this kind
+705960	707960	But anyhow that's what you are going to learn in organic
+707960	708960	Sir
+708960	709960	Yeah
+709960	712960	Sir so the valence band is essentially a bonding orbital
+712960	713960	Just like a continuous
+713960	716960	It forms a continuum because I got into it 23 years ago
+716960	718960	Of course there are subbands inside
+718960	720960	And we will learn about subbands later
+720960	722960	When we need to
+722960	725960	Because there is internal structure to these bands also
+725960	729960	But we will come to that a bit later
+729960	730960	Okay
+731960	737960	So in keeping with the earlier terminology
+737960	741960	Valence electrons live in valence band
+741960	742960	That they are tightly bound
+742960	744960	The K, L, M, shell etc
+744960	748960	While the conduction electrons which are relatively free to move around
+748960	750960	Live in the conduction band
+750960	752960	And the business of understanding how much is in each
+752960	753960	Will come from statistics
+753960	757960	So we will get to that later
+757960	759960	So another thing
+759960	760960	This is now color convention
+760960	762960	When it comes to doping
+762960	764960	I will be using similar colors here
+764960	767960	N is always represented as blue
+767960	769960	P is always represented as red
+769960	771960	And you will understand why in a moment
+776960	779960	Obviously crystal structure arises from minimization of energy
+779960	781960	All of you have seen this plot most likely
+781960	782960	Right
+782960	783960	Two atoms coming together
+783960	785960	And you know what is the energy of the electrons
+785960	787960	You know that are bound to that
+787960	789960	So for hydrogen for instance
+789960	795960	This energy minimization process leads to a bond length of around 74 picometers
+795960	797960	For silicon that number is different
+797960	800960	We have previously arrived at what 5 angstroms or something like that
+800960	801960	Something like that
+801960	806960	So each element has its own particular value
+806960	809960	And this is now the silicon band structure
+809960	811960	This is from your textbook again
+811960	814960	So it divides up
+814960	816960	So you see
+816960	818960	What is the x axis here?
+819960	821960	Anybody want to guess?
+821960	823960	Distance between the two atoms
+823960	824960	Yeah
+824960	828960	So if I constructed a virtual silicon crystal
+828960	832960	Where let's say the virtual is well advised over here
+832960	838960	Where the distance between neighboring silicon atoms was not 5 angstroms
+838960	840960	But was 10 angstroms
+840960	843960	Then my band structure would look different
+846960	848960	This is where real silicon exists
+848960	850960	This dashed line
+850960	854960	If I go further here then it would look a little bit like this
+854960	859960	But it's virtual because nature does not construct that material for us
+859960	865960	Because we have no way of keeping silicon atoms in any silicon crystal further apart than 5 angstroms
+865960	867960	Because of lower energy
+867960	868960	Yeah
+868960	870960	Every system seeks its lowest energy
+870960	871960	So it's not going to stay there
+871960	874960	But this is basically more like a mathematical model
+874960	875960	So what are those lines?
+875960	877960	Like at one point you have two lines
+877960	878960	Yeah
+878960	880960	So these are what are known as sub-bands
+880960	881960	Not very well defined here
+881960	885960	So that is why most people find this figure coming so soon
+885960	887960	The text local is a bit indigestible
+887960	888960	But I'm just telling you
+888960	890960	That there are two concepts here
+890960	892960	States and electrons
+892960	894960	At least we can agree on that
+894960	899960	States refers to an electron can exist here
+899960	902960	It doesn't mean that it will exist there
+902960	904960	It can exist here
+904960	906960	While on the other hand
+906960	907960	An electron is an electron
+907960	909960	It's either there or it's not there
+909960	910960	It's a binary choice
+910960	916960	So it's like the bonding electrons are there and electrons are there
+916960	919960	In the anti-bonding also electrons can be there
+919960	923960	But they're not usually there because they're anti-bonding orbitals to start with
+923960	927960	Like if I have a surplus of electrons then it will be there
+927960	930960	You'll have to be more clear about what you mean by surplus of electrons
+930960	933960	I mean like for silicon there are only 14 electrons
+933960	935960	So 4 electrons take place in this bonding-anti-bonding
+935960	940960	If I had say a different atom with say 18 electrons
+940960	942960	It'll also have a different band structure
+942960	943960	For the same
+943960	946960	If it had the same band structure then it would be okay
+946960	948960	But again then we're talking about a virtual material
+948960	949960	Yeah
+949960	950960	Okay
+950960	952960	So why is it always an integer multiple?
+952960	954960	Because we count electrons
+954960	956960	There's no such thing as 1.3 electrons
+956960	959960	So it's an integer multiple of the number of electrons
+959960	964960	I mean if you have zero electrons how can you have three minor states in the total state?
+964960	970960	See four n states means that there are that many places for electrons to go set
+970960	974960	But they're not sitting there at present
+974960	979960	Do these states have to be equal in the conduction band and valence band or are they different?
+979960	981960	They can be different, depends on your bandwidth
+981960	986960	It depends on how many bonding and what is the energy level difference between bonding and anti-bonding and etc.
+986960	988960	Again multiple depends completely
+988960	992960	But what is the use of this diagram if we cannot create such a diagram?
+992960	999960	The use of this diagram is for you to get an early flavour of that
+999960	1006960	The concept of a state being available and the concept of an electron actually populating that state are two different ideas
+1006960	1013960	We will based on, you know, driven or motivated by this diagram calculate the number of states available
+1013960	1017960	And also the correspondence that is needed to populate those states
+1017960	1021960	The combination of the two will give us certain important quantities
+1021960	1025960	And that we want to possibly by next next lecture
+1025960	1031960	Sir but in this diagram the only part of the diagram that we ever will really work with is the
+1031960	1035960	The dashed line, the rest are all virtual materials
+1035960	1042960	The dashed line, the vertical dashed line, that is real silicon, the rest is all virtual silicon
+1042960	1044960	Right? Okay
+1044960	1049960	Sir how from the graph are we integrating this four n and three n at any specific point?
+1049960	1050960	Pardon?
+1050960	1051960	Yeah?
+1051960	1054960	Like if you take any point on this line, how are you integrating that?
+1054960	1057960	Okay there will be two n states, okay there will be four n states or something
+1057960	1059960	Because we are talking about fermions, right?
+1059960	1061960	Electrons up spin and down spin
+1061960	1062960	Yes
+1062960	1063960	So two states
+1063960	1066960	No I mean if you take any random point on this
+1066960	1067960	Yes
+1067960	1069960	Like there is no like order in this thing
+1069960	1074960	It would be like a state and then there will be something less than a state as you go along
+1074960	1076960	This is a continuum right?
+1076960	1077960	This is a continuum
+1077960	1078960	Yes
+1078960	1080960	So it could be anywhere in here right?
+1080960	1085960	No I mean you like they say it is four n states and then after that eight n states and then two n states
+1085960	1088960	So there is no order, so how are you pinpointing the number of
+1088960	1090960	Because that arises from silicon matter
+1091960	1093960	It is a result of a calculation, yes
+1093960	1098960	Sir also is there any concept of kind of on purpose pushing or pulling the silicon atoms
+1098960	1100960	In different distances for ideal value?
+1100960	1104960	Okay now you have raised an important question that you didn't mean to
+1104960	1106960	Strain silicon
+1106960	1109960	Like if I take silicon and I grow it on a substrate
+1109960	1112960	Which is lattice mismatched
+1112960	1113960	What will that do?
+1113960	1115960	Mismatched as an exfoliator
+1115960	1118960	Like it either has a lattice constant larger than five or smaller than five
+1118960	1121960	Compressive or tensile strain
+1121960	1126960	Which means that I will be constructing one of these virtual silicons there
+1126960	1128960	But at least within certain number of monolayers
+1128960	1130960	Because I know what happens when I go further away from the interface
+1130960	1132960	We already discussed it actually
+1132960	1137960	There it basically relaxes to bulk whether through formation dislocations or not
+1137960	1138960	Because
+1138960	1141960	Because silicon you cannot force a bulk
+1141960	1145960	Like a large piece of silicon into becoming virtual silicon of some sort
+1145960	1148960	It will only mean certain number of layers that is impacted by that
+1148960	1149960	Yes
+1149960	1153960	Sir in the previous diagram you actually
+1153960	1155960	You don't have to go back sir
+1155960	1157960	Like when we had bonding and anti-bonding
+1157960	1160960	There was a lower line for bonding electrons
+1160960	1162960	And the upper line
+1162960	1166960	So the two lines for the actual spacing that we have
+1166960	1168960	Where we have force n states
+1168960	1170960	And force n electrons
+1170960	1172960	Those are for the bonding ones
+1172960	1173960	Then there is the bandgap
+1173960	1175960	And then the upper two are for the anti-bonding ones
+1175960	1177960	Yeah so force n states and zero electrons
+1177960	1178960	Yeah
+1178960	1182960	Mind you force n states and zero electrons is something that would occur at absolute zero
+1182960	1186960	Where there is no energy available for the electrons to go up the production band
+1186960	1190960	You will discover that in like a couple of slides but I am just putting it out here
+1190960	1194960	In this graph here you can see what is a virtual silicon and what is a real silicon
+1194960	1196960	Dash line is the real silicon
+1196960	1197960	The vertical dash line
+1197960	1198960	That is it
+1198960	1201960	Because that is the lattice distance at which silicon condenses
+1201960	1202960	There is no other distance
+1202960	1204960	But there are three dash lines
+1204960	1206960	Oh they are just reference lines
+1206960	1209960	They were just showing okay that in that particular period there is no gap
+1209960	1210960	Pardon
+1210960	1215960	I think you are referring to this neck over here right
+1215960	1216960	Yeah
+1216960	1219960	So this is also a virtual silicon
+1219960	1221960	But importantly there is no bandgap
+1221960	1225960	So that is why it is indicated in that
+1225960	1226960	Sir is there
+1226960	1228960	What is the use for virtual silicon?
+1228960	1229960	I just mentioned
+1229960	1230960	You got a straight layer of silicon
+1230960	1231960	You will have to go
+1231960	1232960	That is how the moment created
+1232960	1233960	But are there like
+1233960	1234960	Oh yes
+1234960	1237960	The effective mass for instance is different for straight silicon
+1237960	1239960	You might need it for some application
+1239960	1244960	What about for a very small layer like say 10-20 layers of silicon
+1244960	1247960	Is it useful practically like can you build and you know
+1247960	1254960	I would say that almost all the modern devices basically they rely almost critically on those 10-20 layers
+1254960	1255960	The bulk does not matter
+1255960	1259960	Sir so the casual speed will be different in a screened or compressed silicon obviously
+1259960	1261960	They will have different mobilities different bandgap everything is different
+1261960	1265960	So which one actually has a faster speed is there like a general input or
+1265960	1266960	No
+1266960	1275960	So for instance it depends upon whether the scattering in that particular direction changes enough so as to go below the bulk silicon scattering or not
+1275960	1279960	Will depend upon the material how it is trained by how much it is trained
+1279960	1284960	And whether there are any dipole-dipole interactions because if the underlying material is polar
+1284960	1287960	It will have an influence it will lead to dipole scattering also
+1287960	1291960	So it is a complex question depends on each system
+1291960	1295960	Sir so we can does that actually math exist like is it
+1295960	1297960	Math is very hard
+1297960	1302960	See this is a case of where math is extremely hard but experiments are relatively easy
+1302960	1305960	And importantly they get you the result you want
+1305960	1307960	So yeah
+1307960	1312960	Sir so maybe we can come up with a theory to explain this
+1312960	1313960	It depends
+1313960	1318960	So how are these states defined there and I am not looking at that what is that important state
+1318960	1320960	But if I didn't show it to you you will understand exactly
+1320960	1328960	Sir why are in the left and the right half symmetric like there are two atoms that go in the middle
+1328960	1333960	Yeah
+1333960	1336960	So it is asymmetric because this is asymmetric
+1336960	1339960	But that would be same
+1339960	1341960	You never know
+1341960	1343960	Look this is the offshore distance
+1343960	1348960	So it is a measure of how close the two atoms get and how far away they go
+1348960	1350960	It is not whether I am making the lecture right
+1350960	1352960	I hope that is clear
+1352960	1356960	I am saying I have got an aggregator number of atoms
+1356960	1358960	Which come and condense at a distance r
+1358960	1359960	You never know
+1359960	1361960	Tell me what happens at a distance r
+1361960	1363960	That is what this diagram is
+1363960	1364960	I don't know
+1364960	1365960	I don't know
+1365960	1366960	I don't know
+1366960	1367960	I don't know
+1367960	1368960	I don't know
+1368960	1369960	I don't know
+1369960	1371960	I don't know
+1371960	1376960	This is the continuous
+1376960	1379000	I think this is the urgent
+1379000	1380960	This is the region
+1380960	1381960	Right
+1381960	1394600	N refers to the number of atoms that is
+1394600	1397960	Nobody asked me that question
+1397960	1399960	Well that comes
+1399960	1400960	. . . . . 다
+1400960	1401900	These back lines?
+1402100	1402440	These ones?
+1403100	1404880	So this is just a distance at which
+1404880	1406320	virtual silicon does not have a band.
+1408680	1411020	The property of the material at that particular distance.
+1411160	1412980	It is just that if I left things B,
+1413300	1414760	it would never condense into this form.
+1415780	1417020	But you could say
+1417020	1418720	that by going by the definition of metal
+1418720	1421720	that a silicon that condenses it
+1421720	1423000	with this interatomic distance
+1423000	1423740	would act as a metal.
+1425120	1425600	Is this enough?
+1427100	1428160	So what was N here?
+1428160	1431600	Well, there is no gap.
+1432540	1433600	It depends upon
+1433600	1436060	at what energy you are injecting carriers into it.
+1436080	1438040	If the energy is much below
+1438040	1439760	this level,
+1440240	1441200	then it will be insulated.
+1441340	1442820	If I am injecting anywhere above this,
+1442820	1443500	then that doesn't matter.
+1444820	1446220	But why doesn't silicon exist
+1446220	1447640	in that virtual region,
+1447720	1449660	but it exists after that virtual region?
+1450680	1451340	No, no.
+1451460	1453660	Silicon exists only at this line.
+1454340	1454860	Nowhere else.
+1456380	1457740	Everything else is virtual here.
+1457980	1458120	Okay.
+1458160	1461980	So can I construct silicon
+1461980	1463900	that is an iron
+1463900	1464680	and a fiber?
+1466140	1466540	See,
+1467540	1468080	first of all,
+1468220	1470000	the further away I go from this black line,
+1470080	1471420	the harder it becomes to construct that.
+1471680	1471820	Right?
+1472080	1473060	Everybody will give me that?
+1473820	1475600	So even if I do strained air epitaxy,
+1475640	1476860	I am not going to go very far away
+1476860	1477580	from that black line.
+1478660	1480740	So whether you can reach that neck region
+1480740	1482020	using strained air epitaxy,
+1482820	1484340	so far there are no reports.
+1485980	1487980	So what was the capital of the drop?
+1487980	1488280	Yeah.
+1488280	1490680	What was the number of?
+1490680	1491680	I don't understand.
+1491680	1492680	.
+1492680	1493680	.
+1493680	1494680	.
+1494680	1495680	.
+1495680	1496680	.
+1496680	1497680	.
+1497680	1498680	.
+1498680	1499680	.
+1499680	1500680	.
+1500680	1501680	.
+1501680	1502680	.
+1502680	1503680	.
+1503680	1504680	.
+1504680	1505680	.
+1505680	1506680	.
+1506680	1507680	.
+1507680	1508680	.
+1508680	1509680	.
+1509680	1510680	.
+1510680	1511680	.
+1511680	1512680	.
+1512680	1513680	.
+1513680	1514680	.
+1514680	1515680	.
+1515680	1516680	.
+1516680	1517680	.
+1517680	1517720	.
+1517720	1518380	.
+1518380	1525420	So another thing,
+1525700	1527940	because of the Williams band being
+1527940	1529740	a collection of
+1529740	1531700	random orbitals
+1531700	1534780	and the conduction band being a collection of
+1534780	1535960	anti-warning orbitals,
+1537680	1538660	at the dashed line,
+1538880	1539480	real silicon,
+1541140	1543740	six n states are in the 3T orbitals.
+1545340	1546760	We can do that.
+1546760	1550100	and 3s has 2n states
+1550100	1551540	because s orbital carries only 2
+1551540	1554520	so there is an asymmetry
+1554520	1555600	in the number of states available
+1555600	1556760	between valence and conduction
+1556760	1560720	in general
+1560720	1563800	that asymmetry will not show itself
+1563800	1564240	because
+1564240	1567620	as we will learn later when we change the x coordinate
+1567620	1568280	of this plot
+1568280	1571380	the energies that are needed to
+1571380	1574000	run into a case where these 2n or 6n
+1574000	1574720	are insufficient
+1574720	1577620	in general it won't arise
+1577620	1579260	the energies needed are just
+1579260	1581860	your silicon crystal will disintegrate
+1581860	1582640	before you get to 2n
+1582640	1585560	so let's say
+1585560	1587040	I start populating these states
+1587040	1589780	how much energy do I need
+1589780	1591440	to actually fill them all up
+1591440	1594020	more than the band gap
+1594020	1596060	because you see these states are in a continuum
+1596060	1598000	which means you need the band gap
+1598000	1599380	energy to reach the band edge
+1599380	1601300	I need more energy to go above that
+1601300	1603760	and that keeps on rising
+1603760	1606000	you will have the exact mathematical formula
+1606000	1606660	for that in a bit
+1606660	1611560	so counting of occupied and unoccupied states
+1611560	1611960	we have done
+1611960	1613500	so now let's define some basics
+1613500	1615580	of what you have learnt regarding band structure
+1615580	1618000	now here is where x coordinates
+1618000	1619680	of that plot become important
+1619680	1620480	I am going to draw
+1620480	1622180	2 different
+1622180	1625020	pictures here
+1625020	1633340	energy
+1633760	1639160	so the previous graph was also in the transformed space
+1639160	1642260	or that was in the non-real space
+1642260	1643460	no that was in real space
+1643460	1644380	I was in real space
+1644380	1646640	this is now in transformed space
+1646640	1648980	I am going to that
+1648980	1654220	so you see E versus R
+1654220	1655920	there is another way of actually plotting this
+1655920	1657140	that is in dual space
+1657140	1658300	E versus A
+1658300	1662420	now this is where x coordinates become dual space
+1662420	1663740	what question is this plot
+1663760	1665760	what information does this plot give you
+1665760	1667760	what is the energy of my electron
+1667760	1670760	versus the separation between the two atoms
+1670760	1672760	versus the separation between the two atoms
+1672760	1675760	or if I have already got a grain of silicon
+1675760	1676760	I have an electron
+1676760	1680760	I want to track its energy as it pops from atom to atom
+1680760	1681760	right
+1681760	1685760	but the thing is the electron is moving in real space
+1685760	1686760	here
+1686760	1690760	so this is known as
+1690760	1693260	band diagram
+1693260	1696260	it's important to get these terminologies right
+1696260	1699260	that's what a band diagram is
+1699260	1701260	this one is in dual space now
+1701260	1703260	E versus K
+1703260	1704260	this still
+1704260	1707260	if I ask myself the same question
+1707260	1710260	the information I would get from this particular
+1710260	1711260	you know
+1711260	1714260	plot would be
+1714260	1717260	how much energy does my electron have
+1717260	1720260	depending on how fast it is moving
+1720260	1722260	so what is the energy of the electron?
+1722260	1723260	not always
+1723260	1724260	not always
+1724260	1725260	not always
+1725260	1727260	I'll show you in a moment
+1727260	1730260	this plot assumes that the band
+1730260	1732260	I should put a name over here
+1732260	1734260	this particular plot is known as
+1734260	1735260	band structure
+1735260	1736260	band structure
+1742260	1745260	so band diagram and band structure have two different means
+1745260	1750260	only if I'm very very close to the minimum of the conduction band
+1750260	1751260	and I'll define that in a moment
+1751260	1757260	the further away I go that's no longer true
+1757260	1758260	okay
+1758260	1761260	now let's talk about a direct band gap semiconductor
+1761260	1762260	okay
+1762260	1772260	so it is traditional to locate the top of the valence band at equal to zero
+1772260	1774260	okay
+1774260	1778260	and we always draw this as well as this
+1778260	1780260	for increasing electron energies
+1780260	1781260	okay
+1781260	1782260	this is a convention
+1782260	1783260	this is a convention
+1783260	1784260	you can do it in any other way
+1784260	1786260	by the way it will be perfectly correct
+1786260	1790260	but you will have to add negative signs throughout your entire semiconductor
+1790260	1791260	everywhere
+1791260	1793260	see it's like a voltage right?
+1793260	1795260	if you multiply this with charge
+1795260	1798260	I actually get something that has the dimensions of a voltage

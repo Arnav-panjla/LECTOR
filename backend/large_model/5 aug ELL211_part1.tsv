@@ -1,0 +1,522 @@
+start	end	text
+0	8620	Okay. So packaging and the fact that it
+8620	16760	is the highest value in some sense,
+16760	22720	what we are teaching in this class is
+22720	24600	only what I would call
+24600	27980	20 percent of the overall amount of materials.
+27980	31220	This is not to say that this is just
+31220	37140	some pre-designed bug that we just use as a standard package.
+37960	43420	Packaging is used to be considered like an art in itself,
+43420	47980	but now increasingly because of the heat issues,
+47980	50260	people no longer speak about
+50260	52780	integrated software in the package separately.
+52780	56360	Instead, they talk about packaging of systems.
+56480	57980	That means that
+57980	64380	heat core design or thermal core design has to be a part of the IC design process itself.
+64380	67300	Unfortunately, as far as I know,
+67300	71340	only one course in any of the IITs in India,
+71340	75960	IIT Bombay, actually teaches IC design in that way.
+75960	79500	Even our VLSI design program over here,
+79500	82840	talks about IC design in isolation more or less.
+82840	85960	It doesn't make all the grammars. Can I help you?
+85960	86960	Yes, please.
+86960	87960	Okay.
+87980	91260	See, if you can send all the stuff together at one point,
+91260	92060	I'll be able to help you.
+92060	94440	But if you keep coming every five minutes to interrupt me,
+94440	95440	that's not really the problem.
+95440	97540	Please, please, please don't.
+98560	106540	So, the issue is that this kind of
+106540	109480	fragmented knowledge forces people to take
+109480	113460	electives in domains that they don't consider their own.
+113460	116860	For instance, mechanical engineering has a big input here because heat transfer is
+116860	117940	a central part of
+117980	119220	that study.
+119220	125520	As a part of the ISN-India's Immigration Commission,
+125520	128340	the most publicly publicized part of this is
+128340	131100	for me and I, could probably participate in initiative.
+131100	135880	Which can also be a part of .
+135880	142880	So, one of the lift well know concepts,
+142880	144980	they have a lot of people going there.
+144980	146040	I will try to figure out something out for you.
+146040	146660	They remain at least one guysbelen beras in compliance with theceeding.
+146660	146920	I would like to ask you that question recordings there.
+146920	146980	Yes. Yes. Yes. Yes. No problem.
+146980	147040	Okay. Thank you.
+147040	147060	Yes.
+147080	147220	Yes Puwał...
+147220	147240	Yes. Yes. Yes. Yes followed by the Infrastructure Again.
+147240	147620	Okay. Yes. Yes. Yes. Uh...black background and one of the rest publications
+147620	147780	who is actually going there too?
+147780	157780	I know parts of activism are even in the whole education system when it comes to this part of technology research and development.
+157780	166780	And there, certain new VTech or MTech programs are going to be offered in a few years,
+166780	171780	which are entirely geared about taking elements of various traditional practices of engineering
+171780	177780	and offering them as, you know, semiconductor devices or something like that.
+177780	184780	So this packaging issue is not just something that you can learn later on your own.
+184780	190780	I recommend that if you are interested in going into this field, start looking for corresponding electives,
+190780	195780	because you will not have the time to learn heat transfer from scratch after you've completed your VTech,
+195780	200780	or you're late into your MTech, etc. It's just one of the matters.
+200780	201780	Then we shall come back to this.
+201780	204780	We'll start it, resume our discussion.
+204780	206780	This part was prompted by a student question.
+206780	214780	But then we resume our discussion on what happens to carrier wave functions in various kinds of materials,
+214780	219780	starting from the understanding that only in a perfectly periodic crystal do you have black-hot scattering.
+219780	223780	In any room temperature case, you will not have a perfect crystal.
+223780	230780	You will have vibrations, which give rise to virtual particles known as phonons.
+230780	236780	In a second quantization sense, interact with carriers, and that leads to scattering.
+236780	246780	We defined an R-space, which is easy enough to understand, in one dimension, two dimensions, and three dimensions.
+246780	252780	But there is a dual space to that, which arises from Fourier transforms, which is also periodic.
+252780	259780	And if you are starting in the Bravais lattice, one of those 14 lattices,
+259780	264780	then its dual space is known as a reciprocal lattice.
+264780	268780	And the reciprocal lattice is guaranteed to be also a Bravais lattice.
+268780	274780	Of course, there is no guarantee that Bravais lattice A maps into reciprocal lattice A.
+274780	282780	It could be B, where B is also a set of initial Bravais lattices that we started with.
+282780	284780	Then we had a simple class problem.
+284780	288780	We defined planes, classes of planes.
+288780	293780	We defined families of planes which are parallel to each other, or depending upon the nature of symmetry.
+293780	297780	They may even be orthogonal, but they have the same symmetry in that direction.
+297780	305780	The practical influence of understanding of planes is that it allows you to
+305780	311780	please wafers without actually shattering them and losing a lot of material,
+311780	317780	and also causing edge issues, because you want to use the entire real estate as much as possible.
+317780	320780	We defined waferents in real space, corresponding to that,
+320780	325780	because of the relationship between the periodicity r and the periodicity k,
+325780	332780	is that if ikr, essentially, is equal to a constant, or 1, depending on your normalization,
+332780	335780	is also a waferent.
+335780	337780	So if r is a waferent, k is also a waferent.
+337780	340780	That's the property of plane waves.
+340780	346780	Then we formally defined the reciprocal lattice, and we expanded on the Fourier part.
+347780	351780	Let's today connect this more to crystallography.
+351780	355780	You've all seen Miller's analysis? Have you?
+355780	357780	No.
+357780	363780	So those of you who did coordinate geometry, and I think it was all of you in 11th grade,
+363780	367780	you know how to write down the equation of a plane, right?
+367780	373780	One of the canonical forms of the equation of a plane is a dot n equal to a constant, right?
+373780	376780	Which is also the biggest discussion.
+377780	383780	So, Miller indices, in that sense, are an exercise in finding the normal to the plane.
+383780	387780	As long as you can write the normal to the plane, which is the equation of the plane effectively,
+387780	390780	you can figure out where the indices are.
+390780	397780	So, the area vector for a plane is picked to be parallel to the shortest reciprocal lattice vector.
+397780	405780	So notice that, in coordinate geometry, the direction that is perpendicular to the plane is also in r3.
+405780	406780	Right?
+406780	410780	So, if you're starting with a plane arbitrarily oriented in r3,
+410780	413780	then the vector that is perpendicular is also in r3.
+413780	416780	But here we're making a departure from that.
+416780	421780	We're saying that if you have a plane in real space,
+421780	429780	then its vertical is a point in reciprocal space which has a k-position vector.
+429780	432780	It's just a change of terminology. That is all there.
+432780	434780	Let me repeat.
+434780	438780	If you have a plane which is arbitrarily oriented in r3,
+438780	440780	I find it's normal.
+440780	444780	The coordinates, which is basically a triplet,
+444780	449780	is a point in k-space.
+449780	450780	Same coordinates.
+450780	452780	So, let's say 3, 1, 5.
+452780	457780	Those are coordinates in k-space for the dual vector.
+457780	460780	So, if you have a plane in this direction, it maps to a point.
+460780	462780	A position vector, to be more precise.
+462780	463780	Yes?
+463780	467780	You're taking the normal to that plane and then mapping it to a point in k-space.
+467780	470780	You're just taking those coordinates and we will describe,
+470780	473780	because obviously people who work in crystallography
+473780	476780	are not very comfortable with working on Fourier analysis.
+476780	478780	So, they have their own way of arriving at the same thing,
+478780	481780	which I'll describe how to construct a Miller index.
+481780	483780	It is essentially the same process.
+483780	485780	If you have done a little bit of linear algebra,
+485780	487780	which I believe you have done,
+487780	488780	you can work out the steps and you'll say,
+488780	490780	okay, yeah, these two treatments are exactly equivalent.
+490780	491780	Sir, but for a plane like,
+491780	493780	we can't only depend on one model vector.
+493780	494780	We should also have a point, right?
+494780	496780	So, we will have to consider that when doing this.
+496780	497780	Which point?
+497780	499780	Meaning, if you have a normal vector,
+499780	501780	infinite planes which have a normal vector.
+501780	502780	Yeah.
+502780	504780	So, all you say is that if I define its normal vector,
+504780	507780	any normal which is a scalar multiple of that normal vector
+507780	509780	will also serve as a normal vector.
+509780	511780	What we're trying to find over here is the minimum normal vector.
+511780	513780	But I'm telling you that if there are infinite planes
+513780	514780	for the same normal vector, right?
+514780	515780	Yes, yes, yes.
+515780	519780	So, this basically goes back to our previous discussion,
+519780	523780	where families of planes corresponded to a single point in k-space.
+523780	524780	Okay.
+524780	526780	So, how do you construct a family of planes
+526780	528780	that are all parallel to each other?
+528780	531780	So, that discussion is exactly equivalent.
+531780	534780	So, you pick a parallel,
+534780	537780	but you pick the shortest reciprocal lattice vector
+537780	542780	and let us express that in three unit coordinates,
+542780	544780	or rather three unit vectors,
+544780	546780	in the linear space defined by b1, b2, b3,
+546780	548780	which I have bolded there.
+548780	550780	How do you construct it?
+550780	552780	It is the smallest integral coefficient
+552780	557780	in reciprocal space.
+557780	561780	So, you basically write it as,
+561780	565780	so if you have like this coordinate system in,
+565780	567780	I think, red or black?
+567780	568780	Yeah, black.
+568780	570780	It is in real space.
+570780	573780	Then you construct a coordinate system in red.
+573780	577780	That is the corresponding coordinate system in k-space.
+577780	580780	So, they are not, so black is r3,
+580780	582780	red is k3.
+582780	585780	And we are finding out
+585780	589780	the corresponding minimum intercepts
+589780	594780	a by h, b by k and c by l.
+594780	596780	And we are trying to find out h, k and l,
+596780	598780	which are the smallest integers
+598780	600780	which will make this possible.
+600780	603780	So, for instance, you have got 7 by 11 or something.
+603780	607780	Then 11 is the corresponding, you know,
+607780	609780	coordinate I have to worry about.
+609780	611780	Can you repeat it?
+611780	615780	So, what we are trying to do over here is,
+615780	618780	we are trying to find out coordinates in b-space,
+618780	620780	which is, you know, effectively mapping of k-space,
+620780	622780	h, k, l,
+622780	625780	so that you have b by,
+625780	628780	you are finding h, k and l,
+628780	631780	so that they are the smallest possible integer multiples
+631780	632780	in each direction.
+632780	633780	Yeah?
+633780	635780	The numbers you said.
+635780	636780	Yeah?
+636780	639780	The numbers you said, 7, 5, 11, I didn't get.
+639780	640780	So, we will give you a worked example.
+640780	647780	You will probably understand from that more clearly.
+647780	650780	So, crystallographic definition,
+650780	652780	which is independent of, you know,
+652780	654780	Fourier definition is that
+654780	657780	it is the inverse proportionality of intercepts in real space.
+657780	659780	So, for instance,
+659780	661780	if I have an arbitrarily oriented plane,
+661780	663780	which has intercepts,
+663780	666780	let's say x1, x2, x3,
+666780	668780	then the corresponding 1 over x1,
+668780	669780	1 over x2,
+669780	670780	1 over x3,
+670780	672780	expressed in smallest integer form,
+672780	676780	will be the corresponding h, k, l's.
+676780	678780	I take the inverse,
+678780	681780	and I find out the l, c, m, in some sense,
+681780	682780	for those,
+682780	684780	and those are h, k, l's,
+684780	687780	with no bound factors.
+687780	691780	So, for hexagonal and robohedral lattices,
+691780	693780	it is more convenient to use four indices,
+693780	696780	even though we are not talking about a four-dimensional space,
+696780	698780	because there is an additional axis,
+698780	700780	which is a c-axis in the road direction,
+700780	702780	you would present that using the fourth index.
+702780	705780	This is just specific to these two crystal structures.
+705780	706780	It is not necessary,
+706780	708780	it is entirely possible to express it in three,
+708780	709780	because it's after all,
+709780	711780	after a k3, you don't need more than that,
+711780	714780	but you can have an over-determined plane,
+714780	715780	for instance.
+715780	716780	It is equivalent to saying that,
+716780	718780	okay, I've got three non-polar points,
+718780	720780	and they define my plane,
+720780	722780	and I just happen to pick another fourth point
+722780	724780	on the same plane to define my plane.
+724780	727780	Makes no difference, really speaking.
+727780	729780	So, why do we do that?
+729780	732780	It's easier to express it,
+732780	736780	because there are, you know, additional axes here.
+736780	737780	So, let's do a class problem,
+737780	740780	and that will hopefully clear up some of these doubts.
+740780	742780	So, here is the problem.
+742780	744780	This plane in red, light red,
+744780	747780	I hope everybody can see that.
+747780	749780	It has these points defined,
+749780	751780	a and b,
+751780	752780	and the Miller indices,
+752780	754780	for this indicated plane.
+757780	761780	All right, so how many of these,
+761780	762780	what you heard is just one point.
+762780	765780	You'll remember again and again from our Himalayan class,
+765780	767780	were also an episode three.
+767780	769780	Sir, did I also drink another body of water?
+769780	770780	Yeah.
+770780	773780	That's obvious, right?
+773780	779780	Because Z cure is 0 in both cases.
+787780	817760	Thank you.
+817780	847760	Thank you.
+847780	877760	Thank you.
+877780	907760	Thank you.
+907780	937760	Thank you.
+937780	967760	Thank you.
+967780	997760	Thank you.
+997780	1027760	Thank you.
+1027780	1057760	Thank you.
+1057780	1087760	Thank you.
+1087780	1117760	Thank you.
+1117780	1147760	Thank you.
+1147780	1177760	Thank you.
+1177780	1181720	of irrational points, like it could occur.
+1181720	1183280	Of course, we have got non-periodic systems
+1183280	1184880	like polycrystalline and morpher systems,
+1184880	1186280	they're not periodic either.
+1187280	1192280	Those are non-irrational examples of non-periodic systems.
+1192280	1194880	So for the non-periodic system,
+1194880	1197780	we cannot define the Fourier transform
+1197780	1199820	or there are no .
+1199820	1201980	Well, how would you calculate
+1201980	1204720	a Fourier transform in practicality?
+1204720	1206520	You would do something like a DFT,
+1206520	1208020	a speed Fourier transform.
+1208020	1210780	Or we can do it for some, within a particular domain,
+1210780	1212920	we can calculate the Fourier transform
+1212920	1215120	for as long as we know the values, right?
+1215120	1217680	But you'll always have a scatter.
+1217680	1220560	Because I'll have basically kind of an excellent data process
+1220560	1223280	which never terminates, right?
+1223280	1226220	I say that, okay, this point lies between this and this,
+1226220	1228320	and you say, no, it's actually finer than that,
+1228320	1230920	it's finer than that, and the process never concludes.
+1233620	1236380	So ask yourself, how do I construct this crystal?
+1236520	1238820	Can you place it at that point?
+1238820	1244580	And that that point is not well defined, right?
+1248120	1252320	Okay, so now let's connect wave function, this structure.
+1252320	1253760	I mentioned this expression
+1253760	1256760	when we talked about two different energy regimes,
+1256760	1260360	where Uwm is the cell function,
+1260360	1262280	which is the part of the wave function
+1262280	1265480	that represents the strong interaction between an electron,
+1265480	1266520	and an .
+1266520	1268700	and the second part
+1268700	1270740	is a familiar plane wave
+1270740	1272860	so if you had
+1272860	1274460	open, like you know
+1274460	1276700	the universe constructed of
+1276700	1279100	an infinite space
+1279100	1280340	and only one electron
+1280340	1285360	e to the power ikr would be a sufficient
+1285360	1287280	representation of what that electron wave function
+1287280	1289340	would be, right, because it doesn't interact
+1289340	1290760	with anything because nothing else exists
+1290760	1293020	in fact, John Archibald
+1293020	1294380	was a physicist
+1294380	1297100	was a PhD advisor of Richard Feynman
+1297100	1299340	he had this theory that there is only
+1299340	1301320	one electron in the entire universe and everything else
+1301320	1303080	is a motion transferred copy of that
+1303080	1304600	pretty crazy idea
+1304600	1307280	but it seems to fit the facts
+1307280	1308240	so
+1308240	1311320	the cell function of the kernel
+1311320	1313360	is what we are defining as
+1313360	1315420	u sub n, it interacts with the lattice
+1315420	1319120	crystals
+1319120	1321460	this is important to understand that even though
+1321460	1323040	we talk about
+1323040	1324220	crystals having symmetry
+1324220	1326740	but the act of construction of the crystal
+1326740	1328260	actually breaks space symmetry
+1328260	1330980	because space symmetry says that all directions
+1330980	1331920	in R3 are equivalent
+1331920	1334660	so once I construct a crystal
+1334660	1336940	I say that okay, some directions are more special
+1336940	1337480	than others
+1337480	1340820	and as a result, first of all there is symmetry breaking
+1340820	1343000	that occurs, so all directions are not
+1343000	1344760	equivalent, so this for example
+1344760	1346300	is a diamond crystal lattice
+1346300	1348740	which is what silicon and germanium
+1348740	1349460	condense into
+1349460	1352440	so just there as an example
+1352440	1353840	so what does that depend upon?
+1354220	1358540	each will break symmetry in one way or the other
+1358540	1362980	once you have a crystal then there is periodicity
+1362980	1364840	but when you say periodicity
+1364840	1367060	and you try to construct a miller index
+1367060	1369060	you are still saying that there are at least
+1369060	1370240	three special directions
+1370240	1374080	periodicity is different from symmetry
+1374080	1379240	periodicity is what I would say
+1379240	1379700	okay
+1379700	1382860	I think there is a slight abuse of terminology over here
+1384220	1387780	what we are talking about basic symmetry in R3 is
+1387780	1388940	isotropicity of space
+1388940	1390420	that all directions are equivalent
+1390420	1392620	the moment I impose a crystal
+1392620	1395600	that basic R3 symmetry is broken
+1395600	1397720	and we say that the resulting space is anisotropic
+1397720	1400060	and now within that
+1400060	1401980	anisotropic space we have got periodicity
+1401980	1403880	and that periodicity
+1403880	1405280	in the sense of a group theory
+1405280	1407500	obviously imposes a certain set of
+1407500	1409960	special directions in which there is
+1409960	1411180	periodicity and hence
+1411180	1412220	that is symmetry
+1412220	1414200	so we are using
+1414220	1415700	symmetry in two different terms
+1415700	1416400	in two different ways
+1416400	1416960	they are actually
+1416960	1418920	it is correct to use the word symmetry over here
+1418920	1421380	because R3 symmetry is the basic symmetry of all
+1421380	1422620	which is basically
+1422620	1424500	I think it is called
+1424500	1425400	n-fold or something
+1425400	1426260	okay never mind
+1426260	1427040	what it is called
+1427040	1429960	it is been a while since I have read these things
+1429960	1431960	but
+1431960	1433600	isotropicity
+1433600	1435020	and symmetry combined together
+1435020	1436860	those two terms will actually clarify
+1436860	1438180	what we are talking about
+1438180	1439680	so isotropicity is broken
+1439680	1441180	which is also known as R3 symmetry
+1441180	1443220	so it is like when you didn't have a crystal
+1443220	1444140	that any vectoring
+1444220	1446520	R3 was equally probable
+1446520	1449460	or there was no special energy direction anywhere
+1449460	1450620	so when you impose a crystal
+1450620	1453880	so that say a particular direction became more favourable for that crystal
+1453880	1455380	more favourable or less favourable
+1455380	1456120	less favourable
+1456120	1457260	and non-equivalent basically
+1457260	1459040	that is what we are trying to say
+1459040	1460840	what is the fact that over here
+1460840	1462280	the kernel is u sub n
+1462280	1463560	I call it the self-function
+1463560	1470160	and it is also known as kernel in many treatments
+1470160	1471620	now mobility
+1471620	1472400	I have still not
+1472400	1474060	I have not defined mobility please note
+1474060	1475620	I have not given the units of mobility
+1475620	1477100	I have not defined what unity is
+1477100	1478260	mobility is in
+1478260	1480660	you know what is the right-hand side of that equation
+1480660	1482060	but mobility we
+1482060	1483620	can right now state
+1483620	1488900	it is the measure of how easy it is for a carrier to move
+1488900	1490860	carrier or electron?
+1490860	1491620	electron is a carrier
+1491620	1494260	there is going to be a second carrier introduced to this discussion
+1494260	1497560	that I am generalizing into a carrier
+1497560	1500100	so it is a strong function of scattering interactions
+1500100	1502120	the more scattering you have
+1502120	1503860	the harder it is for the carrier to move
+1504060	1504560	right?
+1504560	1506200	can everybody understand that?
+1506200	1511020	okay
+1511020	1514160	so one thing that happens in this entire process is that
+1514160	1516320	we start with the assumption that electron for instance
+1516320	1517760	has a mass of 9.11
+1517760	1521520	10 to the power minus 31 kilograms
+1521520	1523500	in semiconductor devices
+1523500	1526400	we don't use that mass much
+1526400	1528700	instead we replace it with something called an effective mass
+1528700	1530560	and I will describe two ways
+1530560	1533900	two distinct and two distinct ways in which that is constructed
+1534060	1536560	so that is what I am
+1536560	1540120	so is that because of rest mass or moving mass?
+1540120	1541420	no
+1541420	1543120	that is relativity
+1543120	1545360	in that case if your speed goes up the mass goes up
+1545360	1547420	no that is not what you are talking about
+1547420	1548800	so let us now
+1548800	1550620	describe the first of those two masses
+1550620	1552860	there are two ways of defining effective mass
+1552860	1555200	both are necessary for you to understand
+1555200	1557520	because both are needed in different contexts
+1557520	1560220	so let us first define a kinematic effective mass
+1560220	1562920	so when a carrier moves through crystal it interacts with what?
+1562920	1563600	so when a carrier moves through crystal it interacts with what?
+1563600	1564740	the lattice
+1564740	1566940	that is the obvious culprit right?
+1566940	1568360	other carriers
+1568360	1571940	electron-electron interactions or hole-hole interactions
+1571940	1574260	and also stuff that should not be there
+1574260	1576060	impurities
+1576060	1577100	Joukalski process
+1577100	1578400	carbon impurities in silicon
+1578400	1581060	that is what we are talking about
+1581060	1585160	it is very different from free space transport
+1585160	1589900	so if we write down the equation of motion
+1589900	1593000	notice that I have pulled m inside the derivative
+1593000	1593500	ok?
+1593500	1596640	because I am writing the rate of change of momentum there
+1596640	1599340	is equal to three different forces
+1599340	1600800	one is the externally applied force
+1600800	1602300	so this could be a piece of silicon
+1602300	1604060	and apply an electric field across it
+1604060	1606460	that is an external force
+1606460	1607600	the other is periodic force
+1607600	1609400	I have got a crystal
+1609400	1613040	the carrier moving in one direction is going to see the same kind of scattering
+1613040	1614740	or roughly the same kind of scattering
+1614740	1616760	modulo the temperature differences
+1616760	1618540	as it hops from place to place
+1618540	1621900	because the lattice structure of it is periodic in itself
+1621900	1622640	and other?
+1622640	1624440	unexpected things
+1624440	1627240	like electron-electron interactions
+1627240	1629980	after all it is not a single electron system
+1629980	1633040	and the other thing is impurities
+1633040	1635500	which break periodicity by the way
+1635500	1637200	because if I have silicon
+1637200	1639980	and I suddenly introduce a phosphorus atom in there
+1639980	1643640	which is where you actually make n-type silicon
+1643640	1646940	phosphorus has a different valency and a different covalent bonding
+1646940	1647780	than silicon does
+1647780	1649580	so it will disrupt the electron cloud
+1649580	1651640	and break periodicity in that sense
+1651640	1652480	ok sir can I ask a question?
+1652480	1654540	periodicity what does that mean?
+1654540	1658340	periodic is like if you have got an infinite silicon crystal
+1658340	1661380	so if your electron is moving in a single direction
+1661380	1664520	without getting captured in different directions
+1664520	1667040	it is going to encounter the same kind of collisions
+1667040	1668940	you know roughly
+1668940	1669880	a given unit of time
+1669880	1671180	like it is moving at a constant velocity
+1671180	1671840	it is going to take time
+1671840	1673880	we are just accounting it for the lattice forces
+1673880	1674640	yes
+1674640	1677340	just that f periodic is lattice
+1677340	1679080	but the lattice may contain impurities
+1679080	1681180	and that impurity part is an extra layer
+1681180	1681880	so what?
+1681880	1686580	so when we say periodic do we also account for lattice vibrations being the same?
+1686580	1687580	no we don't
+1687580	1691080	we in fact I mentioned that earlier in this lecture
+1691080	1693840	we replace vibrations with the quasi particles
+1693840	1696740	and then that would get pushed into f other
+1696740	1701080	because f other contains everything else that is not a part of the perfect lattice
+1701080	1703740	or an externally invited force
+1703740	1708140	now how do you track the motion of any carrier?
+1708140	1710320	one electron?
+1710320	1711040	I read on the equation of motion I tried to track that one electron?
+1711040	1711540	one electron? I read on the equation of motion I tried to track that one electron?
+1711540	1717940	see those of you who were getting a slight sense of Deja Vu
+1717940	1720180	from maybe 10th grade or 11th grade
+1720180	1722080	where you started talking about how
+1722080	1726440	solid bodies can be replaced with a single centre of mass
+1726440	1728540	and treat it as a particle
+1728540	1731480	this direction this discussion is going to be somewhat similar
+1731480	1732440	in spirit
+1732440	1734540	not in detail
+1734540	1735600	so
+1735600	1738400	we're gonna say okay this is external force acting on it
+1738400	1739280	this is a force acting on it from the lattice itself and this is from everything else, right?
+1739280	1740380	I can't do it, right?
+1740380	1740900	if I can't do it, no problem!
+1740900	1741400	I can't do it, right?
+1741540	1753540	Well, that's easy enough to do for one particle. If you have any silicon crystal, let's say
+1753540	1761540	containing a mole of silicon atoms, like Avogadro number, do you write down 10 to the power
+1761540	1766540	of 53 such equations? No. See, it's the same kind of reasoning as you use for the rigid
+1766540	1775540	bodies. So, mathematically that problem is intractable. So, what I do instead is that
+1775540	1786540	we modify the definition of mass itself. So, I replace m0 with mn star, n refers to electron.
+1786540	1791540	This is going to be a kind of protocol going forward. n refers to electron and t refers
+1791540	1796540	to hole. We will come to a hole in a short while. So, what refers to star? Star is the
+1796540	1798540	particle indicating that it's not your normal mass. It's an effective mass.

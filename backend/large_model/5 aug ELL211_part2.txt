@@ -1,0 +1,754 @@
+So d by 18 of mn star ve
+So ve is the same as before
+What I have done over here is
+I have stolen away the periodicity part
+So I say that I write another set of equations
+Where I modify the mass
+So that I can throw away a vector on the right hand side
+This is a mathematical operation
+How do you modify the mass?
+There are two ways in which people modify the mass
+One way is to actually do really complicated calculations
+Which we will go into later
+Once I have defined both notions of effective mass
+And the other which is always in this
+Measured mass
+How would you measure it?
+How would you measure it?
+That's what we don't do
+That's why we have kind of reduced this equation
+We don't want to go to the pathway of the first equation
+We are desperately trying to avoid that
+Yes
+An equation is made for a single electron
+Or it's for the mole of electron?
+This
+This equation
+Good question
+This question is
+The second equation is what I would call a statistical equation
+It refers to the average electron
+So you expect most electrons to follow this
+In that sense of an average
+And we can do statistical averaging
+Because we are starting with a very very large number
+Of 10 to the power 23 of those electrons
+Which is
+The requirement of statistics
+N represents electron
+N always represents electron
+Sub n always represents electron
+Okay so
+Yeah
+Sir what does direction define energy?
+Well your velocity is in a particular direction right?
+That was earlier also right?
+I am coming to that
+Coming to that
+So
+What is F periodic?
+Huh?
+F periodic
+F periodic is gone
+Where is F periodic?
+That is the whole reason we consider to be effective mass
+Oh okay
+Okay
+So what is the loss of simplicity?
+The mass is no longer a scalar now
+Let us think in a little bit
+Because we removed the periodicity so
+Mass is no longer a scalar
+You are in R3
+I will have to define a different mass for each direction
+Because
+Okay think about it this way
+You are moving in that direction
+You are moving in different directions
+Has a different set of inertia associated with it
+How do we understand mass?
+There is more scattering here
+I say okay I am not going to worry about scattering arising from periodic sources
+I am just going to lump it up into my
+In a measure of inertia in that direction
+So that is a direction dependence
+So that is a direction dependence
+So that is a direction dependence
+And this is what is known as a kinematic definition of effective mass
+There is going to be a different definition
+It is going to be slightly more complicated
+Unrelated to this
+But often leads to similar numbers
+But not always
+The reason we need to understand that
+But M star is a vector
+M star is not a vector
+It is a tensor
+So basically it is a 3 by 3 matrix in R3P
+All the matrixes have all the matrix properties
+Right but then there are also cross terms
+So whenever we talk about matrices
+We say that it is diagonalizable under certain terms
+So that you know you have got 0 above 0 at the bottom upper triangular lower triangular
+And then there are 3 scalars along the diagonal
+Similar to the vector matrix what we have
+But in this case you cannot throw away the cross terms
+It depends upon what kind of matrix actually you have got
+How does that matrix work?
+How does it look like?
+We are coming to that
+That is the project that allows me to present something
+Okay now let us shell the discussion for a bit
+And let me go into aspects which talk about construction of the lattice in the first place
+Because the second definition arises naturally from there
+Okay silicon atom
+Let us imagine a universe where a single silicon atom exists
+Okay
+Obviously we cannot exist in that universe
+Because we are not obligated in that
+The shell structure for silicon is 1s2, 2s2, 2p6, 3s2, 3p2
+We have seen this since I don't know 11th grade or something
+Let us count is that 14?
+Yeah 4 plus 6 plus 4
+So I have got these two
+What are the red and the blue lines?
+Anybody want to guess?
+Values?
+Singularity
+Singularity
+Yes
+Ground state and excited state
+Because we have one single atom here
+And the two atoms or rather you know the ion core is basically red
+Which is at the bottom
+And the signal electron which is free to move around is kind of shown schematically at the bottom
+Okay
+What is the red dot?
+What is the red dot?
+Red dot is the ion core
+Basically 14 protons and a certain number of neutrons club together
+What is the black dot?
+Yeah that is the black dot
+So what was the black?
+The black dot is the electron that we are talking about right?
+Oh
+Huh?
+Okay
+The red core is essentially the nucleus of silicon
+And the inner shell which don't participate in ground core
+We don't care about
+Everything except the valence shell
+Valence shell is what we are interested in
+Right?
+Okay
+Now let us now bring these two atoms closer to each other
+I think you have seen in 11th grade what happens
+Molecular orbital forms
+Right?
+And one of the properties of a molecular orbital are
+That each energy level splits into two
+Right?
+Bonding and anti-bonding
+The bonding being more stable and hence lower energy
+So the ground state splits into two
+Bonding and anti-bonding
+And the excited state splits into two
+So you have got four energy levels now
+So two atoms brought together lead to four energy levels
+I think we can start to see the beginning of a geometric sequence here
+Sir
+Yeah
+Let us just consider one of the four energy levels
+Yeah
+Just to simplify
+It will be too complicated to write four different
+Okay
+Now let us see what these states look like
+You have all seen this
+Atomic orbitals and how they form you know
+Molecular orbitals
+So there is an anti-bonding orbital which consists of a node
+On the line connecting the two atoms
+Sorry anti-node
+Anti-node right
+Because that is where the probability density is the minimum
+And the bonding orbital means that there is more effective sharing of the electron cloud
+Which forms a covalent bond
+Hence the term bonding
+And hence there is a node there
+So this is LCAOQ
+Kind of remember linear combination of atomic orbitals
+That picture
+Now let us bring in the number three
+What is the below part?
+Below part yeah
+So the below part is basically the energy levels of potential
+So each of these carriers carries different energy
+It is from the textbook
+It is pretty silly to take pictures according to the textbook
+So what is this?
+Why is there a well here?
+Huh?
+I mean the below part
+There are two iron cores right?
+The potential energy heads towards infinity
+As the electron gets closer
+So those two wells now that is in between
+That is you know basically a shallow barrier
+Okay
+Now let us bring in the number three
+Yeah
+So you had these four states adding in two more
+Eight
+So let us see what happens
+Eight
+Right
+So each splits into two again
+Now let us carry this process forward
+More atoms leads to more energy levels splitting
+And if you have molar atoms
+You can see this process you know
+Going forth
+And you basically get a quasi-continuum
+Which is
+Has a large separation in between
+So this is your band gap
+So conduction band on the top
+Which is constructor and bonding orbitals
+And the Williams band on the bottom
+Constructing of your bonding orbitals
+Okay
+Okay let us go back
+So more atoms lead to more energy levels splitting
+And you notice that
+You know
+The way these gaps are opening up
+As a result of that addition process
+If I have a large enough
+You know of course we cannot sit here and
+Go to four, five, six and count up to ten
+Partly three that is like silly
+But this is what it results in
+And these are bands
+And the difference between the energy level
+Of the lowest anti-bonding orbital
+And the highest bonding orbital
+Is known as the band gap
+Mind you I have not defined what the x-coordinate is
+Which is a different story
+Only the bicoordinate
+X-coordinate
+Yeah it does
+Massively
+In some sense understanding basic semi-character
+Is about understanding the x-coordinate
+Yeah
+You will figure out in a moment why
+Yeah
+Any questions
+So what
+So there are more energy levels above this
+Uh
+So essentially what is an anti-bonding orbital
+Where electrons don't have to go
+Because they have got higher energy
+So even from basic principles we can argue that
+Everything in blue over here is unoccupied
+Electrons don't have to go there
+So they don't have to come home
+In organic semiconductors for instance
+That is the term that is used
+Highest occupied molecular orbital or HOMO
+And lowest unoccupied molecular orbital
+That is LUMO
+But LUMO and HOMO are sharp levels in organics
+These are bands
+There is a difference
+Because in molecular systems
+You don't have very very strong interactions
+Between different various molecules
+That wonder why they interact with each other
+And hence as a result bands don't form
+Okay everybody understand where the band gap now comes from?
+No
+Silicon forms covalent bonds
+Gemini forms covalent bonds
+Most of the materials you come across
+Kalium nitrate whatever
+Forms covalent bonds
+Bands of this nature
+Or something very close to this will form
+But if we talk about organic semiconductors
+There is a different breed of semiconductors altogether
+ALQ3 for instance
+It is a complicated
+You know
+Are you capsized with a name which I don't care to remember or repeat?
+You just understand what that name is
+When you are writing down a paper
+Put it once in a bracket and then forget about it
+Is that kind of a name?
+I am not a chemist
+Those interactions between molecules and molecules are not covalent
+They are wonder walls
+Which means there are weak interactions
+Weak interactions means less of energy splitting
+Remember
+We have to bring atoms very very close to each other
+For this energy splitting argument to work
+If they remain far apart from each other
+Then the perturbation of one atom on the other
+Is going to be very very weak
+And as a result the splitting will not occur
+So that's why bands don't form in organic semiconductors
+So they basically behave as if they are like
+I would say the electrons move through them
+In a way of hopping transport
+So one side it has an escape probability
+It's like a trap
+Then go to the next trap
+Then go to the next trap
+So unsurprisingly the conductivity in organic molecules is off
+Much weaker than traditional semiconductors of this kind
+But anyhow that's what you are going to learn in organic
+Sir
+Yeah
+Sir so the valence band is essentially a bonding orbital
+Just like a continuous
+It forms a continuum because I got into it 23 years ago
+Of course there are subbands inside
+And we will learn about subbands later
+When we need to
+Because there is internal structure to these bands also
+But we will come to that a bit later
+Okay
+So in keeping with the earlier terminology
+Valence electrons live in valence band
+That they are tightly bound
+The K, L, M, shell etc
+While the conduction electrons which are relatively free to move around
+Live in the conduction band
+And the business of understanding how much is in each
+Will come from statistics
+So we will get to that later
+So another thing
+This is now color convention
+When it comes to doping
+I will be using similar colors here
+N is always represented as blue
+P is always represented as red
+And you will understand why in a moment
+Obviously crystal structure arises from minimization of energy
+All of you have seen this plot most likely
+Right
+Two atoms coming together
+And you know what is the energy of the electrons
+You know that are bound to that
+So for hydrogen for instance
+This energy minimization process leads to a bond length of around 74 picometers
+For silicon that number is different
+We have previously arrived at what 5 angstroms or something like that
+Something like that
+So each element has its own particular value
+And this is now the silicon band structure
+This is from your textbook again
+So it divides up
+So you see
+What is the x axis here?
+Anybody want to guess?
+Distance between the two atoms
+Yeah
+So if I constructed a virtual silicon crystal
+Where let's say the virtual is well advised over here
+Where the distance between neighboring silicon atoms was not 5 angstroms
+But was 10 angstroms
+Then my band structure would look different
+This is where real silicon exists
+This dashed line
+If I go further here then it would look a little bit like this
+But it's virtual because nature does not construct that material for us
+Because we have no way of keeping silicon atoms in any silicon crystal further apart than 5 angstroms
+Because of lower energy
+Yeah
+Every system seeks its lowest energy
+So it's not going to stay there
+But this is basically more like a mathematical model
+So what are those lines?
+Like at one point you have two lines
+Yeah
+So these are what are known as sub-bands
+Not very well defined here
+So that is why most people find this figure coming so soon
+The text local is a bit indigestible
+But I'm just telling you
+That there are two concepts here
+States and electrons
+At least we can agree on that
+States refers to an electron can exist here
+It doesn't mean that it will exist there
+It can exist here
+While on the other hand
+An electron is an electron
+It's either there or it's not there
+It's a binary choice
+So it's like the bonding electrons are there and electrons are there
+In the anti-bonding also electrons can be there
+But they're not usually there because they're anti-bonding orbitals to start with
+Like if I have a surplus of electrons then it will be there
+You'll have to be more clear about what you mean by surplus of electrons
+I mean like for silicon there are only 14 electrons
+So 4 electrons take place in this bonding-anti-bonding
+If I had say a different atom with say 18 electrons
+It'll also have a different band structure
+For the same
+If it had the same band structure then it would be okay
+But again then we're talking about a virtual material
+Yeah
+Okay
+So why is it always an integer multiple?
+Because we count electrons
+There's no such thing as 1.3 electrons
+So it's an integer multiple of the number of electrons
+I mean if you have zero electrons how can you have three minor states in the total state?
+See four n states means that there are that many places for electrons to go set
+But they're not sitting there at present
+Do these states have to be equal in the conduction band and valence band or are they different?
+They can be different, depends on your bandwidth
+It depends on how many bonding and what is the energy level difference between bonding and anti-bonding and etc.
+Again multiple depends completely
+But what is the use of this diagram if we cannot create such a diagram?
+The use of this diagram is for you to get an early flavour of that
+The concept of a state being available and the concept of an electron actually populating that state are two different ideas
+We will based on, you know, driven or motivated by this diagram calculate the number of states available
+And also the correspondence that is needed to populate those states
+The combination of the two will give us certain important quantities
+And that we want to possibly by next next lecture
+Sir but in this diagram the only part of the diagram that we ever will really work with is the
+The dashed line, the rest are all virtual materials
+The dashed line, the vertical dashed line, that is real silicon, the rest is all virtual silicon
+Right? Okay
+Sir how from the graph are we integrating this four n and three n at any specific point?
+Pardon?
+Yeah?
+Like if you take any point on this line, how are you integrating that?
+Okay there will be two n states, okay there will be four n states or something
+Because we are talking about fermions, right?
+Electrons up spin and down spin
+Yes
+So two states
+No I mean if you take any random point on this
+Yes
+Like there is no like order in this thing
+It would be like a state and then there will be something less than a state as you go along
+This is a continuum right?
+This is a continuum
+Yes
+So it could be anywhere in here right?
+No I mean you like they say it is four n states and then after that eight n states and then two n states
+So there is no order, so how are you pinpointing the number of
+Because that arises from silicon matter
+It is a result of a calculation, yes
+Sir also is there any concept of kind of on purpose pushing or pulling the silicon atoms
+In different distances for ideal value?
+Okay now you have raised an important question that you didn't mean to
+Strain silicon
+Like if I take silicon and I grow it on a substrate
+Which is lattice mismatched
+What will that do?
+Mismatched as an exfoliator
+Like it either has a lattice constant larger than five or smaller than five
+Compressive or tensile strain
+Which means that I will be constructing one of these virtual silicons there
+But at least within certain number of monolayers
+Because I know what happens when I go further away from the interface
+We already discussed it actually
+There it basically relaxes to bulk whether through formation dislocations or not
+Because
+Because silicon you cannot force a bulk
+Like a large piece of silicon into becoming virtual silicon of some sort
+It will only mean certain number of layers that is impacted by that
+Yes
+Sir in the previous diagram you actually
+You don't have to go back sir
+Like when we had bonding and anti-bonding
+There was a lower line for bonding electrons
+And the upper line
+So the two lines for the actual spacing that we have
+Where we have force n states
+And force n electrons
+Those are for the bonding ones
+Then there is the bandgap
+And then the upper two are for the anti-bonding ones
+Yeah so force n states and zero electrons
+Yeah
+Mind you force n states and zero electrons is something that would occur at absolute zero
+Where there is no energy available for the electrons to go up the production band
+You will discover that in like a couple of slides but I am just putting it out here
+In this graph here you can see what is a virtual silicon and what is a real silicon
+Dash line is the real silicon
+The vertical dash line
+That is it
+Because that is the lattice distance at which silicon condenses
+There is no other distance
+But there are three dash lines
+Oh they are just reference lines
+They were just showing okay that in that particular period there is no gap
+Pardon
+I think you are referring to this neck over here right
+Yeah
+So this is also a virtual silicon
+But importantly there is no bandgap
+So that is why it is indicated in that
+Sir is there
+What is the use for virtual silicon?
+I just mentioned
+You got a straight layer of silicon
+You will have to go
+That is how the moment created
+But are there like
+Oh yes
+The effective mass for instance is different for straight silicon
+You might need it for some application
+What about for a very small layer like say 10-20 layers of silicon
+Is it useful practically like can you build and you know
+I would say that almost all the modern devices basically they rely almost critically on those 10-20 layers
+The bulk does not matter
+Sir so the casual speed will be different in a screened or compressed silicon obviously
+They will have different mobilities different bandgap everything is different
+So which one actually has a faster speed is there like a general input or
+No
+So for instance it depends upon whether the scattering in that particular direction changes enough so as to go below the bulk silicon scattering or not
+Will depend upon the material how it is trained by how much it is trained
+And whether there are any dipole-dipole interactions because if the underlying material is polar
+It will have an influence it will lead to dipole scattering also
+So it is a complex question depends on each system
+Sir so we can does that actually math exist like is it
+Math is very hard
+See this is a case of where math is extremely hard but experiments are relatively easy
+And importantly they get you the result you want
+So yeah
+Sir so maybe we can come up with a theory to explain this
+It depends
+So how are these states defined there and I am not looking at that what is that important state
+But if I didn't show it to you you will understand exactly
+Sir why are in the left and the right half symmetric like there are two atoms that go in the middle
+Yeah
+So it is asymmetric because this is asymmetric
+But that would be same
+You never know
+Look this is the offshore distance
+So it is a measure of how close the two atoms get and how far away they go
+It is not whether I am making the lecture right
+I hope that is clear
+I am saying I have got an aggregator number of atoms
+Which come and condense at a distance r
+You never know
+Tell me what happens at a distance r
+That is what this diagram is
+I don't know
+I don't know
+I don't know
+I don't know
+I don't know
+I don't know
+I don't know
+This is the continuous
+I think this is the urgent
+This is the region
+Right
+N refers to the number of atoms that is
+Nobody asked me that question
+Well that comes
+. . . . . 다
+These back lines?
+These ones?
+So this is just a distance at which
+virtual silicon does not have a band.
+The property of the material at that particular distance.
+It is just that if I left things B,
+it would never condense into this form.
+But you could say
+that by going by the definition of metal
+that a silicon that condenses it
+with this interatomic distance
+would act as a metal.
+Is this enough?
+So what was N here?
+Well, there is no gap.
+It depends upon
+at what energy you are injecting carriers into it.
+If the energy is much below
+this level,
+then it will be insulated.
+If I am injecting anywhere above this,
+then that doesn't matter.
+But why doesn't silicon exist
+in that virtual region,
+but it exists after that virtual region?
+No, no.
+Silicon exists only at this line.
+Nowhere else.
+Everything else is virtual here.
+Okay.
+So can I construct silicon
+that is an iron
+and a fiber?
+See,
+first of all,
+the further away I go from this black line,
+the harder it becomes to construct that.
+Right?
+Everybody will give me that?
+So even if I do strained air epitaxy,
+I am not going to go very far away
+from that black line.
+So whether you can reach that neck region
+using strained air epitaxy,
+so far there are no reports.
+So what was the capital of the drop?
+Yeah.
+What was the number of?
+I don't understand.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+So another thing,
+because of the Williams band being
+a collection of
+random orbitals
+and the conduction band being a collection of
+anti-warning orbitals,
+at the dashed line,
+real silicon,
+six n states are in the 3T orbitals.
+We can do that.
+and 3s has 2n states
+because s orbital carries only 2
+so there is an asymmetry
+in the number of states available
+between valence and conduction
+in general
+that asymmetry will not show itself
+because
+as we will learn later when we change the x coordinate
+of this plot
+the energies that are needed to
+run into a case where these 2n or 6n
+are insufficient
+in general it won't arise
+the energies needed are just
+your silicon crystal will disintegrate
+before you get to 2n
+so let's say
+I start populating these states
+how much energy do I need
+to actually fill them all up
+more than the band gap
+because you see these states are in a continuum
+which means you need the band gap
+energy to reach the band edge
+I need more energy to go above that
+and that keeps on rising
+you will have the exact mathematical formula
+for that in a bit
+so counting of occupied and unoccupied states
+we have done
+so now let's define some basics
+of what you have learnt regarding band structure
+now here is where x coordinates
+of that plot become important
+I am going to draw
+2 different
+pictures here
+energy
+so the previous graph was also in the transformed space
+or that was in the non-real space
+no that was in real space
+I was in real space
+this is now in transformed space
+I am going to that
+so you see E versus R
+there is another way of actually plotting this
+that is in dual space
+E versus A
+now this is where x coordinates become dual space
+what question is this plot
+what information does this plot give you
+what is the energy of my electron
+versus the separation between the two atoms
+versus the separation between the two atoms
+or if I have already got a grain of silicon
+I have an electron
+I want to track its energy as it pops from atom to atom
+right
+but the thing is the electron is moving in real space
+here
+so this is known as
+band diagram
+it's important to get these terminologies right
+that's what a band diagram is
+this one is in dual space now
+E versus K
+this still
+if I ask myself the same question
+the information I would get from this particular
+you know
+plot would be
+how much energy does my electron have
+depending on how fast it is moving
+so what is the energy of the electron?
+not always
+not always
+not always
+I'll show you in a moment
+this plot assumes that the band
+I should put a name over here
+this particular plot is known as
+band structure
+band structure
+so band diagram and band structure have two different means
+only if I'm very very close to the minimum of the conduction band
+and I'll define that in a moment
+the further away I go that's no longer true
+okay
+now let's talk about a direct band gap semiconductor
+okay
+so it is traditional to locate the top of the valence band at equal to zero
+okay
+and we always draw this as well as this
+for increasing electron energies
+okay
+this is a convention
+this is a convention
+you can do it in any other way
+by the way it will be perfectly correct
+but you will have to add negative signs throughout your entire semiconductor
+everywhere
+see it's like a voltage right?
+if you multiply this with charge
+I actually get something that has the dimensions of a voltage

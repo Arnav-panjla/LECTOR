@@ -1,0 +1,351 @@
+I can either say that my energy of the electron is minus E times E, because the electron charge is negative,
+or I can say, okay, I'm going to forget about that negative sign, because it creates a mess for me,
+and I'm going to just write it as E times E.
+In semiconductors, we follow the E times E convention.
+I don't know of a single textbook or a published piece of scientific literature where people do it the other way around.
+But the connection band is drawn at the bottom.
+The reason is that we generally associate higher energies with anti-bonding orbitals.
+We just learned about that.
+And since we actually associate that, we want to retain the idea of electrons being promoted to higher energy levels
+as the system being in a higher energy state altogether.
+So the convention in some sense is forced.
+It comes from that natural requirement.
+But there's nothing special about that convention.
+It is just that this convention is so universal that it basically becomes a protocol.
+Okay.
+I locate the top of the Willans band at E equal to zero.
+If I draw my band diagram now for real silicon, to that dashed line that you had,
+my Willans band energy,
+would be constant as a function of R.
+Why?
+I am in the middle of the bulk silicon, right?
+My band gap should not change.
+I'm inside the same material.
+Would you put X mark over here?
+Hm?
+You are pulling an X mark over here.
+I'm just giving you one part of it.
+You'll see how radically different this is.
+Sure.
+Yeah.
+So can we say that when I am having, say, in a continuous space,
+I have two atoms, A and B,
+even if I am changing their relative distance,
+A and B and all such atoms exist at a distance that nature intended them to.
+Yes.
+So that means that distance is now fixed at five amps from the surface area.
+So when we are actually varying R, we are just actually changing the reference at the end.
+The coordinate of the electron that is free to move around.
+That's the purpose of this particular part.
+So R is the position of electron relative to the atoms?
+Any arbitrarily chosen atom.
+Because R equals zero in this case is not special.
+It's somewhere in the semiconductor.
+So where do we get to draw this diagram for ?
+Well, it's useful for calculating electron energies because that's all that we are doing here.
+So how do the electron energies distribute themselves?
+Both this and this .
+But there are different complementary pictures of that.
+That's the question.
+Okay.
+So band-iron, yes.
+Atom, you are talking about real silicon here.
+We are looking at the R coordinate of the electron.
+An electron that is free to move around.
+Now if it is in the valence band, it's not free to move around.
+It has the same energy no matter where you go in it.
+Yes.
+That is completely different from that.
+That R is different from this R.
+This is real silicon.
+That was real silicon along a line and then all possible mathematical possibilities of that silicon.
+There was a distance between the two silicon atoms.
+Here is the position vector of the electron.
+Is the position vector of the electron chosen from some other starting point?
+Okay.
+So the energy that I need to remain in the valence band,
+the highest energy at which I remain in the valence band is the same regardless of where I am in the bulb.
+Right?
+That's my bonding energy.
+Similarly, the energy,
+the minimum energy at which the electron becomes free to move
+is also the same regardless of where you are in the bulb.
+So the band diagram is actually pretty simple.
+It's two parallel lines.
+Everybody understood that?
+So can you explain the top line?
+This is E C.
+This is E V.
+But you said that E C varies as we go higher and higher in the conduction band.
+So there will be some bands here but we are not showing them.
+We are showing the lowest possible energy where the electron can become free.
+This is the band gap.
+This distance is the band gap.
+Any electron which is deeper in the bulb would have to go higher.
+It would have to pick up more energy or move more.
+Why don't we show the valence band and which is more negative,
+the deeper we go into the valence band?
+Yes.
+So within the bulb,
+for the electron is more or less the same.
+That is what this diagram is.
+That is the definition of bulk is.
+Yes, so that is what the diagram is.
+So the diagram is implicitly saying that every point in the bulb is equivalent.
+That is only for the bulb.
+At the surface, things change.
+We won't do that.
+You might say this is a pretty boring diagram.
+Why bother with this at all?
+It's just two parallel lines.
+The thing is devices don't consist of a single bulb.
+It consists of various things that are other than the bulb.
+Other materials that they interface may be two contacts or whatever.
+In which case,
+this diagram would actually have discontinuities at both places.
+And then,
+now I would become special by the way.
+Because how close or far away the electron is from that particular interface makes a difference.
+But in the bulb,
+it makes no difference whatsoever.
+Okay, now let's talk about K,
+which is a bit more interesting.
+Sir, suppose if we had any subband like above EC and below EV,
+what would that jump indicate,
+let's say,
+EV1 and EV3?
+That would just indicate that
+this electron,
+let's say somewhere there,
+is more strongly bound to the iron force,
+it is less likely to ever get promoted to being a free electron.
+Like an L-shell electron, for instance.
+So could it become free by just jumping into EC?
+Yeah.
+So then what is the significance of that EC button?
+EC is the lowest energy at which it can become free.
+So where it would go to?
+It would go to that same conduction band?
+It will go to the conduction band,
+or it could go to a point higher than that.
+There would be other subband to this side as well.
+That is very much different from this one.
+They have different energies,
+they have different mobilities.
+I will define that later.
+I spoke to some people.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+I think somebody was saying parabolas here, so we do that only takes place near the edge
+of the conduction band and we are in right there, so when you go far away it won't capture
+the number of parabolas.
+So I am drawing the conduction band now and this is where the real difference in silicon
+and other materials become different.
+Why does the energy decrease?
+No, energy increases.
+Energy increases because remember we are drawing this diagram for increasing electron energies,
+conduction band.
+In the valence band also the energies increase downwards.
+That means it is more strongly bound.
+But something else is less strongly bound and I have not defined that something else.
+So an electron down here will be more strongly bound.
+Sir, but then you know.
+When it is more strongly bound why is the momentum more for that?
+I will define this momentum in a bit and then it will become clear.
+The momentum is not your normal momentum, it is what is known as the crystal momentum
+but it is okay.
+Sir, so if I say that if I am moving towards the bulk or away from the bulk then only my
+k will change, right?
+Because when I am moving along the bulk why should my…
+Let me define k.
+I am not defining k for you here.
+What are the really important points?
+See, here I did not need to define r because everything was constant, right?
+And how many of you have watched Star Trek?
+One, two.
+You know the queue?
+You remember that episode where they have that infinite road?
+The road never ends.
+That is basically the r existence.
+It is very, very boring.
+Everything is the same everywhere.
+Okay.
+This is a little bit different.
+So this is the k.
+This is the k.
+This is the k.
+This is the k.
+This is the k.
+This is the k.
+This is the k.
+This is the k.
+This is the k.
+This is the k.
+This is the k.
+This is the k.
+This is the k.
+This is the k.
+This is the k.
+So this is a valence band.
+Now I define something known as first breline zone.
+I will write it down here so that you guys can know this.
+First.
+Okay?
+First breline zone, FEEZ.
+denken WOMAN 2
+This is the distance along positive k. By the way, this diagram is going to become significantly
+more complicated. Right one is very simple. It's k in this direction, but we'll make it
+more complicated in a bit. This is the distance of periodicity. This is the g vector that
+we were referring to when we first started talking about dual space. This is the mod
+of the g vector. Now, beyond this space, this diagram repeats itself. Now you understand
+how this k thing is constructed? Each refers to a unit cell in k space. How do you define
+a unit cell in k space? I think the unit cell in real space carry over its Fourier
+transform or x-ray diffraction or whatever you have, and then you write down the corresponding
+reciprocal relations here. Okay? So in that, as I get further and further away from the
+center of the unit cell, my momentum naturally increases. Because what's my natural tendency?
+You know, for a bound electron.
+Stay within, you know, the bound state. Why do you need to go too far?
+So could you please repeat what you used to say?
+So as long as I have a bound electron, I have a certain punishment involved in trying to
+stray too far away from my bound state. There's an energy barrier to overcome. So I need a
+higher and higher momentum to actually overcome that. To pick up enough speed. In some sense,
+you've got a neutron star and then there is a planet that is in its gravity. It requires
+a lot of energy to get out. It's something similar to that.
+Okay. Now how do I draw the conduction band? And this is where there's a little bit of
+a head-scratching moment. Have you heard of things called direct and indirect bandgap
+semiconductors? No? Okay. This diagram is what really defines that. I'll need to find
+that. Just motivate this discussion.
+If, if, notice the word if. My conduction band looks like this. If, where the bottom
+of the conduction band and the top of the band are at the same k coordinate, chosen
+to be k equal to zero for simplicity, then I have a direct bandgap semiconductor. Silicon
+is not a direct bandgap semiconductor.
+If the bottom of my conduction band and the top of my valence band are at the same k coordinate,
+which we choose for convenience to be k equal to zero, then I have a direct bandgap semiconductor.
+So what this statement says is that this is the bandgap then, because that's the definition
+of what bandgap is. Right? Now, for silicon, so this is, should probably be a little bit
+confused discussion otherwise.
+I go to 0.85 FBZ. 85% of the way to the edge of the unit cell. And I'm not a forward direction
+yet. The direction also matters. That complication will come later. I go up a distance EGR. From
+this point, I draw a vertical line.
+Wow.
+And look at that point. That's the bottom of the conduction band.
+It looks a little bit like this. My drawing is not so great, but yeah. That's silicon band
+structure with only two bands. You were saying x coordinate matters.
+Yeah, it does matter.
+Okay. Now what does this mean practically? I'm just going to close with this example.
+Which is basically answer a technological question for you. How do LEDs work?
+Inject an electron and inject a counter carrier, which I'm going to call a hole in a lecture
+or two. They recombine and they get a photon up. If k is momentum, this carrier at this
+is the bottom of the conduction band here. And this electron, which is at the top of
+the valence band here, has different momentum. How different? 0.85 FBZ. Your FBZ is the unit
+of momentum. Okay?
+Yes.
+What is the momentum of a photon?
+H by 3.
+Momentum. Not energy.
+H by lambda.
+Energy divided by C, right?
+Yes.
+What is C?
+Speed of light.
+Speed of light.
+How much? 2.992.
+Very large number. So what is the momentum of a photon?
+Close to 0. Right? Now, okay. I've got one particle here, one particle here. I want to
+combine them and create another particle known as a photon. I must have energy conservation,
+but I must also have momentum conservation.
+Yes.
+So, let's say an electron at momentum k have a basically, it's a hole, but okay,
+a counter carrier at momentum 0.
+Okay.
+Net momentum of the initial state is what? 0.85 FBZ.
+Half of it.
+Final state is the photon, which has an energy 0 momentum.
+Oh.
+I can't satisfy that equation. That is the reason why silicon does not make good LEDs.
+It goes back, it is basically the corollary of that thing I told you about earlier, that
+silicon can be used to do some things, silicon will be used to do some things. This is an
+example of the silicon cannot be used to do some things. This is why people bother about
+gallium arsenide, gallium nitride and other direct bandgaps and other like this.
+So, that's why you use direct conduction band rather than core .
+We have to. We have to. How else do we use it at some momentum? So, let's figure out
+a way how to do that. Let's say that my ideal direct bandgap points would have been here,
+but this is silicon, so it is not here. So, I would basically have to find the process
+which takes away that momentum from this electron and allows this recombination to take place.
+It's a pretty large momentum. And any horizontal transitions on this actually refer to something
+I mentioned right at the beginning of this lecture, they refer to as phonons. Now, if
+semiconductors have to do something like this.
+So, if you have phonons with large energies available to 0.85 xz, this process would
+happen. But phonon energies in most semiconductors are actually very, very small. They are in
+milli electron volts, not electron volts either. Yes.
+Sir, we could also like feasibly maybe combine like an electron along a vertical
+grid. Is that also considered unfeasible? So, you see, if I extend this band further
+by the way. Is that energy considered unfeasible? That energy is very, very high.
+Okay.
+I mean, yes, you could get like extreme UV emission or something, a deep UV emission
+from silicon, but the efficiency would be so poor that it would not be worth making it.
+So, anyhow, we will continue this very interesting discussion next time.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
